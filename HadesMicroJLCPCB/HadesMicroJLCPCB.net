@@ -1,0 +1,4213 @@
+(export 
+  (version "D")
+  (design
+    (source "HadesMicroJLCPCB.py")
+    (date "06/09/2026 03:36 AM")
+    (tool "SKiDL (2.2.3)")
+    (sheet
+      (number 1)
+      (name "/")
+      (tstamps "/")
+      (title_block
+        (title)
+        (company)
+        (rev)
+        (date)
+        (source "HadesMicroJLCPCB.py")
+        (comment
+          (number "1")
+          (value ""))
+        (comment
+          (number "2")
+          (value ""))
+        (comment
+          (number "3")
+          (value ""))
+        (comment
+          (number "4")
+          (value ""))
+        (comment
+          (number "5")
+          (value ""))
+        (comment
+          (number "6")
+          (value ""))
+        (comment
+          (number "7")
+          (value ""))
+        (comment
+          (number "8")
+          (value ""))
+        (comment
+          (number "9")
+          (value "")))))
+  (components
+    (comp
+      (ref "BOOT1")
+      (value "TDD01H0SB1R")
+      (description "")
+      (footprint "TDD01H0SB1R:SOT175P420X230-3N")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "TDD01H0SB1R:SOT175P420X230-3N")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "xZ5OeEzbK0")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:190"))
+      (libsource
+        (lib "NO_LIB")
+        (part "TDD01H0SB1R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "4aab59c0-1dff-5dd3-b039-7ac64e37af74"))
+    (comp
+      (ref "BOOT2")
+      (value "TDD01H0SB1R")
+      (description "")
+      (footprint "TDD01H0SB1R:SOT175P420X230-3N")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "TDD01H0SB1R:SOT175P420X230-3N")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "jH0PxmFOkk")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:197"))
+      (libsource
+        (lib "NO_LIB")
+        (part "TDD01H0SB1R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "26dff167-1c44-53a6-862b-ea0a965e7beb"))
+    (comp
+      (ref "C1")
+      (value "1u")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "jqGxrukSVK")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:204"))
+      (libsource
+        (lib "NO_LIB")
+        (part "1u"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "3a2d59ce-1e85-5768-8191-e5560dc36676"))
+    (comp
+      (ref "C10")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "0sCVL6h7Nn")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:267"))
+      (libsource
+        (lib "NO_LIB")
+        (part "100n"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "b883458d-9316-50af-a684-9c20fc6520e6"))
+    (comp
+      (ref "C11")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "Dstwhtylbk")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:274"))
+      (libsource
+        (lib "NO_LIB")
+        (part "100n"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "01bcfe51-2bdd-55b8-853b-ed7b11b3fb5e"))
+    (comp
+      (ref "C12")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "mtfy6bc4b1")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:281"))
+      (libsource
+        (lib "NO_LIB")
+        (part "100n"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "1e8cc22f-5421-5f94-972e-276b8110558e"))
+    (comp
+      (ref "C13")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "W_sYrVBKSB")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:288"))
+      (libsource
+        (lib "NO_LIB")
+        (part "100n"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "7e536546-a78b-5f4d-9ad8-b74967db6e80"))
+    (comp
+      (ref "C14")
+      (value "2u2")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "_xpe3t1vq5")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:295"))
+      (libsource
+        (lib "NO_LIB")
+        (part "2u2"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "9d9c90d7-ad9f-5a2d-8c29-71fbf5506ca9"))
+    (comp
+      (ref "C15")
+      (value "2u2")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "Xf5f2Ou35U")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:302"))
+      (libsource
+        (lib "NO_LIB")
+        (part "2u2"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "0bd64fa7-8aae-52ca-9876-487f68c5a33e"))
+    (comp
+      (ref "C16")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "pHA5o0ErTQ")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:309"))
+      (libsource
+        (lib "NO_LIB")
+        (part "100n"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "48945cb9-156e-5e47-9075-78ff2aa9bdcc"))
+    (comp
+      (ref "C17")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "b8mtSWSA2W")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:316"))
+      (libsource
+        (lib "NO_LIB")
+        (part "100n"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "40b1824f-c4d5-501e-a913-e861c327d95d"))
+    (comp
+      (ref "C18")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "FKWZRGxs6P")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:323"))
+      (libsource
+        (lib "NO_LIB")
+        (part "100n"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "40bc5629-19cf-5a4f-9803-e1d1aee23323"))
+    (comp
+      (ref "C19")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "lKwPYvbX2a")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:330"))
+      (libsource
+        (lib "NO_LIB")
+        (part "100n"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "1d88d4aa-c7a0-5f24-b263-8572d06ee7ca"))
+    (comp
+      (ref "C2")
+      (value "1u")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "vpXUQbxvy3")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:211"))
+      (libsource
+        (lib "NO_LIB")
+        (part "1u"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "aee88fc1-8651-56e6-bf9a-4c3f9b059cd2"))
+    (comp
+      (ref "C20")
+      (value "10p")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "_mv7jRzU3D")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:337"))
+      (libsource
+        (lib "NO_LIB")
+        (part "10p"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "e7155000-9651-5e5f-9399-15b28cacbc25"))
+    (comp
+      (ref "C21")
+      (value "10p")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "6BSQzRkNIV")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:344"))
+      (libsource
+        (lib "NO_LIB")
+        (part "10p"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "4b13e8dc-c4ce-5d2f-a32f-3e665c8eeecb"))
+    (comp
+      (ref "C22")
+      (value "1u")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "c9SweIBQFp")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:351"))
+      (libsource
+        (lib "NO_LIB")
+        (part "1u"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "dfbb7447-47d9-5ccb-aabb-3c8be65e1e20"))
+    (comp
+      (ref "C23")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "L3lTogyJ0q")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:358"))
+      (libsource
+        (lib "NO_LIB")
+        (part "100n"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "174bfb0e-8dcd-59f9-93e2-5b94fcc26262"))
+    (comp
+      (ref "C24")
+      (value "1n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "V4kb_QgvOq")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:365"))
+      (libsource
+        (lib "NO_LIB")
+        (part "1n"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "4349155e-26de-5e72-97f6-ccc45f086973"))
+    (comp
+      (ref "C25")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "QyEL1Joj9f")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:372"))
+      (libsource
+        (lib "NO_LIB")
+        (part "100n"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "a38dc5fb-e66a-5924-a8af-8f1a11a6db75"))
+    (comp
+      (ref "C26")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "Iw1I3zFO6S")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:379"))
+      (libsource
+        (lib "NO_LIB")
+        (part "100n"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "c80b722f-256b-5089-8bdd-ea368e09806a"))
+    (comp
+      (ref "C27")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "4BYAo9Io16")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:386"))
+      (libsource
+        (lib "NO_LIB")
+        (part "100n"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "4b583e3b-a721-559c-adf5-9930439d2a24"))
+    (comp
+      (ref "C28")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "PyG2vwpUju")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:393"))
+      (libsource
+        (lib "NO_LIB")
+        (part "100n"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "ca5a5d2f-44a0-5dec-8a63-cd7f9fb3d65d"))
+    (comp
+      (ref "C29")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "6CwH5UP9mp")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:400"))
+      (libsource
+        (lib "NO_LIB")
+        (part "100n"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "94042c0a-f0ed-58eb-b25a-41397e61f8fd"))
+    (comp
+      (ref "C3")
+      (value "10u")
+      (description "")
+      (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0603_1608Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "d3PijI2ANl")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:218"))
+      (libsource
+        (lib "NO_LIB")
+        (part "10u"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "72a658ce-1bc2-5fa6-b2ff-84999b20adf7"))
+    (comp
+      (ref "C30")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "ktYqEefu6r")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:407"))
+      (libsource
+        (lib "NO_LIB")
+        (part "100n"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "64a7f662-dcbb-51f1-9785-8f8ef2a7f3a4"))
+    (comp
+      (ref "C4")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "zze7vTepad")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:225"))
+      (libsource
+        (lib "NO_LIB")
+        (part "100n"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "9b1c9fde-656f-5ebc-ae71-55a126b89a1b"))
+    (comp
+      (ref "C5")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "f4okkRfVko")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:232"))
+      (libsource
+        (lib "NO_LIB")
+        (part "100n"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "cb71ae3e-9f51-5b87-839d-976e32d965a7"))
+    (comp
+      (ref "C6")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "04E2xSWxde")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:239"))
+      (libsource
+        (lib "NO_LIB")
+        (part "100n"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "a3a26fa3-0f60-5312-bfda-da1e0f7f1fcd"))
+    (comp
+      (ref "C7")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "urICZ9Ulxi")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:246"))
+      (libsource
+        (lib "NO_LIB")
+        (part "100n"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "7ed5e9b4-8454-535e-a96d-a140ea838373"))
+    (comp
+      (ref "C8")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "aARq9AbHZh")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:253"))
+      (libsource
+        (lib "NO_LIB")
+        (part "100n"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "1ea3272d-1ae4-5625-b5b4-ac49ac3eb921"))
+    (comp
+      (ref "C9")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "jEtNNH6GKk")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:260"))
+      (libsource
+        (lib "NO_LIB")
+        (part "100n"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "c20568f8-6f04-5d26-a8f4-b04158b10fc2"))
+    (comp
+      (ref "D1")
+      (value "D_Schottky")
+      (description "")
+      (footprint "Diode_SMD:D_SOD-323")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Diode_SMD:D_SOD-323")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "60GEomh4_r")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:414"))
+      (libsource
+        (lib "NO_LIB")
+        (part "D_Schottky"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "3560f914-464e-5488-a7e0-10acb84af184"))
+    (comp
+      (ref "D2")
+      (value "GR")
+      (description "")
+      (footprint "LED_SMD:LED_0603_1608Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "LED_SMD:LED_0603_1608Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "Ko5nPQlEeG")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:421"))
+      (libsource
+        (lib "NO_LIB")
+        (part "GR"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "7ac00b3f-142a-5894-90c6-484ec364e3fe"))
+    (comp
+      (ref "D3")
+      (value "RE")
+      (description "")
+      (footprint "LED_SMD:LED_0603_1608Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "LED_SMD:LED_0603_1608Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "5aEUFcg1D3")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:428"))
+      (libsource
+        (lib "NO_LIB")
+        (part "RE"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "0a35593e-b3a9-528a-a456-81593d0d95f7"))
+    (comp
+      (ref "D4")
+      (value "BL")
+      (description "")
+      (footprint "LED_SMD:LED_0603_1608Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "LED_SMD:LED_0603_1608Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "M9fmnI2ZCJ")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:435"))
+      (libsource
+        (lib "NO_LIB")
+        (part "BL"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "8f0bedf6-2740-5def-a570-83b03e23bc1d"))
+    (comp
+      (ref "D5")
+      (value "BL")
+      (description "")
+      (footprint "LED_SMD:LED_0603_1608Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "LED_SMD:LED_0603_1608Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "hYrOdUgm6G")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:442"))
+      (libsource
+        (lib "NO_LIB")
+        (part "BL"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "fb440aeb-7d93-5a96-a7e6-c46b0a859af3"))
+    (comp
+      (ref "D6")
+      (value "D_Schottky")
+      (description "")
+      (footprint "Diode_SMD:D_SOD-323")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Diode_SMD:D_SOD-323")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "uSgOM6X3Dl")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:449"))
+      (libsource
+        (lib "NO_LIB")
+        (part "D_Schottky"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "06268456-1404-55ca-a1ef-56f4a4e14b3d"))
+    (comp
+      (ref "D7")
+      (value "YE")
+      (description "")
+      (footprint "LED_SMD:LED_0603_1608Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "LED_SMD:LED_0603_1608Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "O1JWJLwvMs")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:456"))
+      (libsource
+        (lib "NO_LIB")
+        (part "YE"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "cc802dc3-3427-5298-a0de-2cdfc462ac1f"))
+    (comp
+      (ref "F1")
+      (value "Fuse")
+      (description "")
+      (footprint "Fuse:Fuse_0603_1608Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Fuse:Fuse_0603_1608Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "K5j1lHBCMo")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:463"))
+      (libsource
+        (lib "NO_LIB")
+        (part "Fuse"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "739823b4-d465-5ff1-bbaf-925939249c2c"))
+    (comp
+      (ref "FB1")
+      (value "FB_Small")
+      (description "")
+      (footprint "Inductor_SMD:L_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Inductor_SMD:L_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "DXRwDYCrtb")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:470"))
+      (libsource
+        (lib "NO_LIB")
+        (part "FB_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "6b377a16-436a-5bee-9bbf-4238973e89b9"))
+    (comp
+      (ref "FB2")
+      (value "FB_Small")
+      (description "")
+      (footprint "Inductor_SMD:L_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Inductor_SMD:L_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "lxIFtks4mh")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:477"))
+      (libsource
+        (lib "NO_LIB")
+        (part "FB_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "5f383fae-5640-5e38-9d8d-3a15fa25df62"))
+    (comp
+      (ref "FLASH1")
+      (value "W25N01GVZEIG_TR")
+      (description "")
+      (footprint "W25N01GVZEIG_TR:SON127P800X600X80-9N-D")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "W25N01GVZEIG_TR:SON127P800X600X80-9N-D")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "i4r9dxsDnX")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:484"))
+      (libsource
+        (lib "NO_LIB")
+        (part "W25N01GVZEIG_TR"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "81143817-df12-512f-8009-d2344044227e"))
+    (comp
+      (ref "GPS1")
+      (value "Conn_01x04")
+      (description "")
+      (footprint "Connector_Molex:Molex_PicoBlade_53048-0410_1x04_P1.25mm_Horizontal")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Connector_Molex:Molex_PicoBlade_53048-0410_1x04_P1.25mm_Horizontal")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "i_KFJaPDNz")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:491"))
+      (libsource
+        (lib "NO_LIB")
+        (part "Conn_01x04"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "4de8f6b6-f9eb-5e41-a321-130a609faf89"))
+    (comp
+      (ref "HSE1")
+      (value "16MHz")
+      (description "")
+      (footprint "Crystal:Crystal_SMD_Abracon_ABM8G-4Pin_3.2x2.5mm")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Crystal:Crystal_SMD_Abracon_ABM8G-4Pin_3.2x2.5mm")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "Zvh6k45ZpB")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:498"))
+      (libsource
+        (lib "NO_LIB")
+        (part "16MHz"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "9983d401-194c-597f-88ef-e5858ed4a1f1"))
+    (comp
+      (ref "I2C1")
+      (value "Conn_01x04")
+      (description "")
+      (footprint "Connector_Molex:Molex_PicoBlade_53048-0410_1x04_P1.25mm_Horizontal")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Connector_Molex:Molex_PicoBlade_53048-0410_1x04_P1.25mm_Horizontal")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "0Ru9pxamx_")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:505"))
+      (libsource
+        (lib "NO_LIB")
+        (part "Conn_01x04"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "4133542d-20e8-5d3d-b114-e5dd5e9a4d0f"))
+    (comp
+      (ref "IC1")
+      (value "MPRLS0015PA0000SA")
+      (description "")
+      (footprint "MPRLS0015PA0000SA:MPRLS0015PA0000SA")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "MPRLS0015PA0000SA:MPRLS0015PA0000SA")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "5dHyXKF6Bn")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:512"))
+      (libsource
+        (lib "NO_LIB")
+        (part "MPRLS0015PA0000SA"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "2e67a6d7-297a-58d5-863d-5a41bc7bd3d3"))
+    (comp
+      (ref "IMU1")
+      (value "BMX055")
+      (description "")
+      (footprint "BMX055:LGA_PACKAGE_20_PINS")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "BMX055:LGA_PACKAGE_20_PINS")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "VtXxJr6tSA")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:519"))
+      (libsource
+        (lib "NO_LIB")
+        (part "BMX055"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "5773f39a-bddf-50ec-b365-2b6964c8befe"))
+    (comp
+      (ref "JP1")
+      (value "Jumper_NO_Small")
+      (description "")
+      (footprint "Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "9_HF6XhIbq")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:526"))
+      (libsource
+        (lib "NO_LIB")
+        (part "Jumper_NO_Small"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "6a15e55d-4ce2-5f17-91fb-46abedad7ed3"))
+    (comp
+      (ref "MCU1")
+      (value "STM32F405RGT6")
+      (description "")
+      (footprint "Package_QFP:LQFP-64_10x10mm_P0.5mm")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Package_QFP:LQFP-64_10x10mm_P0.5mm")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "Vb0VORwIGi")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:533"))
+      (libsource
+        (lib "NO_LIB")
+        (part "STM32F405RGT6"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "f6dabd52-5804-551b-8aa3-9e4b6568abf9"))
+    (comp
+      (ref "PWM_PWR1")
+      (value "Conn_02x08_Odd_Even")
+      (description "")
+      (footprint "Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "7RlXRLi34A")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:540"))
+      (libsource
+        (lib "NO_LIB")
+        (part "Conn_02x08_Odd_Even"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "a823797d-d57c-55f8-be69-686fbb84db6a"))
+    (comp
+      (ref "PWM_SIGNAL1")
+      (value "Conn_01x08")
+      (description "")
+      (footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "3F4BfpdlRS")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:547"))
+      (libsource
+        (lib "NO_LIB")
+        (part "Conn_01x08"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "59472597-99a1-5a46-9806-08c9c8e84f6c"))
+    (comp
+      (ref "PWR1")
+      (value "GR")
+      (description "")
+      (footprint "LED_SMD:LED_0603_1608Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "LED_SMD:LED_0603_1608Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "0J90xwcvB5")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:554"))
+      (libsource
+        (lib "NO_LIB")
+        (part "GR"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "929996b1-09b6-5199-a032-ef7d123d1289"))
+    (comp
+      (ref "R1")
+      (value "2k2")
+      (description "")
+      (footprint "Resistor_SMD:R_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "19Vdym7XHu")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:561"))
+      (libsource
+        (lib "NO_LIB")
+        (part "2k2"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "6f9acc60-87a5-5cf0-a008-de5290e9c3b2"))
+    (comp
+      (ref "R10")
+      (value "470")
+      (description "")
+      (footprint "Resistor_SMD:R_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "QuNXnnRS9S")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:624"))
+      (libsource
+        (lib "NO_LIB")
+        (part "470"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "0b844c48-6264-54e1-99d6-6bd331ac316d"))
+    (comp
+      (ref "R11")
+      (value "22")
+      (description "")
+      (footprint "Resistor_SMD:R_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "RAqa_Ow_Vh")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:631"))
+      (libsource
+        (lib "NO_LIB")
+        (part "22"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "7ab28479-0084-5216-ad1b-f7bb367da7e7"))
+    (comp
+      (ref "R12")
+      (value "10k")
+      (description "")
+      (footprint "Resistor_SMD:R_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "LcTIIUvixE")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:638"))
+      (libsource
+        (lib "NO_LIB")
+        (part "10k"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "3c168547-76fb-5209-a3e7-c1a418060ea2"))
+    (comp
+      (ref "R13")
+      (value "22")
+      (description "")
+      (footprint "Resistor_SMD:R_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "J5iOeZzq59")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:645"))
+      (libsource
+        (lib "NO_LIB")
+        (part "22"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "db847ba6-a05c-55b9-b824-2ebecae164d2"))
+    (comp
+      (ref "R14")
+      (value "10k")
+      (description "")
+      (footprint "Resistor_SMD:R_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "YYUd2NsDB1")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:652"))
+      (libsource
+        (lib "NO_LIB")
+        (part "10k"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "c6abfd01-0d8d-5b22-8234-72116f11c185"))
+    (comp
+      (ref "R15")
+      (value "2k2")
+      (description "")
+      (footprint "Resistor_SMD:R_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "9Hp73MJbc6")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:659"))
+      (libsource
+        (lib "NO_LIB")
+        (part "2k2"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "b0cb312e-7758-59f0-b743-45f38fb7645f"))
+    (comp
+      (ref "R16")
+      (value "10k")
+      (description "")
+      (footprint "Resistor_SMD:R_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "JwBLCdaBTo")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:666"))
+      (libsource
+        (lib "NO_LIB")
+        (part "10k"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "202c8bcd-9954-5ae4-8567-e7b3a020836c"))
+    (comp
+      (ref "R17")
+      (value "10k")
+      (description "")
+      (footprint "Resistor_SMD:R_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "ZIJjvN6LNN")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:673"))
+      (libsource
+        (lib "NO_LIB")
+        (part "10k"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "d4ef79fa-4b7a-598c-bf25-d4d34d4ba7f8"))
+    (comp
+      (ref "R2")
+      (value "2k2")
+      (description "")
+      (footprint "Resistor_SMD:R_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "nwsy4QPven")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:568"))
+      (libsource
+        (lib "NO_LIB")
+        (part "2k2"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "7263549d-3552-53c2-96b4-71f44da4ac3d"))
+    (comp
+      (ref "R3")
+      (value "1k")
+      (description "")
+      (footprint "Resistor_SMD:R_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "PJdzBDfObz")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:575"))
+      (libsource
+        (lib "NO_LIB")
+        (part "1k"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "02ba0e63-ab26-527f-9463-3cf9f4914c59"))
+    (comp
+      (ref "R4")
+      (value "1k")
+      (description "")
+      (footprint "Resistor_SMD:R_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "CUstEJPqO7")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:582"))
+      (libsource
+        (lib "NO_LIB")
+        (part "1k"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "83a664d5-e01f-5b33-99a6-8fde013ac6e5"))
+    (comp
+      (ref "R5")
+      (value "1k")
+      (description "")
+      (footprint "Resistor_SMD:R_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "QzGpd4Rgpe")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:589"))
+      (libsource
+        (lib "NO_LIB")
+        (part "1k"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "fd53074b-d59a-579b-9fc8-791ae741f8c6"))
+    (comp
+      (ref "R6")
+      (value "2k2")
+      (description "")
+      (footprint "Resistor_SMD:R_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "REOf8y8z_2")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:596"))
+      (libsource
+        (lib "NO_LIB")
+        (part "2k2"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "49064a36-c409-50e1-a771-d0fab12df547"))
+    (comp
+      (ref "R7")
+      (value "2k2")
+      (description "")
+      (footprint "Resistor_SMD:R_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "BMmeUSaIfu")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:603"))
+      (libsource
+        (lib "NO_LIB")
+        (part "2k2"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "7e1f5b00-e7cc-5efa-a93f-2a7aa2ccde5a"))
+    (comp
+      (ref "R8")
+      (value "2k2")
+      (description "")
+      (footprint "Resistor_SMD:R_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "N1QDWppMOK")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:610"))
+      (libsource
+        (lib "NO_LIB")
+        (part "2k2"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "7e09e2e6-c50e-57d4-816c-553be42f70b8"))
+    (comp
+      (ref "R9")
+      (value "2k2")
+      (description "")
+      (footprint "Resistor_SMD:R_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "vcxT0eT4j5")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:617"))
+      (libsource
+        (lib "NO_LIB")
+        (part "2k2"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "8b7ef3ba-7343-5b05-bdb5-e5b700f9d25d"))
+    (comp
+      (ref "RC1")
+      (value "Conn_01x04")
+      (description "")
+      (footprint "Connector_Molex:Molex_PicoBlade_53048-0410_1x04_P1.25mm_Horizontal")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Connector_Molex:Molex_PicoBlade_53048-0410_1x04_P1.25mm_Horizontal")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "ZSNHX6Dp4J")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:680"))
+      (libsource
+        (lib "NO_LIB")
+        (part "Conn_01x04"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "df66e44d-0aab-5fc1-82f1-6b7ece0c09c7"))
+    (comp
+      (ref "RESET1")
+      (value "SKRPANE010")
+      (description "")
+      (footprint "SKRPANE010:SKRPADE010")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "SKRPANE010:SKRPADE010")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "PoHYh3zSZk")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:687"))
+      (libsource
+        (lib "NO_LIB")
+        (part "SKRPANE010"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "cbfaf641-4078-5caa-b19b-4dfb9aaa656c"))
+    (comp
+      (ref "SBUS1")
+      (value "Conn_01x04")
+      (description "")
+      (footprint "Connector_Molex:Molex_PicoBlade_53048-0410_1x04_P1.25mm_Horizontal")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Connector_Molex:Molex_PicoBlade_53048-0410_1x04_P1.25mm_Horizontal")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "BtcysCkd1e")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:694"))
+      (libsource
+        (lib "NO_LIB")
+        (part "Conn_01x04"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "fb497fa6-c680-5f45-b840-f39eed2027ad"))
+    (comp
+      (ref "SERVO1")
+      (value "TrmnlBlck")
+      (description "")
+      (footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "uE6Tzbsh9v")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:701"))
+      (libsource
+        (lib "NO_LIB")
+        (part "TrmnlBlck"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "0bed9766-4d2e-538a-9029-c3fc4e995a3e"))
+    (comp
+      (ref "SWD1")
+      (value "Conn_02x05_Counter_Clockwise")
+      (description "")
+      (footprint "Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical_SMD")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical_SMD")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "hFMUK6O3mZ")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:708"))
+      (libsource
+        (lib "NO_LIB")
+        (part "Conn_02x05_Counter_Clockwise"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "a5de7902-d4a7-55fe-8fe7-c64562c1ae39"))
+    (comp
+      (ref "TELEM1")
+      (value "Conn_01x04")
+      (description "")
+      (footprint "Connector_Molex:Molex_PicoBlade_53048-0410_1x04_P1.25mm_Horizontal")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Connector_Molex:Molex_PicoBlade_53048-0410_1x04_P1.25mm_Horizontal")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "Cb9eK_STdj")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:715"))
+      (libsource
+        (lib "NO_LIB")
+        (part "Conn_01x04"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "63b11a86-5290-57f9-a0bf-fa215188d9e7"))
+    (comp
+      (ref "U1")
+      (value "AP2112K-3.3")
+      (description "")
+      (footprint "Package_TO_SOT_SMD:SOT-23-5")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Package_TO_SOT_SMD:SOT-23-5")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "6yoi0lJsnr")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:722"))
+      (libsource
+        (lib "NO_LIB")
+        (part "AP2112K-3.3"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "d162b6d3-19e5-5cf3-bcf4-8b07d232ee0d"))
+    (comp
+      (ref "U2")
+      (value "PCA9685PW")
+      (description "")
+      (footprint "Package_SO:TSSOP-28_4.4x9.7mm_P0.65mm")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Package_SO:TSSOP-28_4.4x9.7mm_P0.65mm")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "RgvYssgAXr")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:729"))
+      (libsource
+        (lib "NO_LIB")
+        (part "PCA9685PW"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "c687462a-e7d2-58f3-8bfa-6d32ae1f5290"))
+    (comp
+      (ref "U3")
+      (value "CAT24C256")
+      (description "")
+      (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "N0EnX92tfp")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:736"))
+      (libsource
+        (lib "NO_LIB")
+        (part "CAT24C256"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "61849dc8-1f28-5d36-987d-67bd9a57cec3"))
+    (comp
+      (ref "U4")
+      (value "USBLC6-2SC6")
+      (description "")
+      (footprint "Package_TO_SOT_SMD:SOT-23-6")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Package_TO_SOT_SMD:SOT-23-6")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "E3JNOzMuXi")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:743"))
+      (libsource
+        (lib "NO_LIB")
+        (part "USBLC6-2SC6"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "e82ba375-154d-5b0e-85ec-ec25ee3d513e"))
+    (comp
+      (ref "U5")
+      (value "74AHC1GU04GW,125")
+      (description "")
+      (footprint "74AHC1GU04GW_125:SOT65P212X110-5N")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "74AHC1GU04GW_125:SOT65P212X110-5N")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "gX0qzH2Xo_")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:750"))
+      (libsource
+        (lib "NO_LIB")
+        (part "74AHC1GU04GW,125"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "5ca21f8b-4c8b-5a19-b2e2-ae5f0a32bc4a"))
+    (comp
+      (ref "U6")
+      (value "CH340E")
+      (description "")
+      (footprint "CH340E:MSOP10")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "CH340E:MSOP10")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "qDADbIc2el")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:757"))
+      (libsource
+        (lib "NO_LIB")
+        (part "CH340E"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "ab15aef0-cc3e-527a-9a8e-81ad2e0afe53"))
+    (comp
+      (ref "USB1")
+      (value "USB_B_Micro")
+      (description "")
+      (footprint "Connector_USB:USB_Micro-B_Wuerth_629105150521_CircularHoles")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Connector_USB:USB_Micro-B_Wuerth_629105150521_CircularHoles")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "8LGCZPWNPH")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:764"))
+      (libsource
+        (lib "NO_LIB")
+        (part "USB_B_Micro"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "6f3d6fab-1d97-5de9-b693-65bea4771254"))
+    (comp
+      (ref "VIN1")
+      (value "Conn_01x02")
+      (description "")
+      (footprint "Connector_Molex:Molex_PicoBlade_53048-0210_1x02_P1.25mm_Horizontal")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Connector_Molex:Molex_PicoBlade_53048-0210_1x02_P1.25mm_Horizontal")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "gyBvO05d58")
+        (field
+          (name "SKiDL Line") "HadesMicroJLCPCB.py:771"))
+      (libsource
+        (lib "NO_LIB")
+        (part "Conn_01x02"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "3ed28a85-4637-5bd5-bd6b-166bfe05c01c")))
+  (nets
+    (net
+      (code 1)
+      (name "+3V3")
+      (class "Default")
+      (node
+        (ref "BOOT1")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "BOOT2")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C10")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C11")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C12")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C13")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C16")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C18")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C19")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C2")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C25")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C27")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C28")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C29")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C3")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C4")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C5")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C6")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C7")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C8")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C9")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "FB2")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "FLASH1")
+        (pin "8")
+        (pintype "POWER-IN"))
+      (node
+        (ref "GPS1")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "I2C1")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "IC1")
+        (pin "12")
+        (pintype "POWER-IN"))
+      (node
+        (ref "IMU1")
+        (pin "13")
+        (pintype "POWER-IN"))
+      (node
+        (ref "IMU1")
+        (pin "3")
+        (pintype "POWER-IN"))
+      (node
+        (ref "MCU1")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "PWR1")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "R12")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "R14")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "R6")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "R7")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "R8")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "R9")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "SBUS1")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "SWD1")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "TELEM1")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U1")
+        (pin "5")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U2")
+        (pin "28")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U3")
+        (pin "8")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U5")
+        (pin "5")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U6")
+        (pin "7")
+        (pintype "POWER-IN")))
+    (net
+      (code 2)
+      (name "BAR_NRST")
+      (class "Default")
+      (node
+        (ref "IC1")
+        (pin "9")
+        (pintype "POWER-IN")))
+    (net
+      (code 3)
+      (name "BOOT0")
+      (class "Default")
+      (node
+        (ref "R16")
+        (pin "2")
+        (pintype "POWER-IN")))
+    (net
+      (code 4)
+      (name "BOOT1")
+      (class "Default")
+      (node
+        (ref "R17")
+        (pin "2")
+        (pintype "POWER-IN")))
+    (net
+      (code 5)
+      (name "FLASH_!H")
+      (class "Default")
+      (node
+        (ref "FLASH1")
+        (pin "7")
+        (pintype "POWER-IN"))
+      (node
+        (ref "R14")
+        (pin "1")
+        (pintype "POWER-IN")))
+    (net
+      (code 6)
+      (name "FLASH_!WP")
+      (class "Default")
+      (node
+        (ref "FLASH1")
+        (pin "3")
+        (pintype "POWER-IN"))
+      (node
+        (ref "R12")
+        (pin "2")
+        (pintype "POWER-IN")))
+    (net
+      (code 7)
+      (name "GND")
+      (class "Default")
+      (node
+        (ref "BOOT1")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "BOOT2")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C1")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C10")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C11")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C12")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C13")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C14")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C15")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C16")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C17")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C18")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C19")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C2")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C20")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C21")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C22")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C23")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C25")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C26")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C27")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C28")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C29")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C3")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C30")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C4")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C5")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C6")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C7")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C8")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C9")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "FLASH1")
+        (pin "4")
+        (pintype "POWER-IN"))
+      (node
+        (ref "FLASH1")
+        (pin "9")
+        (pintype "POWER-IN"))
+      (node
+        (ref "GPS1")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "HSE1")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "HSE1")
+        (pin "4")
+        (pintype "POWER-IN"))
+      (node
+        (ref "I2C1")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "IC1")
+        (pin "10")
+        (pintype "POWER-IN"))
+      (node
+        (ref "IMU1")
+        (pin "4")
+        (pintype "POWER-IN"))
+      (node
+        (ref "IMU1")
+        (pin "6")
+        (pintype "POWER-IN"))
+      (node
+        (ref "IMU1")
+        (pin "7")
+        (pintype "POWER-IN"))
+      (node
+        (ref "PWM_PWR1")
+        (pin "10")
+        (pintype "POWER-IN"))
+      (node
+        (ref "PWM_PWR1")
+        (pin "12")
+        (pintype "POWER-IN"))
+      (node
+        (ref "PWM_PWR1")
+        (pin "14")
+        (pintype "POWER-IN"))
+      (node
+        (ref "PWM_PWR1")
+        (pin "16")
+        (pintype "POWER-IN"))
+      (node
+        (ref "PWM_PWR1")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "PWM_PWR1")
+        (pin "4")
+        (pintype "POWER-IN"))
+      (node
+        (ref "PWM_PWR1")
+        (pin "6")
+        (pintype "POWER-IN"))
+      (node
+        (ref "PWM_PWR1")
+        (pin "8")
+        (pintype "POWER-IN"))
+      (node
+        (ref "R1")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "R15")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "R2")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "R3")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "R4")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "R5")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "RESET1")
+        (pin "3")
+        (pintype "POWER-IN"))
+      (node
+        (ref "RESET1")
+        (pin "4")
+        (pintype "POWER-IN"))
+      (node
+        (ref "SBUS1")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "SERVO1")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "SWD1")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "SWD1")
+        (pin "3")
+        (pintype "POWER-IN"))
+      (node
+        (ref "SWD1")
+        (pin "5")
+        (pintype "POWER-IN"))
+      (node
+        (ref "TELEM1")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U1")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U2")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U2")
+        (pin "14")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U2")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U2")
+        (pin "23")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U2")
+        (pin "24")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U2")
+        (pin "3")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U2")
+        (pin "4")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U2")
+        (pin "5")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U3")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U3")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U3")
+        (pin "3")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U3")
+        (pin "4")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U3")
+        (pin "7")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U5")
+        (pin "3")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U6")
+        (pin "3")
+        (pintype "POWER-IN"))
+      (node
+        (ref "USB1")
+        (pin "5")
+        (pintype "POWER-IN"))
+      (node
+        (ref "USB1")
+        (pin "SH")
+        (pintype "POWER-IN"))
+      (node
+        (ref "VIN1")
+        (pin "2")
+        (pintype "POWER-IN")))
+    (net
+      (code 8)
+      (name "HSE_IN")
+      (class "Default")
+      (node
+        (ref "C20")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "HSE1")
+        (pin "1")
+        (pintype "POWER-IN")))
+    (net
+      (code 9)
+      (name "HSE_OUT")
+      (class "Default")
+      (node
+        (ref "R10")
+        (pin "1")
+        (pintype "POWER-IN")))
+    (net
+      (code 10)
+      (name "I2C1_SCL")
+      (class "Default")
+      (node
+        (ref "R6")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U2")
+        (pin "26")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U3")
+        (pin "6")
+        (pintype "POWER-IN")))
+    (net
+      (code 11)
+      (name "I2C1_SDA")
+      (class "Default")
+      (node
+        (ref "R7")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U2")
+        (pin "27")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U3")
+        (pin "5")
+        (pintype "POWER-IN")))
+    (net
+      (code 12)
+      (name "I2C3_SCL")
+      (class "Default")
+      (node
+        (ref "I2C1")
+        (pin "3")
+        (pintype "POWER-IN"))
+      (node
+        (ref "R8")
+        (pin "2")
+        (pintype "POWER-IN")))
+    (net
+      (code 13)
+      (name "I2C3_SDA")
+      (class "Default")
+      (node
+        (ref "I2C1")
+        (pin "4")
+        (pintype "POWER-IN"))
+      (node
+        (ref "R9")
+        (pin "2")
+        (pintype "POWER-IN")))
+    (net
+      (code 14)
+      (name "INT_ACC")
+      (class "Default")
+      (node
+        (ref "IMU1")
+        (pin "19")
+        (pintype "POWER-IN")))
+    (net
+      (code 15)
+      (name "INT_BAR")
+      (class "Default")
+      (node
+        (ref "IC1")
+        (pin "8")
+        (pintype "POWER-IN")))
+    (net
+      (code 16)
+      (name "INT_GYR")
+      (class "Default")
+      (node
+        (ref "IMU1")
+        (pin "14")
+        (pintype "POWER-IN")))
+    (net
+      (code 17)
+      (name "INT_MAG")
+      (class "Default")
+      (node
+        (ref "IMU1")
+        (pin "2")
+        (pintype "POWER-IN")))
+    (net
+      (code 18)
+      (name "LED_A")
+      (class "Default")
+      (node
+        (ref "D2")
+        (pin "2")
+        (pintype "POWER-IN")))
+    (net
+      (code 19)
+      (name "LED_B")
+      (class "Default")
+      (node
+        (ref "D3")
+        (pin "2")
+        (pintype "POWER-IN")))
+    (net
+      (code 20)
+      (name "LED_C")
+      (class "Default")
+      (node
+        (ref "D4")
+        (pin "2")
+        (pintype "POWER-IN")))
+    (net
+      (code 21)
+      (name "LED_D")
+      (class "Default")
+      (node
+        (ref "D5")
+        (pin "2")
+        (pintype "POWER-IN")))
+    (net
+      (code 22)
+      (name "NRST")
+      (class "Default")
+      (node
+        (ref "C30")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "RESET1")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "RESET1")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "SWD1")
+        (pin "6")
+        (pintype "POWER-IN")))
+    (net
+      (code 23)
+      (name "Net-(BOOT1-C)")
+      (class "Default")
+      (node
+        (ref "BOOT1")
+        (pin "3")
+        (pintype "POWER-IN"))
+      (node
+        (ref "R16")
+        (pin "1")
+        (pintype "POWER-IN")))
+    (net
+      (code 24)
+      (name "Net-(BOOT2-C)")
+      (class "Default")
+      (node
+        (ref "BOOT2")
+        (pin "3")
+        (pintype "POWER-IN"))
+      (node
+        (ref "R17")
+        (pin "1")
+        (pintype "POWER-IN")))
+    (net
+      (code 25)
+      (name "Net-(C21-Pad1)")
+      (class "Default")
+      (node
+        (ref "C21")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "HSE1")
+        (pin "3")
+        (pintype "POWER-IN"))
+      (node
+        (ref "R10")
+        (pin "2")
+        (pintype "POWER-IN")))
+    (net
+      (code 26)
+      (name "Net-(D1-A)")
+      (class "Default")
+      (node
+        (ref "D1")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "JP1")
+        (pin "2")
+        (pintype "POWER-IN")))
+    (net
+      (code 27)
+      (name "Net-(D2-K)")
+      (class "Default")
+      (node
+        (ref "D2")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "R2")
+        (pin "1")
+        (pintype "POWER-IN")))
+    (net
+      (code 28)
+      (name "Net-(D3-K)")
+      (class "Default")
+      (node
+        (ref "D3")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "R3")
+        (pin "1")
+        (pintype "POWER-IN")))
+    (net
+      (code 29)
+      (name "Net-(D4-K)")
+      (class "Default")
+      (node
+        (ref "D4")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "R4")
+        (pin "1")
+        (pintype "POWER-IN")))
+    (net
+      (code 30)
+      (name "Net-(D5-K)")
+      (class "Default")
+      (node
+        (ref "D5")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "R5")
+        (pin "1")
+        (pintype "POWER-IN")))
+    (net
+      (code 31)
+      (name "Net-(D6-A)")
+      (class "Default")
+      (node
+        (ref "C17")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "D6")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "FB1")
+        (pin "1")
+        (pintype "POWER-IN")))
+    (net
+      (code 32)
+      (name "Net-(D7-A)")
+      (class "Default")
+      (node
+        (ref "D7")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U6")
+        (pin "6")
+        (pintype "POWER-IN")))
+    (net
+      (code 33)
+      (name "Net-(D7-K)")
+      (class "Default")
+      (node
+        (ref "D7")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "R15")
+        (pin "2")
+        (pintype "POWER-IN")))
+    (net
+      (code 34)
+      (name "Net-(F1-Pad1)")
+      (class "Default")
+      (node
+        (ref "F1")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "FB1")
+        (pin "2")
+        (pintype "POWER-IN")))
+    (net
+      (code 35)
+      (name "Net-(IC1-VO+)")
+      (class "Default")
+      (node
+        (ref "C24")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "IC1")
+        (pin "4")
+        (pintype "POWER-IN")))
+    (net
+      (code 36)
+      (name "Net-(IC1-VO-)")
+      (class "Default")
+      (node
+        (ref "C24")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "IC1")
+        (pin "6")
+        (pintype "POWER-IN")))
+    (net
+      (code 37)
+      (name "Net-(MCU1-PH0)")
+      (class "Default")
+      (node
+        (ref "C14")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "MCU1")
+        (pin "5")
+        (pintype "POWER-IN")))
+    (net
+      (code 38)
+      (name "Net-(MCU1-PH1)")
+      (class "Default")
+      (node
+        (ref "C15")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "MCU1")
+        (pin "6")
+        (pintype "POWER-IN")))
+    (net
+      (code 39)
+      (name "Net-(MCU1-VSS-Pad18)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "18")
+        (pintype "POWER-IN"))
+      (node
+        (ref "MCU1")
+        (pin "63")
+        (pintype "POWER-IN")))
+    (net
+      (code 40)
+      (name "Net-(PWM_PWR1-Pin_1)")
+      (class "Default")
+      (node
+        (ref "JP1")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "PWM_PWR1")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "PWM_PWR1")
+        (pin "11")
+        (pintype "POWER-IN"))
+      (node
+        (ref "PWM_PWR1")
+        (pin "13")
+        (pintype "POWER-IN"))
+      (node
+        (ref "PWM_PWR1")
+        (pin "15")
+        (pintype "POWER-IN"))
+      (node
+        (ref "PWM_PWR1")
+        (pin "3")
+        (pintype "POWER-IN"))
+      (node
+        (ref "PWM_PWR1")
+        (pin "5")
+        (pintype "POWER-IN"))
+      (node
+        (ref "PWM_PWR1")
+        (pin "7")
+        (pintype "POWER-IN"))
+      (node
+        (ref "PWM_PWR1")
+        (pin "9")
+        (pintype "POWER-IN"))
+      (node
+        (ref "SERVO1")
+        (pin "1")
+        (pintype "POWER-IN")))
+    (net
+      (code 41)
+      (name "Net-(PWM_SIGNAL1-Pin_1)")
+      (class "Default")
+      (node
+        (ref "PWM_SIGNAL1")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U2")
+        (pin "6")
+        (pintype "POWER-IN")))
+    (net
+      (code 42)
+      (name "Net-(PWM_SIGNAL1-Pin_2)")
+      (class "Default")
+      (node
+        (ref "PWM_SIGNAL1")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U2")
+        (pin "7")
+        (pintype "POWER-IN")))
+    (net
+      (code 43)
+      (name "Net-(PWM_SIGNAL1-Pin_3)")
+      (class "Default")
+      (node
+        (ref "PWM_SIGNAL1")
+        (pin "3")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U2")
+        (pin "8")
+        (pintype "POWER-IN")))
+    (net
+      (code 44)
+      (name "Net-(PWM_SIGNAL1-Pin_4)")
+      (class "Default")
+      (node
+        (ref "PWM_SIGNAL1")
+        (pin "4")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U2")
+        (pin "9")
+        (pintype "POWER-IN")))
+    (net
+      (code 45)
+      (name "Net-(PWM_SIGNAL1-Pin_5)")
+      (class "Default")
+      (node
+        (ref "PWM_SIGNAL1")
+        (pin "5")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U2")
+        (pin "10")
+        (pintype "POWER-IN")))
+    (net
+      (code 46)
+      (name "Net-(PWM_SIGNAL1-Pin_6)")
+      (class "Default")
+      (node
+        (ref "PWM_SIGNAL1")
+        (pin "6")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U2")
+        (pin "11")
+        (pintype "POWER-IN")))
+    (net
+      (code 47)
+      (name "Net-(PWM_SIGNAL1-Pin_7)")
+      (class "Default")
+      (node
+        (ref "PWM_SIGNAL1")
+        (pin "7")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U2")
+        (pin "12")
+        (pintype "POWER-IN")))
+    (net
+      (code 48)
+      (name "Net-(PWM_SIGNAL1-Pin_8)")
+      (class "Default")
+      (node
+        (ref "PWM_SIGNAL1")
+        (pin "8")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U2")
+        (pin "13")
+        (pintype "POWER-IN")))
+    (net
+      (code 49)
+      (name "Net-(PWR1-K)")
+      (class "Default")
+      (node
+        (ref "PWR1")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "R1")
+        (pin "2")
+        (pintype "POWER-IN")))
+    (net
+      (code 50)
+      (name "Net-(U6-RX)")
+      (class "Default")
+      (node
+        (ref "R11")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U6")
+        (pin "9")
+        (pintype "POWER-IN")))
+    (net
+      (code 51)
+      (name "Net-(U6-TX)")
+      (class "Default")
+      (node
+        (ref "R13")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U6")
+        (pin "8")
+        (pintype "POWER-IN")))
+    (net
+      (code 52)
+      (name "Net-(U6-V3)")
+      (class "Default")
+      (node
+        (ref "C26")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U6")
+        (pin "10")
+        (pintype "POWER-IN")))
+    (net
+      (code 53)
+      (name "Net-(USB1-VBUS)")
+      (class "Default")
+      (node
+        (ref "F1")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "USB1")
+        (pin "1")
+        (pintype "POWER-IN")))
+    (net
+      (code 54)
+      (name "SPI1_CS")
+      (class "Default")
+      (node
+        (ref "FLASH1")
+        (pin "1")
+        (pintype "POWER-IN")))
+    (net
+      (code 55)
+      (name "SPI1_MISO")
+      (class "Default")
+      (node
+        (ref "FLASH1")
+        (pin "2")
+        (pintype "POWER-IN")))
+    (net
+      (code 56)
+      (name "SPI1_MOSI")
+      (class "Default")
+      (node
+        (ref "FLASH1")
+        (pin "5")
+        (pintype "POWER-IN")))
+    (net
+      (code 57)
+      (name "SPI1_SCK")
+      (class "Default")
+      (node
+        (ref "FLASH1")
+        (pin "6")
+        (pintype "POWER-IN")))
+    (net
+      (code 58)
+      (name "SPI2_CS")
+      (class "Default")
+      (node
+        (ref "IC1")
+        (pin "1")
+        (pintype "POWER-IN")))
+    (net
+      (code 59)
+      (name "SPI2_MISO")
+      (class "Default")
+      (node
+        (ref "IC1")
+        (pin "7")
+        (pintype "POWER-IN")))
+    (net
+      (code 60)
+      (name "SPI2_MOSI")
+      (class "Default")
+      (node
+        (ref "IC1")
+        (pin "2")
+        (pintype "POWER-IN")))
+    (net
+      (code 61)
+      (name "SPI2_SCK")
+      (class "Default")
+      (node
+        (ref "IC1")
+        (pin "3")
+        (pintype "POWER-IN")))
+    (net
+      (code 62)
+      (name "SPI3_CSACC")
+      (class "Default")
+      (node
+        (ref "IMU1")
+        (pin "16")
+        (pintype "POWER-IN")))
+    (net
+      (code 63)
+      (name "SPI3_CSGYR")
+      (class "Default")
+      (node
+        (ref "IMU1")
+        (pin "5")
+        (pintype "POWER-IN")))
+    (net
+      (code 64)
+      (name "SPI3_CSMAG")
+      (class "Default")
+      (node
+        (ref "IMU1")
+        (pin "20")
+        (pintype "POWER-IN")))
+    (net
+      (code 65)
+      (name "SPI3_MISO")
+      (class "Default")
+      (node
+        (ref "IMU1")
+        (pin "12")
+        (pintype "POWER-IN"))
+      (node
+        (ref "IMU1")
+        (pin "17")
+        (pintype "POWER-IN")))
+    (net
+      (code 66)
+      (name "SPI3_MOSI")
+      (class "Default")
+      (node
+        (ref "IMU1")
+        (pin "11")
+        (pintype "POWER-IN")))
+    (net
+      (code 67)
+      (name "SPI3_SCK")
+      (class "Default")
+      (node
+        (ref "IMU1")
+        (pin "9")
+        (pintype "POWER-IN")))
+    (net
+      (code 68)
+      (name "SWCLK")
+      (class "Default")
+      (node
+        (ref "SWD1")
+        (pin "9")
+        (pintype "POWER-IN")))
+    (net
+      (code 69)
+      (name "SWDIO")
+      (class "Default")
+      (node
+        (ref "SWD1")
+        (pin "10")
+        (pintype "POWER-IN")))
+    (net
+      (code 70)
+      (name "TIM2_CH1")
+      (class "Default")
+      (node
+        (ref "RC1")
+        (pin "1")
+        (pintype "POWER-IN")))
+    (net
+      (code 71)
+      (name "TIM2_CH2")
+      (class "Default")
+      (node
+        (ref "RC1")
+        (pin "2")
+        (pintype "POWER-IN")))
+    (net
+      (code 72)
+      (name "TIM4_CH1")
+      (class "Default")
+      (node
+        (ref "RC1")
+        (pin "3")
+        (pintype "POWER-IN")))
+    (net
+      (code 73)
+      (name "TIM4_CH2")
+      (class "Default")
+      (node
+        (ref "RC1")
+        (pin "4")
+        (pintype "POWER-IN")))
+    (net
+      (code 74)
+      (name "UART1_RX")
+      (class "Default")
+      (node
+        (ref "R13")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "TELEM1")
+        (pin "4")
+        (pintype "POWER-IN")))
+    (net
+      (code 75)
+      (name "UART1_TX")
+      (class "Default")
+      (node
+        (ref "R11")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "TELEM1")
+        (pin "3")
+        (pintype "POWER-IN")))
+    (net
+      (code 76)
+      (name "UART2_RX")
+      (class "Default")
+      (node
+        (ref "GPS1")
+        (pin "4")
+        (pintype "POWER-IN")))
+    (net
+      (code 77)
+      (name "UART2_TX")
+      (class "Default")
+      (node
+        (ref "GPS1")
+        (pin "3")
+        (pintype "POWER-IN")))
+    (net
+      (code 78)
+      (name "UART3_RX")
+      (class "Default")
+      (node
+        (ref "U5")
+        (pin "4")
+        (pintype "POWER-IN")))
+    (net
+      (code 79)
+      (name "UART3_RX_INV")
+      (class "Default")
+      (node
+        (ref "SBUS1")
+        (pin "4")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U5")
+        (pin "2")
+        (pintype "POWER-IN")))
+    (net
+      (code 80)
+      (name "UART3_TX")
+      (class "Default")
+      (node
+        (ref "SBUS1")
+        (pin "3")
+        (pintype "POWER-IN")))
+    (net
+      (code 81)
+      (name "USB_CONN_D+")
+      (class "Default")
+      (node
+        (ref "USB1")
+        (pin "3")
+        (pintype "POWER-IN")))
+    (net
+      (code 82)
+      (name "USB_CONN_D-")
+      (class "Default")
+      (node
+        (ref "USB1")
+        (pin "2")
+        (pintype "POWER-IN")))
+    (net
+      (code 83)
+      (name "USB_CONV_D+")
+      (class "Default")
+      (node
+        (ref "U6")
+        (pin "1")
+        (pintype "POWER-IN")))
+    (net
+      (code 84)
+      (name "USB_CONV_D-")
+      (class "Default")
+      (node
+        (ref "U6")
+        (pin "2")
+        (pintype "POWER-IN")))
+    (net
+      (code 85)
+      (name "VCC")
+      (class "Default")
+      (node
+        (ref "C1")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "D1")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "D6")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U1")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U1")
+        (pin "3")
+        (pintype "POWER-IN"))
+      (node
+        (ref "VIN1")
+        (pin "1")
+        (pintype "POWER-IN")))
+    (net
+      (code 86)
+      (name "VDDA")
+      (class "Default")
+      (node
+        (ref "C22")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C23")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "FB2")
+        (pin "1")
+        (pintype "POWER-IN")))
+    (net
+      (code 87)
+      (name "unconnected-(IC1-NC1-Pad11)")
+      (class "Default")
+      (node
+        (ref "IC1")
+        (pin "11")
+        (pintype "POWER-IN")))
+    (net
+      (code 88)
+      (name "unconnected-(IC1-NC2-Pad5)")
+      (class "Default")
+      (node
+        (ref "IC1")
+        (pin "5")
+        (pintype "POWER-IN")))
+    (net
+      (code 89)
+      (name "unconnected-(IMU1-INT2-Pad1)")
+      (class "Default")
+      (node
+        (ref "IMU1")
+        (pin "1")
+        (pintype "POWER-IN")))
+    (net
+      (code 90)
+      (name "unconnected-(IMU1-INT4-Pad15)")
+      (class "Default")
+      (node
+        (ref "IMU1")
+        (pin "15")
+        (pintype "POWER-IN")))
+    (net
+      (code 91)
+      (name "unconnected-(IMU1-INT5-Pad10)")
+      (class "Default")
+      (node
+        (ref "IMU1")
+        (pin "10")
+        (pintype "POWER-IN")))
+    (net
+      (code 92)
+      (name "unconnected-(IMU1-NC_1-Pad8)")
+      (class "Default")
+      (node
+        (ref "IMU1")
+        (pin "8")
+        (pintype "POWER-IN")))
+    (net
+      (code 93)
+      (name "unconnected-(IMU1-NC_2-Pad18)")
+      (class "Default")
+      (node
+        (ref "IMU1")
+        (pin "18")
+        (pintype "POWER-IN")))
+    (net
+      (code 94)
+      (name "unconnected-(MCU1-BOOT0-Pad60)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "60")
+        (pintype "POWER-IN")))
+    (net
+      (code 95)
+      (name "unconnected-(MCU1-NRST-Pad7)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "7")
+        (pintype "POWER-IN")))
+    (net
+      (code 96)
+      (name "unconnected-(MCU1-PA0-Pad14)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "14")
+        (pintype "POWER-IN")))
+    (net
+      (code 97)
+      (name "unconnected-(MCU1-PA1-Pad15)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "15")
+        (pintype "POWER-IN")))
+    (net
+      (code 98)
+      (name "unconnected-(MCU1-PA10-Pad43)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "43")
+        (pintype "POWER-IN")))
+    (net
+      (code 99)
+      (name "unconnected-(MCU1-PA11-Pad44)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "44")
+        (pintype "POWER-IN")))
+    (net
+      (code 100)
+      (name "unconnected-(MCU1-PA12-Pad45)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "45")
+        (pintype "POWER-IN")))
+    (net
+      (code 101)
+      (name "unconnected-(MCU1-PA13-Pad46)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "46")
+        (pintype "POWER-IN")))
+    (net
+      (code 102)
+      (name "unconnected-(MCU1-PA14-Pad49)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "49")
+        (pintype "POWER-IN")))
+    (net
+      (code 103)
+      (name "unconnected-(MCU1-PA15-Pad50)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "50")
+        (pintype "POWER-IN")))
+    (net
+      (code 104)
+      (name "unconnected-(MCU1-PA2-Pad16)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "16")
+        (pintype "POWER-IN")))
+    (net
+      (code 105)
+      (name "unconnected-(MCU1-PA3-Pad17)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "17")
+        (pintype "POWER-IN")))
+    (net
+      (code 106)
+      (name "unconnected-(MCU1-PA4-Pad20)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "20")
+        (pintype "POWER-IN")))
+    (net
+      (code 107)
+      (name "unconnected-(MCU1-PA5-Pad21)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "21")
+        (pintype "POWER-IN")))
+    (net
+      (code 108)
+      (name "unconnected-(MCU1-PA6-Pad22)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "22")
+        (pintype "POWER-IN")))
+    (net
+      (code 109)
+      (name "unconnected-(MCU1-PA7-Pad23)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "23")
+        (pintype "POWER-IN")))
+    (net
+      (code 110)
+      (name "unconnected-(MCU1-PA8-Pad41)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "41")
+        (pintype "POWER-IN")))
+    (net
+      (code 111)
+      (name "unconnected-(MCU1-PA9-Pad42)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "42")
+        (pintype "POWER-IN")))
+    (net
+      (code 112)
+      (name "unconnected-(MCU1-PB0-Pad26)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "26")
+        (pintype "POWER-IN")))
+    (net
+      (code 113)
+      (name "unconnected-(MCU1-PB1-Pad27)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "27")
+        (pintype "POWER-IN")))
+    (net
+      (code 114)
+      (name "unconnected-(MCU1-PB10-Pad29)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "29")
+        (pintype "POWER-IN")))
+    (net
+      (code 115)
+      (name "unconnected-(MCU1-PB11-Pad30)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "30")
+        (pintype "POWER-IN")))
+    (net
+      (code 116)
+      (name "unconnected-(MCU1-PB12-Pad33)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "33")
+        (pintype "POWER-IN")))
+    (net
+      (code 117)
+      (name "unconnected-(MCU1-PB13-Pad34)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "34")
+        (pintype "POWER-IN")))
+    (net
+      (code 118)
+      (name "unconnected-(MCU1-PB14-Pad35)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "35")
+        (pintype "POWER-IN")))
+    (net
+      (code 119)
+      (name "unconnected-(MCU1-PB15-Pad36)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "36")
+        (pintype "POWER-IN")))
+    (net
+      (code 120)
+      (name "unconnected-(MCU1-PB2-Pad28)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "28")
+        (pintype "POWER-IN")))
+    (net
+      (code 121)
+      (name "unconnected-(MCU1-PB3-Pad55)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "55")
+        (pintype "POWER-IN")))
+    (net
+      (code 122)
+      (name "unconnected-(MCU1-PB4-Pad56)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "56")
+        (pintype "POWER-IN")))
+    (net
+      (code 123)
+      (name "unconnected-(MCU1-PB5-Pad57)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "57")
+        (pintype "POWER-IN")))
+    (net
+      (code 124)
+      (name "unconnected-(MCU1-PB6-Pad58)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "58")
+        (pintype "POWER-IN")))
+    (net
+      (code 125)
+      (name "unconnected-(MCU1-PB7-Pad59)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "59")
+        (pintype "POWER-IN")))
+    (net
+      (code 126)
+      (name "unconnected-(MCU1-PB8-Pad61)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "61")
+        (pintype "POWER-IN")))
+    (net
+      (code 127)
+      (name "unconnected-(MCU1-PB9-Pad62)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "62")
+        (pintype "POWER-IN")))
+    (net
+      (code 128)
+      (name "unconnected-(MCU1-PC0-Pad8)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "8")
+        (pintype "POWER-IN")))
+    (net
+      (code 129)
+      (name "unconnected-(MCU1-PC1-Pad9)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "9")
+        (pintype "POWER-IN")))
+    (net
+      (code 130)
+      (name "unconnected-(MCU1-PC10-Pad51)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "51")
+        (pintype "POWER-IN")))
+    (net
+      (code 131)
+      (name "unconnected-(MCU1-PC11-Pad52)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "52")
+        (pintype "POWER-IN")))
+    (net
+      (code 132)
+      (name "unconnected-(MCU1-PC12-Pad53)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "53")
+        (pintype "POWER-IN")))
+    (net
+      (code 133)
+      (name "unconnected-(MCU1-PC13-Pad2)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "2")
+        (pintype "POWER-IN")))
+    (net
+      (code 134)
+      (name "unconnected-(MCU1-PC14-Pad3)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "3")
+        (pintype "POWER-IN")))
+    (net
+      (code 135)
+      (name "unconnected-(MCU1-PC15-Pad4)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "4")
+        (pintype "POWER-IN")))
+    (net
+      (code 136)
+      (name "unconnected-(MCU1-PC2-Pad10)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "10")
+        (pintype "POWER-IN")))
+    (net
+      (code 137)
+      (name "unconnected-(MCU1-PC3-Pad11)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "11")
+        (pintype "POWER-IN")))
+    (net
+      (code 138)
+      (name "unconnected-(MCU1-PC4-Pad24)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "24")
+        (pintype "POWER-IN")))
+    (net
+      (code 139)
+      (name "unconnected-(MCU1-PC5-Pad25)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "25")
+        (pintype "POWER-IN")))
+    (net
+      (code 140)
+      (name "unconnected-(MCU1-PC6-Pad37)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "37")
+        (pintype "POWER-IN")))
+    (net
+      (code 141)
+      (name "unconnected-(MCU1-PC7-Pad38)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "38")
+        (pintype "POWER-IN")))
+    (net
+      (code 142)
+      (name "unconnected-(MCU1-PC8-Pad39)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "39")
+        (pintype "POWER-IN")))
+    (net
+      (code 143)
+      (name "unconnected-(MCU1-PC9-Pad40)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "40")
+        (pintype "POWER-IN")))
+    (net
+      (code 144)
+      (name "unconnected-(MCU1-PD2-Pad54)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "54")
+        (pintype "POWER-IN")))
+    (net
+      (code 145)
+      (name "unconnected-(MCU1-VCAP_1-Pad31)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "31")
+        (pintype "POWER-IN")))
+    (net
+      (code 146)
+      (name "unconnected-(MCU1-VCAP_2-Pad47)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "47")
+        (pintype "POWER-IN")))
+    (net
+      (code 147)
+      (name "unconnected-(MCU1-VDD-Pad19)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "19")
+        (pintype "POWER-IN")))
+    (net
+      (code 148)
+      (name "unconnected-(MCU1-VDD-Pad32)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "32")
+        (pintype "POWER-IN")))
+    (net
+      (code 149)
+      (name "unconnected-(MCU1-VDD-Pad48)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "48")
+        (pintype "POWER-IN")))
+    (net
+      (code 150)
+      (name "unconnected-(MCU1-VDD-Pad64)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "64")
+        (pintype "POWER-IN")))
+    (net
+      (code 151)
+      (name "unconnected-(MCU1-VDDA-Pad13)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "13")
+        (pintype "POWER-IN")))
+    (net
+      (code 152)
+      (name "unconnected-(MCU1-VSSA-Pad12)")
+      (class "Default")
+      (node
+        (ref "MCU1")
+        (pin "12")
+        (pintype "POWER-IN")))
+    (net
+      (code 153)
+      (name "unconnected-(SWD1-Pin_4-Pad4)")
+      (class "Default")
+      (node
+        (ref "SWD1")
+        (pin "4")
+        (pintype "POWER-IN")))
+    (net
+      (code 154)
+      (name "unconnected-(SWD1-Pin_7-Pad7)")
+      (class "Default")
+      (node
+        (ref "SWD1")
+        (pin "7")
+        (pintype "POWER-IN")))
+    (net
+      (code 155)
+      (name "unconnected-(SWD1-Pin_8-Pad8)")
+      (class "Default")
+      (node
+        (ref "SWD1")
+        (pin "8")
+        (pintype "POWER-IN")))
+    (net
+      (code 156)
+      (name "unconnected-(U1-NC-Pad4)")
+      (class "Default")
+      (node
+        (ref "U1")
+        (pin "4")
+        (pintype "POWER-IN")))
+    (net
+      (code 157)
+      (name "unconnected-(U2-EXTCLK-Pad25)")
+      (class "Default")
+      (node
+        (ref "U2")
+        (pin "25")
+        (pintype "POWER-IN")))
+    (net
+      (code 158)
+      (name "unconnected-(U2-LED10-Pad17)")
+      (class "Default")
+      (node
+        (ref "U2")
+        (pin "17")
+        (pintype "POWER-IN")))
+    (net
+      (code 159)
+      (name "unconnected-(U2-LED11-Pad18)")
+      (class "Default")
+      (node
+        (ref "U2")
+        (pin "18")
+        (pintype "POWER-IN")))
+    (net
+      (code 160)
+      (name "unconnected-(U2-LED12-Pad19)")
+      (class "Default")
+      (node
+        (ref "U2")
+        (pin "19")
+        (pintype "POWER-IN")))
+    (net
+      (code 161)
+      (name "unconnected-(U2-LED13-Pad20)")
+      (class "Default")
+      (node
+        (ref "U2")
+        (pin "20")
+        (pintype "POWER-IN")))
+    (net
+      (code 162)
+      (name "unconnected-(U2-LED14-Pad21)")
+      (class "Default")
+      (node
+        (ref "U2")
+        (pin "21")
+        (pintype "POWER-IN")))
+    (net
+      (code 163)
+      (name "unconnected-(U2-LED15-Pad22)")
+      (class "Default")
+      (node
+        (ref "U2")
+        (pin "22")
+        (pintype "POWER-IN")))
+    (net
+      (code 164)
+      (name "unconnected-(U2-LED8-Pad15)")
+      (class "Default")
+      (node
+        (ref "U2")
+        (pin "15")
+        (pintype "POWER-IN")))
+    (net
+      (code 165)
+      (name "unconnected-(U2-LED9-Pad16)")
+      (class "Default")
+      (node
+        (ref "U2")
+        (pin "16")
+        (pintype "POWER-IN")))
+    (net
+      (code 166)
+      (name "unconnected-(U4-GND-Pad2)")
+      (class "Default")
+      (node
+        (ref "U4")
+        (pin "2")
+        (pintype "POWER-IN")))
+    (net
+      (code 167)
+      (name "unconnected-(U4-I{slash}O1-Pad1)")
+      (class "Default")
+      (node
+        (ref "U4")
+        (pin "1")
+        (pintype "POWER-IN")))
+    (net
+      (code 168)
+      (name "unconnected-(U4-I{slash}O1-Pad6)")
+      (class "Default")
+      (node
+        (ref "U4")
+        (pin "6")
+        (pintype "POWER-IN")))
+    (net
+      (code 169)
+      (name "unconnected-(U4-I{slash}O2-Pad3)")
+      (class "Default")
+      (node
+        (ref "U4")
+        (pin "3")
+        (pintype "POWER-IN")))
+    (net
+      (code 170)
+      (name "unconnected-(U4-I{slash}O2-Pad4)")
+      (class "Default")
+      (node
+        (ref "U4")
+        (pin "4")
+        (pintype "POWER-IN")))
+    (net
+      (code 171)
+      (name "unconnected-(U4-VBUS-Pad5)")
+      (class "Default")
+      (node
+        (ref "U4")
+        (pin "5")
+        (pintype "POWER-IN")))
+    (net
+      (code 172)
+      (name "unconnected-(U5-~-Pad1)")
+      (class "Default")
+      (node
+        (ref "U5")
+        (pin "1")
+        (pintype "POWER-IN")))
+    (net
+      (code 173)
+      (name "unconnected-(U6-CTS-Pad5)")
+      (class "Default")
+      (node
+        (ref "U6")
+        (pin "5")
+        (pintype "POWER-IN")))
+    (net
+      (code 174)
+      (name "unconnected-(U6-RTS-Pad4)")
+      (class "Default")
+      (node
+        (ref "U6")
+        (pin "4")
+        (pintype "POWER-IN")))
+    (net
+      (code 175)
+      (name "unconnected-(USB1-ID-Pad4)")
+      (class "Default")
+      (node
+        (ref "USB1")
+        (pin "4")
+        (pintype "POWER-IN")))))

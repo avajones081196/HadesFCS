@@ -1,0 +1,181 @@
+WARNING: KICAD6_SYMBOL_DIR environment variable is missing, so the default KiCad symbol libraries won't be searched. @ [/sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/<frozen importlib._bootstrap_external>:883=>/sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/<frozen importlib._bootstrap>:241]
+WARNING: KICAD9_SYMBOL_DIR environment variable is missing, so the default KiCad symbol libraries won't be searched. @ [/sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/<frozen importlib._bootstrap_external>:883=>/sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/<frozen importlib._bootstrap>:241]
+WARNING: KICAD7_SYMBOL_DIR environment variable is missing, so the default KiCad symbol libraries won't be searched. @ [/sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/<frozen importlib._bootstrap_external>:883=>/sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/<frozen importlib._bootstrap>:241]
+WARNING: KICAD8_SYMBOL_DIR environment variable is missing, so the default KiCad symbol libraries won't be searched. @ [/sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/<frozen importlib._bootstrap_external>:883=>/sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/<frozen importlib._bootstrap>:241]
+WARNING: KICAD_SYMBOL_DIR environment variable is missing, so the default KiCad symbol libraries won't be searched. @ [/sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/<frozen importlib._bootstrap_external>:883=>/sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/<frozen importlib._bootstrap>:241]
+WARNING: fp-lib-table file was not found. Component footprints are not available.
+WARNING: fp-lib-table file was not found. Component footprints are not available.
+WARNING: fp-lib-table file was not found. Component footprints are not available.
+WARNING: fp-lib-table file was not found. Component footprints are not available.
+WARNING: Missing tag on TDD01H0SB1R instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:190.
+WARNING: Random tag xZ5OeEzbK0 generated for TDD01H0SB1R.
+WARNING: Missing tag on TDD01H0SB1R instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:197.
+WARNING: Random tag jH0PxmFOkk generated for TDD01H0SB1R.
+WARNING: Missing tag on 1u instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:204.
+WARNING: Random tag jqGxrukSVK generated for 1u.
+WARNING: Missing tag on 1u instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:211.
+WARNING: Random tag vpXUQbxvy3 generated for 1u.
+WARNING: Missing tag on 10u instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:218.
+WARNING: Random tag d3PijI2ANl generated for 10u.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:225.
+WARNING: Random tag zze7vTepad generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:232.
+WARNING: Random tag f4okkRfVko generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:239.
+WARNING: Random tag 04E2xSWxde generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:246.
+WARNING: Random tag urICZ9Ulxi generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:253.
+WARNING: Random tag aARq9AbHZh generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:260.
+WARNING: Random tag jEtNNH6GKk generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:267.
+WARNING: Random tag 0sCVL6h7Nn generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:274.
+WARNING: Random tag Dstwhtylbk generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:281.
+WARNING: Random tag mtfy6bc4b1 generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:288.
+WARNING: Random tag W_sYrVBKSB generated for 100n.
+WARNING: Missing tag on 2u2 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:295.
+WARNING: Random tag _xpe3t1vq5 generated for 2u2.
+WARNING: Missing tag on 2u2 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:302.
+WARNING: Random tag Xf5f2Ou35U generated for 2u2.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:309.
+WARNING: Random tag pHA5o0ErTQ generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:316.
+WARNING: Random tag b8mtSWSA2W generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:323.
+WARNING: Random tag FKWZRGxs6P generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:330.
+WARNING: Random tag lKwPYvbX2a generated for 100n.
+WARNING: Missing tag on 10p instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:337.
+WARNING: Random tag _mv7jRzU3D generated for 10p.
+WARNING: Missing tag on 10p instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:344.
+WARNING: Random tag 6BSQzRkNIV generated for 10p.
+WARNING: Missing tag on 1u instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:351.
+WARNING: Random tag c9SweIBQFp generated for 1u.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:358.
+WARNING: Random tag L3lTogyJ0q generated for 100n.
+WARNING: Missing tag on 1n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:365.
+WARNING: Random tag V4kb_QgvOq generated for 1n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:372.
+WARNING: Random tag QyEL1Joj9f generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:379.
+WARNING: Random tag Iw1I3zFO6S generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:386.
+WARNING: Random tag 4BYAo9Io16 generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:393.
+WARNING: Random tag PyG2vwpUju generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:400.
+WARNING: Random tag 6CwH5UP9mp generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:407.
+WARNING: Random tag ktYqEefu6r generated for 100n.
+WARNING: Missing tag on D_Schottky instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:414.
+WARNING: Random tag 60GEomh4_r generated for D_Schottky.
+WARNING: Missing tag on GR instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:421.
+WARNING: Random tag Ko5nPQlEeG generated for GR.
+WARNING: Missing tag on RE instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:428.
+WARNING: Random tag 5aEUFcg1D3 generated for RE.
+WARNING: Missing tag on BL instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:435.
+WARNING: Random tag M9fmnI2ZCJ generated for BL.
+WARNING: Missing tag on BL instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:442.
+WARNING: Random tag hYrOdUgm6G generated for BL.
+WARNING: Missing tag on D_Schottky instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:449.
+WARNING: Random tag uSgOM6X3Dl generated for D_Schottky.
+WARNING: Missing tag on YE instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:456.
+WARNING: Random tag O1JWJLwvMs generated for YE.
+WARNING: Missing tag on Fuse instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:463.
+WARNING: Random tag K5j1lHBCMo generated for Fuse.
+WARNING: Missing tag on FB_Small instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:470.
+WARNING: Random tag DXRwDYCrtb generated for FB_Small.
+WARNING: Missing tag on FB_Small instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:477.
+WARNING: Random tag lxIFtks4mh generated for FB_Small.
+WARNING: Missing tag on W25N01GVZEIG_TR instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:484.
+WARNING: Random tag i4r9dxsDnX generated for W25N01GVZEIG_TR.
+WARNING: Missing tag on Conn_01x04 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:491.
+WARNING: Random tag i_KFJaPDNz generated for Conn_01x04.
+WARNING: Missing tag on 16MHz instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:498.
+WARNING: Random tag Zvh6k45ZpB generated for 16MHz.
+WARNING: Missing tag on Conn_01x04 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:505.
+WARNING: Random tag 0Ru9pxamx_ generated for Conn_01x04.
+WARNING: Missing tag on MPRLS0015PA0000SA instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:512.
+WARNING: Random tag 5dHyXKF6Bn generated for MPRLS0015PA0000SA.
+WARNING: Missing tag on BMX055 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:519.
+WARNING: Random tag VtXxJr6tSA generated for BMX055.
+WARNING: Missing tag on Jumper_NO_Small instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:526.
+WARNING: Random tag 9_HF6XhIbq generated for Jumper_NO_Small.
+WARNING: Missing tag on STM32F405RGT6 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:533.
+WARNING: Random tag Vb0VORwIGi generated for STM32F405RGT6.
+WARNING: Missing tag on Conn_02x08_Odd_Even instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:540.
+WARNING: Random tag 7RlXRLi34A generated for Conn_02x08_Odd_Even.
+WARNING: Missing tag on Conn_01x08 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:547.
+WARNING: Random tag 3F4BfpdlRS generated for Conn_01x08.
+WARNING: Missing tag on GR instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:554.
+WARNING: Random tag 0J90xwcvB5 generated for GR.
+WARNING: Missing tag on 2k2 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:561.
+WARNING: Random tag 19Vdym7XHu generated for 2k2.
+WARNING: Missing tag on 2k2 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:568.
+WARNING: Random tag nwsy4QPven generated for 2k2.
+WARNING: Missing tag on 1k instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:575.
+WARNING: Random tag PJdzBDfObz generated for 1k.
+WARNING: Missing tag on 1k instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:582.
+WARNING: Random tag CUstEJPqO7 generated for 1k.
+WARNING: Missing tag on 1k instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:589.
+WARNING: Random tag QzGpd4Rgpe generated for 1k.
+WARNING: Missing tag on 2k2 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:596.
+WARNING: Random tag REOf8y8z_2 generated for 2k2.
+WARNING: Missing tag on 2k2 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:603.
+WARNING: Random tag BMmeUSaIfu generated for 2k2.
+WARNING: Missing tag on 2k2 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:610.
+WARNING: Random tag N1QDWppMOK generated for 2k2.
+WARNING: Missing tag on 2k2 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:617.
+WARNING: Random tag vcxT0eT4j5 generated for 2k2.
+WARNING: Missing tag on 470 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:624.
+WARNING: Random tag QuNXnnRS9S generated for 470.
+WARNING: Missing tag on 22 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:631.
+WARNING: Random tag RAqa_Ow_Vh generated for 22.
+WARNING: Missing tag on 10k instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:638.
+WARNING: Random tag LcTIIUvixE generated for 10k.
+WARNING: Missing tag on 22 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:645.
+WARNING: Random tag J5iOeZzq59 generated for 22.
+WARNING: Missing tag on 10k instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:652.
+WARNING: Random tag YYUd2NsDB1 generated for 10k.
+WARNING: Missing tag on 2k2 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:659.
+WARNING: Random tag 9Hp73MJbc6 generated for 2k2.
+WARNING: Missing tag on 10k instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:666.
+WARNING: Random tag JwBLCdaBTo generated for 10k.
+WARNING: Missing tag on 10k instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:673.
+WARNING: Random tag ZIJjvN6LNN generated for 10k.
+WARNING: Missing tag on Conn_01x04 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:680.
+WARNING: Random tag ZSNHX6Dp4J generated for Conn_01x04.
+WARNING: Missing tag on SKRPANE010 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:687.
+WARNING: Random tag PoHYh3zSZk generated for SKRPANE010.
+WARNING: Missing tag on Conn_01x04 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:694.
+WARNING: Random tag BtcysCkd1e generated for Conn_01x04.
+WARNING: Missing tag on TrmnlBlck instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:701.
+WARNING: Random tag uE6Tzbsh9v generated for TrmnlBlck.
+WARNING: Missing tag on Conn_02x05_Counter_Clockwise instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:708.
+WARNING: Random tag hFMUK6O3mZ generated for Conn_02x05_Counter_Clockwise.
+WARNING: Missing tag on Conn_01x04 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:715.
+WARNING: Random tag Cb9eK_STdj generated for Conn_01x04.
+WARNING: Missing tag on AP2112K-3.3 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:722.
+WARNING: Random tag 6yoi0lJsnr generated for AP2112K-3.3.
+WARNING: Missing tag on PCA9685PW instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:729.
+WARNING: Random tag RgvYssgAXr generated for PCA9685PW.
+WARNING: Missing tag on CAT24C256 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:736.
+WARNING: Random tag N0EnX92tfp generated for CAT24C256.
+WARNING: Missing tag on USBLC6-2SC6 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:743.
+WARNING: Random tag E3JNOzMuXi generated for USBLC6-2SC6.
+WARNING: Missing tag on 74AHC1GU04GW,125 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:750.
+WARNING: Random tag gX0qzH2Xo_ generated for 74AHC1GU04GW,125.
+WARNING: Missing tag on CH340E instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:757.
+WARNING: Random tag qDADbIc2el generated for CH340E.
+WARNING: Missing tag on USB_B_Micro instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:764.
+WARNING: Random tag 8LGCZPWNPH generated for USB_B_Micro.
+WARNING: Missing tag on Conn_01x02 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/HadesMicroJLCPCB.py:771.
+WARNING: Random tag gyBvO05d58 generated for Conn_01x02.
+WARNING: Missing tag on  instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesMicroJLCPCB/<frozen importlib._bootstrap>:241.
+INFO: 173 warnings found while generating netlist.
+INFO: 0 errors found while generating netlist.
+

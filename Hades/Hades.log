@@ -1,0 +1,403 @@
+WARNING: KICAD6_SYMBOL_DIR environment variable is missing, so the default KiCad symbol libraries won't be searched. @ [/sessions/gallant-gracious-fermat/work/hades_build/Hades/<frozen importlib._bootstrap_external>:883=>/sessions/gallant-gracious-fermat/work/hades_build/Hades/<frozen importlib._bootstrap>:241]
+WARNING: KICAD9_SYMBOL_DIR environment variable is missing, so the default KiCad symbol libraries won't be searched. @ [/sessions/gallant-gracious-fermat/work/hades_build/Hades/<frozen importlib._bootstrap_external>:883=>/sessions/gallant-gracious-fermat/work/hades_build/Hades/<frozen importlib._bootstrap>:241]
+WARNING: KICAD7_SYMBOL_DIR environment variable is missing, so the default KiCad symbol libraries won't be searched. @ [/sessions/gallant-gracious-fermat/work/hades_build/Hades/<frozen importlib._bootstrap_external>:883=>/sessions/gallant-gracious-fermat/work/hades_build/Hades/<frozen importlib._bootstrap>:241]
+WARNING: KICAD8_SYMBOL_DIR environment variable is missing, so the default KiCad symbol libraries won't be searched. @ [/sessions/gallant-gracious-fermat/work/hades_build/Hades/<frozen importlib._bootstrap_external>:883=>/sessions/gallant-gracious-fermat/work/hades_build/Hades/<frozen importlib._bootstrap>:241]
+WARNING: KICAD_SYMBOL_DIR environment variable is missing, so the default KiCad symbol libraries won't be searched. @ [/sessions/gallant-gracious-fermat/work/hades_build/Hades/<frozen importlib._bootstrap_external>:883=>/sessions/gallant-gracious-fermat/work/hades_build/Hades/<frozen importlib._bootstrap>:241]
+WARNING: fp-lib-table file was not found. Component footprints are not available.
+WARNING: fp-lib-table file was not found. Component footprints are not available.
+WARNING: fp-lib-table file was not found. Component footprints are not available.
+WARNING: fp-lib-table file was not found. Component footprints are not available.
+WARNING: Missing tag on XT60-M instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:331.
+WARNING: Random tag n1pRiywJtA generated for XT60-M.
+WARNING: Missing tag on 100u instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:338.
+WARNING: Random tag CFUBw8VTn_ generated for 100u.
+WARNING: Missing tag on 47u instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:345.
+WARNING: Random tag L0PHHxIHsB generated for 47u.
+WARNING: Missing tag on 2u2 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:352.
+WARNING: Random tag 5T0mO3njWJ generated for 2u2.
+WARNING: Missing tag on 2u2 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:359.
+WARNING: Random tag vUZ0WTdKJg generated for 2u2.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:366.
+WARNING: Random tag roBpFzSjFr generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:373.
+WARNING: Random tag JjxZ7qBgAu generated for 100n.
+WARNING: Missing tag on 4n7 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:380.
+WARNING: Random tag rQ5Cik0dQb generated for 4n7.
+WARNING: Missing tag on 100u instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:387.
+WARNING: Random tag jDQFuunVgt generated for 100u.
+WARNING: Missing tag on 47u instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:394.
+WARNING: Random tag onFnb_CJHY generated for 47u.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:401.
+WARNING: Random tag eLhqLxWAjZ generated for 100n.
+WARNING: Missing tag on 10u instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:408.
+WARNING: Random tag N3ZHfca_O_ generated for 10u.
+WARNING: Missing tag on 10u instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:415.
+WARNING: Random tag xG59pmD9aa generated for 10u.
+WARNING: Missing tag on SD103AWS instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:422.
+WARNING: Random tag 2ztq9sdfdf generated for SD103AWS.
+WARNING: Missing tag on 15u instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:429.
+WARNING: Random tag ledm_9fXMl generated for 15u.
+WARNING: Missing tag on G instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:436.
+WARNING: Random tag g29shUbDgq generated for G.
+WARNING: Missing tag on G instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:443.
+WARNING: Random tag g0psETJCbW generated for G.
+WARNING: Missing tag on 0.01 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:450.
+WARNING: Random tag 9rTFLonGQK generated for 0.01.
+WARNING: Missing tag on 10k instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:457.
+WARNING: Random tag 8l2J12Qpuk generated for 10k.
+WARNING: Missing tag on 10k instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:464.
+WARNING: Random tag FkFImHkLwY generated for 10k.
+WARNING: Missing tag on 19k6 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:471.
+WARNING: Random tag P5A0dxRoVt generated for 19k6.
+WARNING: Missing tag on 6k8 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:478.
+WARNING: Random tag RI3GlmxDpE generated for 6k8.
+WARNING: Missing tag on 1k3 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:485.
+WARNING: Random tag QxaSl1GkzX generated for 1k3.
+WARNING: Missing tag on 560 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:492.
+WARNING: Random tag aRVlAbX5Rc generated for 560.
+WARNING: Missing tag on 240 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:499.
+WARNING: Random tag U3L66Dpyuf generated for 240.
+WARNING: Missing tag on MIC26903YJL-TR instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:506.
+WARNING: Random tag OieXBRAxHe generated for MIC26903YJL-TR.
+WARNING: Missing tag on LD39200PU33R instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:513.
+WARNING: Random tag UEFVvA0hd2 generated for LD39200PU33R.
+WARNING: Missing tag on INA219AIDCNR instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:520.
+WARNING: Random tag GDKYpg8DW3 generated for INA219AIDCNR.
+WARNING: Missing tag on 2u2 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:527.
+WARNING: Random tag 1O5pDoj03N generated for 2u2.
+WARNING: Missing tag on 2u2 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:534.
+WARNING: Random tag MpXexKSxuf generated for 2u2.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:541.
+WARNING: Random tag HSaNvtNQXs generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:548.
+WARNING: Random tag LWZo5sO7r5 generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:555.
+WARNING: Random tag 8XBYq8gWBA generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:562.
+WARNING: Random tag TdnfyNGSdU generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:569.
+WARNING: Random tag Ygy4aS2Nps generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:576.
+WARNING: Random tag K0HH__4msk generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:583.
+WARNING: Random tag 9vXrszlBcV generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:590.
+WARNING: Random tag 8jZoZklmbO generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:597.
+WARNING: Random tag fk_HjO1fqi generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:604.
+WARNING: Random tag JwKz1H13xa generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:611.
+WARNING: Random tag dm2chJY3fF generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:618.
+WARNING: Random tag yjJmPARS7w generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:625.
+WARNING: Random tag wAcslbXLJd generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:632.
+WARNING: Random tag gZibo1ssWW generated for 100n.
+WARNING: Missing tag on 10p instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:639.
+WARNING: Random tag nGCjvo0amp generated for 10p.
+WARNING: Missing tag on 10p instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:646.
+WARNING: Random tag nXf6ghKbmV generated for 10p.
+WARNING: Missing tag on STM32H753VITx instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:653.
+WARNING: Random tag 4liPBosHLN generated for STM32H753VITx.
+WARNING: Missing tag on 25MHz instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:660.
+WARNING: Random tag Q1OOZKYcUg generated for 25MHz.
+WARNING: Missing tag on R instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:667.
+WARNING: Random tag Ue6QjtUY3T generated for R.
+WARNING: Missing tag on R instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:674.
+WARNING: Random tag q8R711LoK1 generated for R.
+WARNING: Missing tag on Y instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:681.
+WARNING: Random tag 0vfEDzQSZd generated for Y.
+WARNING: Missing tag on B instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:688.
+WARNING: Random tag YTG5TsB9El generated for B.
+WARNING: Missing tag on B instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:695.
+WARNING: Random tag TEiqAvoxhX generated for B.
+WARNING: Missing tag on B instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:702.
+WARNING: Random tag KAQ1vO90Vl generated for B.
+WARNING: Missing tag on 4k7 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:709.
+WARNING: Random tag exV2l9ZNJ4 generated for 4k7.
+WARNING: Missing tag on 4k7 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:716.
+WARNING: Random tag qx09bAAV2Q generated for 4k7.
+WARNING: Missing tag on 4k7 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:723.
+WARNING: Random tag cOYS17tyEs generated for 4k7.
+WARNING: Missing tag on 4k7 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:730.
+WARNING: Random tag LDjhsKRAKB generated for 4k7.
+WARNING: Missing tag on 4k7 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:737.
+WARNING: Random tag eYmQxNgm7K generated for 4k7.
+WARNING: Missing tag on 4k7 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:744.
+WARNING: Random tag rCHzwzvaiy generated for 4k7.
+WARNING: Missing tag on 330 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:751.
+WARNING: Random tag suTIpETENf generated for 330.
+WARNING: Missing tag on 330 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:758.
+WARNING: Random tag PI4FzlwtUR generated for 330.
+WARNING: Missing tag on 330 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:765.
+WARNING: Random tag ISO_XEyhGV generated for 330.
+WARNING: Missing tag on 100 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:772.
+WARNING: Random tag wzpwwYAZ_E generated for 100.
+WARNING: Missing tag on 100 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:779.
+WARNING: Random tag htnp9SKgdM generated for 100.
+WARNING: Missing tag on 100 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:786.
+WARNING: Random tag risExcEoSS generated for 100.
+WARNING: Missing tag on 47 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:793.
+WARNING: Random tag 2RCZNAmFWq generated for 47.
+WARNING: Missing tag on 10k instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:800.
+WARNING: Random tag Lxg7MFzWKa generated for 10k.
+WARNING: Missing tag on 620 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:807.
+WARNING: Random tag oZkyKjEfR5 generated for 620.
+WARNING: Missing tag on SKRPANE010 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:814.
+WARNING: Random tag vNkqxTEEOn generated for SKRPANE010.
+WARNING: Missing tag on TDD01H0SB1R instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:821.
+WARNING: Random tag E9WyNPvLVL generated for TDD01H0SB1R.
+WARNING: Missing tag on I2C1 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:828.
+WARNING: Random tag 48v5_GHNIH generated for I2C1.
+WARNING: Missing tag on I2C1 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:835.
+WARNING: Random tag rZ24Xlbdwd generated for I2C1.
+WARNING: Missing tag on 2u2 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:842.
+WARNING: Random tag ndzArKy9qD generated for 2u2.
+WARNING: Missing tag on 2u2 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:849.
+WARNING: Random tag oGOtTwbpnf generated for 2u2.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:856.
+WARNING: Random tag QnwnOWENwA generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:863.
+WARNING: Random tag AONGG2YK4J generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:870.
+WARNING: Random tag 2M8BXGgC6j generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:877.
+WARNING: Random tag T_odsNU2Xr generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:884.
+WARNING: Random tag szNTdQIuSD generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:891.
+WARNING: Random tag KUbugJlMtY generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:898.
+WARNING: Random tag wqrKKooq9l generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:905.
+WARNING: Random tag pOsDPPeSbh generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:912.
+WARNING: Random tag R0TpSEa1PY generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:919.
+WARNING: Random tag hqGw0yhuQd generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:926.
+WARNING: Random tag wkEgFBuZwS generated for 100n.
+WARNING: Missing tag on 10p instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:933.
+WARNING: Random tag YugjYCDc0u generated for 10p.
+WARNING: Missing tag on 10p instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:940.
+WARNING: Random tag 8DcflJtudJ generated for 10p.
+WARNING: Missing tag on 25MHz instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:947.
+WARNING: Random tag h_o34PKoBg generated for 25MHz.
+WARNING: Missing tag on R instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:954.
+WARNING: Random tag K463HM4enR generated for R.
+WARNING: Missing tag on R instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:961.
+WARNING: Random tag 2kIV10JJdy generated for R.
+WARNING: Missing tag on Y instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:968.
+WARNING: Random tag n8PMJJnBsV generated for Y.
+WARNING: Missing tag on B instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:975.
+WARNING: Random tag Q5TC4RDGuO generated for B.
+WARNING: Missing tag on STM32F405RGTx instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:982.
+WARNING: Random tag teWWoHnhld generated for STM32F405RGTx.
+WARNING: Missing tag on 10k instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:989.
+WARNING: Random tag pQq379Bl4C generated for 10k.
+WARNING: Missing tag on 10k instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:996.
+WARNING: Random tag QO9qQbHxxi generated for 10k.
+WARNING: Missing tag on 4k7 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1003.
+WARNING: Random tag Qabdsn5JI8 generated for 4k7.
+WARNING: Missing tag on 4k7 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1010.
+WARNING: Random tag sxBnTRZpZj generated for 4k7.
+WARNING: Missing tag on 4k7 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1017.
+WARNING: Random tag 72tiqt3pvW generated for 4k7.
+WARNING: Missing tag on 4k7 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1024.
+WARNING: Random tag eRv6K4q_GY generated for 4k7.
+WARNING: Missing tag on 620 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1031.
+WARNING: Random tag 3gMilOqFgp generated for 620.
+WARNING: Missing tag on 330 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1038.
+WARNING: Random tag BPnSvMQ_ZO generated for 330.
+WARNING: Missing tag on 330 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1045.
+WARNING: Random tag p5i4BQ2fIc generated for 330.
+WARNING: Missing tag on 330 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1052.
+WARNING: Random tag ahwWEeFNKm generated for 330.
+WARNING: Missing tag on 100 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1059.
+WARNING: Random tag uVRx_zrRth generated for 100.
+WARNING: Missing tag on TDD01H0SB1R instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1066.
+WARNING: Random tag 86J1nx00Ru generated for TDD01H0SB1R.
+WARNING: Missing tag on TDD01H0SB1R instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1073.
+WARNING: Random tag pltptqNemi generated for TDD01H0SB1R.
+WARNING: Missing tag on SKRPANE010 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1080.
+WARNING: Random tag xxdo_KSUy9 generated for SKRPANE010.
+WARNING: Missing tag on I2C1 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1087.
+WARNING: Random tag tjo22PYTvi generated for I2C1.
+WARNING: Missing tag on I2C1 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1094.
+WARNING: Random tag wdkNgwJ7QR generated for I2C1.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1101.
+WARNING: Random tag A9DNu8Eeh7 generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1108.
+WARNING: Random tag U0_558sMee generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1115.
+WARNING: Random tag zBtlp0oM3E generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1122.
+WARNING: Random tag eJ2yF_pxYf generated for 100n.
+WARNING: Missing tag on SD103AWS instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1129.
+WARNING: Random tag lhZjB3zkQ3 generated for SD103AWS.
+WARNING: Missing tag on SD103AWS instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1136.
+WARNING: Random tag YB7EVwgl2w generated for SD103AWS.
+WARNING: Missing tag on SD103AWS instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1143.
+WARNING: Random tag R4ZNrfJ298 generated for SD103AWS.
+WARNING: Missing tag on SD103AWS instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1150.
+WARNING: Random tag ufniB57IQS generated for SD103AWS.
+WARNING: Missing tag on Conn_01x02 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1157.
+WARNING: Random tag 7PN0dhaUBd generated for Conn_01x02.
+WARNING: Missing tag on SolderJumper_2_Open instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1164.
+WARNING: Random tag A07q7BrDpN generated for SolderJumper_2_Open.
+WARNING: Missing tag on SolderJumper_2_Open instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1171.
+WARNING: Random tag jvoLG7amWO generated for SolderJumper_2_Open.
+WARNING: Missing tag on Jumper_3_Open instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1178.
+WARNING: Random tag eOjZ7IUXqK generated for Jumper_3_Open.
+WARNING: Missing tag on G instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1185.
+WARNING: Random tag PYrUmuF_PL generated for G.
+WARNING: Missing tag on G instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1192.
+WARNING: Random tag QRShaUNbMw generated for G.
+WARNING: Missing tag on 10 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1199.
+WARNING: Random tag jdOBI_dT1F generated for 10.
+WARNING: Missing tag on 10 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1206.
+WARNING: Random tag PJhUfzi7kl generated for 10.
+WARNING: Missing tag on 10 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1213.
+WARNING: Random tag OEwJHOcy8B generated for 10.
+WARNING: Missing tag on 10 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1220.
+WARNING: Random tag 1V52DbK5AI generated for 10.
+WARNING: Missing tag on 10 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1227.
+WARNING: Random tag J5EygWMQFD generated for 10.
+WARNING: Missing tag on 10 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1234.
+WARNING: Random tag NBVK5PoeCQ generated for 10.
+WARNING: Missing tag on 10 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1241.
+WARNING: Random tag 3xpWROcTAe generated for 10.
+WARNING: Missing tag on 10 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1248.
+WARNING: Random tag oLCYhUE0tV generated for 10.
+WARNING: Missing tag on 10 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1255.
+WARNING: Random tag uGu5mG8TLK generated for 10.
+WARNING: Missing tag on 10 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1262.
+WARNING: Random tag x8lsaIZsEO generated for 10.
+WARNING: Missing tag on 0 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1269.
+WARNING: Random tag ZLeLa7aiK9 generated for 0.
+WARNING: Missing tag on 0 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1276.
+WARNING: Random tag VCaE_m_YGC generated for 0.
+WARNING: Missing tag on 22 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1283.
+WARNING: Random tag rjP0Qwu8mk generated for 22.
+WARNING: Missing tag on 22 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1290.
+WARNING: Random tag CoCf0HtnYX generated for 22.
+WARNING: Missing tag on 560 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1297.
+WARNING: Random tag tJGM0M1x1N generated for 560.
+WARNING: Missing tag on 22 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1304.
+WARNING: Random tag xs4GviR7NF generated for 22.
+WARNING: Missing tag on 22 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1311.
+WARNING: Random tag BTpQMuoXXZ generated for 22.
+WARNING: Missing tag on 560 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1318.
+WARNING: Random tag f1hDJvNjIN generated for 560.
+WARNING: Missing tag on 560 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1325.
+WARNING: Random tag M4zdXGOzCQ generated for 560.
+WARNING: Missing tag on 560 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1332.
+WARNING: Random tag ZZ9c8tCzfi generated for 560.
+WARNING: Missing tag on Conn_02x05_Odd_Even instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1339.
+WARNING: Random tag QCPmKWBb33 generated for Conn_02x05_Odd_Even.
+WARNING: Missing tag on Conn_02x05_Odd_Even instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1346.
+WARNING: Random tag MREsuovq42 generated for Conn_02x05_Odd_Even.
+WARNING: Missing tag on USB_B_Micro instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1353.
+WARNING: Random tag QP0cYKb_qU generated for USB_B_Micro.
+WARNING: Missing tag on USB_B_Micro instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1360.
+WARNING: Random tag CLOLwv8Fky generated for USB_B_Micro.
+WARNING: Missing tag on USB_B_Micro instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1367.
+WARNING: Random tag qHMRBmYi_r generated for USB_B_Micro.
+WARNING: Missing tag on USB_B_Micro instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1374.
+WARNING: Random tag 3fPb83OHVh generated for USB_B_Micro.
+WARNING: Missing tag on Conn_01x04 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1381.
+WARNING: Random tag 5a7Oyq2lp9 generated for Conn_01x04.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1388.
+WARNING: Random tag 9yki9Fs8bV generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1395.
+WARNING: Random tag GiQNG85wAk generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1402.
+WARNING: Random tag vgMaJPJSKW generated for 100n.
+WARNING: Missing tag on Conn_01x04 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1409.
+WARNING: Random tag xBUDeyBNJx generated for Conn_01x04.
+WARNING: Missing tag on Conn_02x08_Odd_Even instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1416.
+WARNING: Random tag VxbBwgl2xo generated for Conn_02x08_Odd_Even.
+WARNING: Missing tag on 2.54mm instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1423.
+WARNING: Random tag xnK2TAVWdv generated for 2.54mm.
+WARNING: Missing tag on 10k instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1430.
+WARNING: Random tag kEYqZiy7dQ generated for 10k.
+WARNING: Missing tag on 10k instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1437.
+WARNING: Random tag pfVRZyH2OY generated for 10k.
+WARNING: Missing tag on Conn_01x06 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1444.
+WARNING: Random tag dZBdEzDRsy generated for Conn_01x06.
+WARNING: Missing tag on PCA9685PW instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1451.
+WARNING: Random tag _TyIBKlNYf generated for PCA9685PW.
+WARNING: Missing tag on 24CW1280T-I_OT instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1458.
+WARNING: Random tag KUwkfjy5qj generated for 24CW1280T-I_OT.
+WARNING: Missing tag on W25N01GVZEIG_TR instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1465.
+WARNING: Random tag 13gOFpR_Qz generated for W25N01GVZEIG_TR.
+WARNING: Missing tag on Conn_01x04 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1472.
+WARNING: Random tag 6o1ArjuxwG generated for Conn_01x04.
+WARNING: Missing tag on Conn_01x04 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1479.
+WARNING: Random tag EjCp10Cbzy generated for Conn_01x04.
+WARNING: Missing tag on Conn_01x04 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1486.
+WARNING: Random tag ejwWnCUUkB generated for Conn_01x04.
+WARNING: Missing tag on 5-1814832-1 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1493.
+WARNING: Random tag JwoKufMny8 generated for 5-1814832-1.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1500.
+WARNING: Random tag Pbja1PPZzk generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1507.
+WARNING: Random tag TGfVz0P6Uw generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1514.
+WARNING: Random tag rxPgY3lTkb generated for 100n.
+WARNING: Missing tag on 1n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1521.
+WARNING: Random tag OglS_zgue9 generated for 1n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1528.
+WARNING: Random tag tKW61Ql3jm generated for 100n.
+WARNING: Missing tag on 220n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1535.
+WARNING: Random tag 5jR7r_40Aq generated for 220n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1542.
+WARNING: Random tag RcAwPG8eEM generated for 100n.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1549.
+WARNING: Random tag OLpgx4ExZ4 generated for 100n.
+WARNING: Missing tag on 10u instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1556.
+WARNING: Random tag grsVslfPVC generated for 10u.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1563.
+WARNING: Random tag mM3s6bNPmx generated for 100n.
+WARNING: Missing tag on 1u instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1570.
+WARNING: Random tag qrRVJcjF9H generated for 1u.
+WARNING: Missing tag on 1u instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1577.
+WARNING: Random tag 9NYdE_2eCX generated for 1u.
+WARNING: Missing tag on 22p instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1584.
+WARNING: Random tag 7pEAEcqgtb generated for 22p.
+WARNING: Missing tag on 10n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1591.
+WARNING: Random tag XDwRSYOKqc generated for 10n.
+WARNING: Missing tag on Conn_01x07 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1598.
+WARNING: Random tag 0lPo9dlvCt generated for Conn_01x07.
+WARNING: Missing tag on Conn_01x04 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1605.
+WARNING: Random tag r4bUeW2A7P generated for Conn_01x04.
+WARNING: Missing tag on SolderJumper_3_Open instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1612.
+WARNING: Random tag lW0n5FaBSw generated for SolderJumper_3_Open.
+WARNING: Missing tag on 27n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1619.
+WARNING: Random tag mZxbsElR7M generated for 27n.
+WARNING: Missing tag on 10k instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1626.
+WARNING: Random tag 75bozsc1tZ generated for 10k.
+WARNING: Missing tag on 10k instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1633.
+WARNING: Random tag N470mrFBim generated for 10k.
+WARNING: Missing tag on 10 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1640.
+WARNING: Random tag FC54kjIt0F generated for 10.
+WARNING: Missing tag on BMI088 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1647.
+WARNING: Random tag jUX56zMewW generated for BMI088.
+WARNING: Missing tag on TMP100 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1654.
+WARNING: Random tag om9U6Dv5b_ generated for TMP100.
+WARNING: Missing tag on MPRLS0025PA00001A instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1661.
+WARNING: Random tag xo76Pm_a7q generated for MPRLS0025PA00001A.
+WARNING: Missing tag on IIS2MDCTR instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1668.
+WARNING: Random tag 9UE1TprJYV generated for IIS2MDCTR.
+WARNING: Missing tag on 24CW1280T-I_OT instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1675.
+WARNING: Random tag p7CGIf1FzD generated for 24CW1280T-I_OT.
+WARNING: Missing tag on u-blox MAX-8Q instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1682.
+WARNING: Random tag Ob8mRY2xGI generated for u-blox MAX-8Q.
+WARNING: Missing tag on Conn_01x04 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/Hades.py:1689.
+WARNING: Random tag oSE82dPDy8 generated for Conn_01x04.
+WARNING: Missing tag on  instantiated at /sessions/gallant-gracious-fermat/work/hades_build/Hades/<frozen importlib._bootstrap>:241.
+INFO: 395 warnings found while generating netlist.
+INFO: 0 errors found while generating netlist.
+

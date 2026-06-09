@@ -1,0 +1,10655 @@
+(export
+	(version "E")
+	(design
+		(source "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+		(date "2026-04-22T15:54:09")
+		(tool "Eeschema 10.0.1")
+		(sheet
+			(number "1")
+			(name "/")
+			(tstamps "/")
+			(title_block
+				(title "Hades Micro")
+				(company)
+				(rev)
+				(date "2019-12-05")
+				(source "HadesMicro.sch")
+				(comment
+					(number "1")
+					(value "")
+				)
+				(comment
+					(number "2")
+					(value "")
+				)
+				(comment
+					(number "3")
+					(value "")
+				)
+				(comment
+					(number "4")
+					(value "")
+				)
+				(comment
+					(number "5")
+					(value "")
+				)
+				(comment
+					(number "6")
+					(value "")
+				)
+				(comment
+					(number "7")
+					(value "")
+				)
+				(comment
+					(number "8")
+					(value "")
+				)
+				(comment
+					(number "9")
+					(value "")
+				)
+			)
+		)
+	)
+	(components
+		(comp
+			(ref "BAR1")
+			(value "BMP388")
+			(footprint "BMP388:PQFN50P200X200X80-10N")
+			(datasheet "P-Sensor SPI I2C 1, 25 Bar SMD")
+			(fields
+				(field
+					(name "Field4") "WFLGA-10 Bosch Tools")
+				(field
+					(name "Field5") "BMP388")
+				(field
+					(name "Field6") "Unavailable")
+				(field
+					(name "Field7") "None")
+				(field
+					(name "Field8") "Bosch Sensortec")
+				(field
+					(name "Footprint") "BMP388:PQFN50P200X200X80-10N")
+				(field
+					(name "Datasheet") "P-Sensor SPI I2C 1, 25 Bar SMD")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "")
+				(part "BMP388_1")
+				(description "")
+			)
+			(property
+				(name "Field4")
+				(value "WFLGA-10 Bosch Tools")
+			)
+			(property
+				(name "Field5")
+				(value "BMP388")
+			)
+			(property
+				(name "Field6")
+				(value "Unavailable")
+			)
+			(property
+				(name "Field7")
+				(value "None")
+			)
+			(property
+				(name "Field8")
+				(value "Bosch Sensortec")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005dead61d")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "10")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "8")
+						)
+						(pin
+							(num "9")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "BOOT0")
+			(value "TDD01H0SB1R")
+			(footprint "TDD01H0SB1R:SOT175P420X230-3N")
+			(datasheet "https://componentsearchengine.com/Datasheets/1/TDD01H0SB1R.pdf")
+			(fields
+				(field
+					(name "Description")
+				)
+				(field
+					(name "Height") "2.3")
+				(field
+					(name "Manufacturer_Name") "C & K COMPONENTS")
+				(field
+					(name "Manufacturer_Part_Number") "TDD01H0SB1R")
+				(field
+					(name "Mouser Part Number") "611-TDD01H0SB1R")
+				(field
+					(name "Mouser Price/Stock") "https://www.mouser.com/Search/Refine.aspx?Keyword=611-TDD01H0SB1R")
+				(field
+					(name "RS Part Number")
+				)
+				(field
+					(name "RS Price/Stock")
+				)
+				(field
+					(name "Footprint") "TDD01H0SB1R:SOT175P420X230-3N")
+				(field
+					(name "Datasheet") "https://componentsearchengine.com/Datasheets/1/TDD01H0SB1R.pdf")
+			)
+			(libsource
+				(lib "TDD01H0SB1R")
+				(part "TDD01H0SB1R")
+				(description "")
+			)
+			(property
+				(name "Description")
+				(value "DIP Switches / SIP Switches Jumper Switch 2 positions")
+			)
+			(property
+				(name "Height")
+				(value "2.3")
+			)
+			(property
+				(name "Manufacturer_Name")
+				(value "C & K COMPONENTS")
+			)
+			(property
+				(name "Manufacturer_Part_Number")
+				(value "TDD01H0SB1R")
+			)
+			(property
+				(name "Mouser Part Number")
+				(value "611-TDD01H0SB1R")
+			)
+			(property
+				(name "Mouser Price/Stock")
+				(value "https://www.mouser.com/Search/Refine.aspx?Keyword=611-TDD01H0SB1R")
+			)
+			(property
+				(name "RS Part Number")
+				(value "")
+			)
+			(property
+				(name "RS Price/Stock")
+				(value "")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005e56c8b5")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "BOOT1")
+			(value "TDD01H0SB1R")
+			(footprint "TDD01H0SB1R:SOT175P420X230-3N")
+			(datasheet "https://componentsearchengine.com/Datasheets/1/TDD01H0SB1R.pdf")
+			(fields
+				(field
+					(name "Description")
+				)
+				(field
+					(name "Height") "2.3")
+				(field
+					(name "Manufacturer_Name") "C & K COMPONENTS")
+				(field
+					(name "Manufacturer_Part_Number") "TDD01H0SB1R")
+				(field
+					(name "Mouser Part Number") "611-TDD01H0SB1R")
+				(field
+					(name "Mouser Price/Stock") "https://www.mouser.com/Search/Refine.aspx?Keyword=611-TDD01H0SB1R")
+				(field
+					(name "RS Part Number")
+				)
+				(field
+					(name "RS Price/Stock")
+				)
+				(field
+					(name "Footprint") "TDD01H0SB1R:SOT175P420X230-3N")
+				(field
+					(name "Datasheet") "https://componentsearchengine.com/Datasheets/1/TDD01H0SB1R.pdf")
+			)
+			(libsource
+				(lib "TDD01H0SB1R")
+				(part "TDD01H0SB1R")
+				(description "")
+			)
+			(property
+				(name "Description")
+				(value "DIP Switches / SIP Switches Jumper Switch 2 positions")
+			)
+			(property
+				(name "Height")
+				(value "2.3")
+			)
+			(property
+				(name "Manufacturer_Name")
+				(value "C & K COMPONENTS")
+			)
+			(property
+				(name "Manufacturer_Part_Number")
+				(value "TDD01H0SB1R")
+			)
+			(property
+				(name "Mouser Part Number")
+				(value "611-TDD01H0SB1R")
+			)
+			(property
+				(name "Mouser Price/Stock")
+				(value "https://www.mouser.com/Search/Refine.aspx?Keyword=611-TDD01H0SB1R")
+			)
+			(property
+				(name "RS Part Number")
+				(value "")
+			)
+			(property
+				(name "RS Price/Stock")
+				(value "")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005e58f4e7")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C1")
+			(value "10u")
+			(footprint "Capacitor_SMD:C_0603_1608Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0603_1608Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005dec5742")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C2")
+			(value "10u")
+			(footprint "Capacitor_SMD:C_0603_1608Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0603_1608Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005dec57ae")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C3")
+			(value "10u")
+			(footprint "Capacitor_SMD:C_0603_1608Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0603_1608Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "CP")
+				(description "")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "CP_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005de8cea8")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C4")
+			(value "100n")
+			(footprint "Capacitor_SMD:C_0402_1005Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005de94116")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C5")
+			(value "100n")
+			(footprint "Capacitor_SMD:C_0402_1005Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005de94293")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C6")
+			(value "100n")
+			(footprint "Capacitor_SMD:C_0402_1005Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005de9442b")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C7")
+			(value "100n")
+			(footprint "Capacitor_SMD:C_0402_1005Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005de94469")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C8")
+			(value "100n")
+			(footprint "Capacitor_SMD:C_0402_1005Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005de945bf")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C9")
+			(value "100n")
+			(footprint "Capacitor_SMD:C_0402_1005Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005de94603")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C10")
+			(value "100n")
+			(footprint "Capacitor_SMD:C_0402_1005Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005de94645")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C11")
+			(value "100n")
+			(footprint "Capacitor_SMD:C_0402_1005Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005de9468b")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C12")
+			(value "100n")
+			(footprint "Capacitor_SMD:C_0402_1005Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005de946cf")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C13")
+			(value "2u2")
+			(footprint "Capacitor_SMD:C_0402_1005Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005dea6fc3")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C14")
+			(value "2u2")
+			(footprint "Capacitor_SMD:C_0402_1005Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005dea8309")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C15")
+			(value "1u")
+			(footprint "Capacitor_SMD:C_0402_1005Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005de8e4f9")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C16")
+			(value "100n")
+			(footprint "Capacitor_SMD:C_0402_1005Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005de8e559")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C17")
+			(value "10p")
+			(footprint "Capacitor_SMD:C_0402_1005Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005de8ce46")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C18")
+			(value "10p")
+			(footprint "Capacitor_SMD:C_0402_1005Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005de91c72")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C19")
+			(value "100n")
+			(footprint "Capacitor_SMD:C_0402_1005Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005dfcddec")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C20")
+			(value "100n")
+			(footprint "Capacitor_SMD:C_0402_1005Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005deff8e3")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C21")
+			(value "100n")
+			(footprint "Capacitor_SMD:C_0402_1005Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005deff9bb")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C22")
+			(value "220n")
+			(footprint "Capacitor_SMD:C_0402_1005Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005df27ef0")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C23")
+			(value "100n")
+			(footprint "Capacitor_SMD:C_0402_1005Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005df3d3cc")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C24")
+			(value "100n")
+			(footprint "Capacitor_SMD:C_0402_1005Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005df3d35c")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C25")
+			(value "10u")
+			(footprint "Capacitor_SMD:C_0603_1608Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0603_1608Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005df597a7")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C26")
+			(value "100n")
+			(footprint "Capacitor_SMD:C_0402_1005Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005df913a4")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C27")
+			(value "100n")
+			(footprint "Capacitor_SMD:C_0402_1005Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005df9143a")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C28")
+			(value "100n")
+			(footprint "Capacitor_SMD:C_0402_1005Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005e0cec2a")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C29")
+			(value "100n")
+			(footprint "Capacitor_SMD:C_0402_1005Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005e0bd792")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C30")
+			(value "100n")
+			(footprint "Capacitor_SMD:C_0402_1005Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005e049728")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C31")
+			(value "100n")
+			(footprint "Capacitor_SMD:C_0402_1005Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005deffef8")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C32")
+			(value "100n")
+			(footprint "Capacitor_SMD:C_0402_1005Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005e1f2087")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C33")
+			(value "100n")
+			(footprint "Capacitor_SMD:C_0402_1005Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005e52d2a0")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "C34")
+			(value "100n")
+			(footprint "Capacitor_SMD:C_0402_1005Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "C")
+				(description "Unpolarized capacitor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "cap capacitor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "C_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005dfe0db5")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D1")
+			(value "GR")
+			(footprint "LED_SMD:LED_0603_1608Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "LED_SMD:LED_0603_1608Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "LED")
+				(description "Light emitting diode")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "LED diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED* LED_SMD:* LED_THT:*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005e027cc9")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D2")
+			(value "RE")
+			(footprint "LED_SMD:LED_0603_1608Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "LED_SMD:LED_0603_1608Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "LED")
+				(description "Light emitting diode")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "LED diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED* LED_SMD:* LED_THT:*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005e03db6e")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D3")
+			(value "BL")
+			(footprint "LED_SMD:LED_0603_1608Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "LED_SMD:LED_0603_1608Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "LED")
+				(description "Light emitting diode")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "LED diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED* LED_SMD:* LED_THT:*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005e04878a")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D4")
+			(value "BL")
+			(footprint "LED_SMD:LED_0603_1608Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "LED_SMD:LED_0603_1608Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "LED")
+				(description "Light emitting diode")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "LED diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED* LED_SMD:* LED_THT:*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005e0533a4")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D5")
+			(value "D_Schottky")
+			(footprint "Diode_SMD:D_SOD-323")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Diode_SMD:D_SOD-323")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "D_Schottky")
+				(description "Schottky diode")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "diode Schottky")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "TO-???* *_Diode_* *SingleDiode* D_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005df2261d")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "D6")
+			(value "D_Schottky")
+			(footprint "Diode_SMD:D_SOD-323")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Diode_SMD:D_SOD-323")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "D_Schottky")
+				(description "Schottky diode")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "diode Schottky")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "TO-???* *_Diode_* *SingleDiode* D_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005e6451aa")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "EEPROM1")
+			(value "24CW1280T-I_OT")
+			(footprint "24CW1280T-I_OT:SOT95P280X145-5N")
+			(datasheet "http://ww1.microchip.com/downloads/en/DeviceDoc/24CW16X-24CW32X-24CW64X-24CW128X-Data-Sheet-20005772B.pdf")
+			(fields
+				(field
+					(name "Description")
+				)
+				(field
+					(name "Height") "1.45")
+				(field
+					(name "Manufacturer_Name") "Microchip")
+				(field
+					(name "Manufacturer_Part_Number") "24CW1280T-I/OT")
+				(field
+					(name "Mouser Part Number") "579-24CW1280T-I/OT")
+				(field
+					(name "Mouser Price/Stock") "https://www.mouser.com/Search/Refine.aspx?Keyword=579-24CW1280T-I%2FOT")
+				(field
+					(name "RS Part Number") "1871851")
+				(field
+					(name "RS Price/Stock") "http://uk.rs-online.com/web/p/products/1871851")
+				(field
+					(name "Footprint") "24CW1280T-I_OT:SOT95P280X145-5N")
+				(field
+					(name "Datasheet") "http://ww1.microchip.com/downloads/en/DeviceDoc/24CW16X-24CW32X-24CW64X-24CW128X-Data-Sheet-20005772B.pdf")
+			)
+			(libsource
+				(lib "24CW1280T-I_OT")
+				(part "24CW1280T-I_OT")
+				(description "MICROCHIP - 24CW1280T-I/OT - EEPROM, 128KBIT, -40 TO 85DEG C")
+			)
+			(property
+				(name "Description")
+				(value "MICROCHIP - 24CW1280T-I/OT - EEPROM, 128KBIT, -40 TO 85DEG C")
+			)
+			(property
+				(name "Height")
+				(value "1.45")
+			)
+			(property
+				(name "Manufacturer_Name")
+				(value "Microchip")
+			)
+			(property
+				(name "Manufacturer_Part_Number")
+				(value "24CW1280T-I/OT")
+			)
+			(property
+				(name "Mouser Part Number")
+				(value "579-24CW1280T-I/OT")
+			)
+			(property
+				(name "Mouser Price/Stock")
+				(value "https://www.mouser.com/Search/Refine.aspx?Keyword=579-24CW1280T-I%2FOT")
+			)
+			(property
+				(name "RS Part Number")
+				(value "1871851")
+			)
+			(property
+				(name "RS Price/Stock")
+				(value "http://uk.rs-online.com/web/p/products/1871851")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005de8cf57")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "5")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "F1")
+			(value "Fuse")
+			(footprint "Fuse:Fuse_0603_1608Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Fuse:Fuse_0603_1608Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "Fuse")
+				(description "Fuse")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "fuse")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "*Fuse*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005df39865")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "FB1")
+			(value "FB_Small")
+			(footprint "Inductor_SMD:L_0603_1608Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Inductor_SMD:L_0603_1608Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "Ferrite_Bead_Small")
+				(description "")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Inductor_* L_* *Ferrite*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005de8e3ee")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "FB2")
+			(value "FB_Small")
+			(footprint "Inductor_SMD:L_0603_1608Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Inductor_SMD:L_0603_1608Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "Ferrite_Bead_Small")
+				(description "")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Inductor_* L_* *Ferrite*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005e18c268")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "FLASH1")
+			(value "W25N01GVZEIG_TR")
+			(footprint "W25N01GVZEIG_TR:SON127P800X600X80-9N-D")
+			(datasheet "https://www.winbond.com/resource-files/w25n01gv revg 032116.pdf")
+			(fields
+				(field
+					(name "Description")
+				)
+				(field
+					(name "Height") "0.8")
+				(field
+					(name "Manufacturer_Name") "Winbond")
+				(field
+					(name "Manufacturer_Part_Number") "W25N01GVZEIG TR")
+				(field
+					(name "Mouser Part Number") "454-W25N01GVZEIGTR")
+				(field
+					(name "Mouser Price/Stock") "https://www.mouser.com/Search/Refine.aspx?Keyword=454-W25N01GVZEIGTR")
+				(field
+					(name "RS Part Number")
+				)
+				(field
+					(name "RS Price/Stock")
+				)
+				(field
+					(name "Footprint") "W25N01GVZEIG_TR:SON127P800X600X80-9N-D")
+				(field
+					(name "Datasheet") "https://www.winbond.com/resource-files/w25n01gv revg 032116.pdf")
+			)
+			(libsource
+				(lib "W25N01GVZEIG_TR")
+				(part "W25N01GVZEIG_TR")
+				(description "IC FLASH 1GBIT 104MHZ 8WSON")
+			)
+			(property
+				(name "Description")
+				(value "IC FLASH 1GBIT 104MHZ 8WSON")
+			)
+			(property
+				(name "Height")
+				(value "0.8")
+			)
+			(property
+				(name "Manufacturer_Name")
+				(value "Winbond")
+			)
+			(property
+				(name "Manufacturer_Part_Number")
+				(value "W25N01GVZEIG TR")
+			)
+			(property
+				(name "Mouser Part Number")
+				(value "454-W25N01GVZEIGTR")
+			)
+			(property
+				(name "Mouser Price/Stock")
+				(value "https://www.mouser.com/Search/Refine.aspx?Keyword=454-W25N01GVZEIGTR")
+			)
+			(property
+				(name "RS Part Number")
+				(value "")
+			)
+			(property
+				(name "RS Price/Stock")
+				(value "")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005de8d19f")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "8")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "9")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "GPS1")
+			(value "Conn_01x04")
+			(footprint "Connector_Molex:Molex_PicoBlade_53048-0810_1x04_P1.25mm_Horizontal")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Connector_Molex:Molex_PicoBlade_53048-0810_1x04_P1.25mm_Horizontal")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Connector_Generic")
+				(part "Conn_01x04")
+				(description "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "connector")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Connector*:*_1x??_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005e4259e2")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "HSE1")
+			(value "25MHz")
+			(footprint "Crystal:Crystal_SMD_Abracon_ABM8G-4Pin_3.2x2.5mm")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Crystal:Crystal_SMD_Abracon_ABM8G-4Pin_3.2x2.5mm")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "Crystal_GND24")
+				(description "Four pin crystal, GND on pins 2 and 4")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "quartz ceramic resonator oscillator")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Crystal*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005de905a1")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "3")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "I2C3")
+			(value "Conn_01x04")
+			(footprint "Connector_Molex:Molex_PicoBlade_53048-0410_1x04_P1.25mm_Horizontal")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Connector_Molex:Molex_PicoBlade_53048-0410_1x04_P1.25mm_Horizontal")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Connector_Generic")
+				(part "Conn_01x04")
+				(description "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "connector")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Connector*:*_1x??_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005e14c56a")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "IC1")
+			(value "74LVC1G04GX4Z")
+			(footprint "74LVC1G04GX4Z:74AUP1G04GX4Z")
+			(datasheet "https://assets.nexperia.com/documents/data-sheet/74LVC1G04.pdf")
+			(fields
+				(field
+					(name "Description")
+				)
+				(field
+					(name "Height") "0.35")
+				(field
+					(name "Manufacturer_Name") "Nexperia")
+				(field
+					(name "Manufacturer_Part_Number") "74LVC1G04GX4Z")
+				(field
+					(name "Mouser Part Number") "771-74LVC1G04GX4Z")
+				(field
+					(name "Mouser Price/Stock") "https://www.mouser.com/Search/Refine.aspx?Keyword=771-74LVC1G04GX4Z")
+				(field
+					(name "RS Part Number")
+				)
+				(field
+					(name "RS Price/Stock")
+				)
+				(field
+					(name "Footprint") "74LVC1G04GX4Z:74AUP1G04GX4Z")
+				(field
+					(name "Datasheet") "https://assets.nexperia.com/documents/data-sheet/74LVC1G04.pdf")
+			)
+			(libsource
+				(lib "74LVC1G04GX4Z")
+				(part "74LVC1G04GX4Z")
+				(description "74LVC1G04 - Single inverter@en-us")
+			)
+			(property
+				(name "Description")
+				(value "74LVC1G04 - Single inverter@en-us")
+			)
+			(property
+				(name "Height")
+				(value "0.35")
+			)
+			(property
+				(name "Manufacturer_Name")
+				(value "Nexperia")
+			)
+			(property
+				(name "Manufacturer_Part_Number")
+				(value "74LVC1G04GX4Z")
+			)
+			(property
+				(name "Mouser Part Number")
+				(value "771-74LVC1G04GX4Z")
+			)
+			(property
+				(name "Mouser Price/Stock")
+				(value "https://www.mouser.com/Search/Refine.aspx?Keyword=771-74LVC1G04GX4Z")
+			)
+			(property
+				(name "RS Part Number")
+				(value "")
+			)
+			(property
+				(name "RS Price/Stock")
+				(value "")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005e14781c")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "3")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "IMU1")
+			(value "BMI088")
+			(footprint "BMI088:PQFN50P450X300X100-16N")
+			(datasheet "BMI088")
+			(fields
+				(field
+					(name "Field4") "None")
+				(field
+					(name "Field5") "VFLGA-16 Bosch Sensortec")
+				(field
+					(name "Field6") "Bosch Sensortec")
+				(field
+					(name "Field7") "High-performance 6-axis inertial sensor _accelerometer + gyroscope_")
+				(field
+					(name "Field8") "Unavailable")
+				(field
+					(name "Footprint") "BMI088:PQFN50P450X300X100-16N")
+				(field
+					(name "Datasheet") "BMI088")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "")
+				(part "BMI088_1")
+				(description "")
+			)
+			(property
+				(name "Field4")
+				(value "None")
+			)
+			(property
+				(name "Field5")
+				(value "VFLGA-16 Bosch Sensortec")
+			)
+			(property
+				(name "Field6")
+				(value "Bosch Sensortec")
+			)
+			(property
+				(name "Field7")
+				(value "High-performance 6-axis inertial sensor _accelerometer + gyroscope_")
+			)
+			(property
+				(name "Field8")
+				(value "Unavailable")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005de8cc96")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "14")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "8")
+						)
+						(pin
+							(num "9")
+						)
+						(pin
+							(num "15")
+						)
+						(pin
+							(num "10")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "11")
+						)
+						(pin
+							(num "16")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "12")
+						)
+						(pin
+							(num "13")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "JP1")
+			(value "Jumper_NO_Small")
+			(footprint "Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "Jumper_NO_Small")
+				(description "")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "SolderJumper*Open*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005e3f1b37")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "MAG1")
+			(value "IIS2MDCTR")
+			(footprint "IIS2MDCTR:IIS2MDCTR")
+			(datasheet "https://www.st.com/resource/en/datasheet/iis2mdc.pdf")
+			(fields
+				(field
+					(name "Description")
+				)
+				(field
+					(name "Height") "0.7")
+				(field
+					(name "Manufacturer_Name") "STMicroelectronics")
+				(field
+					(name "Manufacturer_Part_Number") "IIS2MDCTR")
+				(field
+					(name "Mouser Part Number") "511-IIS2MDCTR")
+				(field
+					(name "Mouser Price/Stock") "https://www.mouser.com/Search/Refine.aspx?Keyword=511-IIS2MDCTR")
+				(field
+					(name "RS Part Number")
+				)
+				(field
+					(name "RS Price/Stock")
+				)
+				(field
+					(name "Footprint") "IIS2MDCTR:IIS2MDCTR")
+				(field
+					(name "Datasheet") "https://www.st.com/resource/en/datasheet/iis2mdc.pdf")
+			)
+			(libsource
+				(lib "IIS2MDCTR")
+				(part "IIS2MDCTR")
+				(description "STMICROELECTRONICS - IIS2MDCTR - MEMS MODULE, 3-AXIS MAGNETOMETER, LGA-12")
+			)
+			(property
+				(name "Description")
+				(value "STMICROELECTRONICS - IIS2MDCTR - MEMS MODULE, 3-AXIS MAGNETOMETER, LGA-12")
+			)
+			(property
+				(name "Height")
+				(value "0.7")
+			)
+			(property
+				(name "Manufacturer_Name")
+				(value "STMicroelectronics")
+			)
+			(property
+				(name "Manufacturer_Part_Number")
+				(value "IIS2MDCTR")
+			)
+			(property
+				(name "Mouser Part Number")
+				(value "511-IIS2MDCTR")
+			)
+			(property
+				(name "Mouser Price/Stock")
+				(value "https://www.mouser.com/Search/Refine.aspx?Keyword=511-IIS2MDCTR")
+			)
+			(property
+				(name "RS Part Number")
+				(value "")
+			)
+			(property
+				(name "RS Price/Stock")
+				(value "")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005de8cd2f")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "8")
+						)
+						(pin
+							(num "9")
+						)
+						(pin
+							(num "10")
+						)
+						(pin
+							(num "11")
+						)
+						(pin
+							(num "12")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "MCU1")
+			(value "STM32F405RGT6")
+			(footprint "Package_QFP:LQFP-64_10x10mm_P0.5mm")
+			(datasheet "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00037051.pdf")
+			(fields
+				(field
+					(name "Footprint") "Package_QFP:LQFP-64_10x10mm_P0.5mm")
+				(field
+					(name "Datasheet") "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00037051.pdf")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "MCU_ST_STM32F4")
+				(part "STM32F405RGTx")
+				(description "STMicroelectronics Arm Cortex-M4 MCU, 1024KB flash, 192KB RAM, 168 MHz, 1.8-3.6V, 51 GPIO, LQFP64")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "Arm Cortex-M4 STM32F4 STM32F405/415")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LQFP*10x10mm*P0.5mm*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005de8cacc")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "60")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "54")
+						)
+						(pin
+							(num "8")
+						)
+						(pin
+							(num "9")
+						)
+						(pin
+							(num "10")
+						)
+						(pin
+							(num "11")
+						)
+						(pin
+							(num "24")
+						)
+						(pin
+							(num "25")
+						)
+						(pin
+							(num "37")
+						)
+						(pin
+							(num "38")
+						)
+						(pin
+							(num "39")
+						)
+						(pin
+							(num "40")
+						)
+						(pin
+							(num "51")
+						)
+						(pin
+							(num "52")
+						)
+						(pin
+							(num "53")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "31")
+						)
+						(pin
+							(num "47")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "19")
+						)
+						(pin
+							(num "32")
+						)
+						(pin
+							(num "18")
+						)
+						(pin
+							(num "63")
+						)
+						(pin
+							(num "48")
+						)
+						(pin
+							(num "12")
+						)
+						(pin
+							(num "64")
+						)
+						(pin
+							(num "13")
+						)
+						(pin
+							(num "14")
+						)
+						(pin
+							(num "15")
+						)
+						(pin
+							(num "16")
+						)
+						(pin
+							(num "17")
+						)
+						(pin
+							(num "20")
+						)
+						(pin
+							(num "21")
+						)
+						(pin
+							(num "22")
+						)
+						(pin
+							(num "23")
+						)
+						(pin
+							(num "41")
+						)
+						(pin
+							(num "42")
+						)
+						(pin
+							(num "43")
+						)
+						(pin
+							(num "44")
+						)
+						(pin
+							(num "45")
+						)
+						(pin
+							(num "46")
+						)
+						(pin
+							(num "49")
+						)
+						(pin
+							(num "50")
+						)
+						(pin
+							(num "26")
+						)
+						(pin
+							(num "27")
+						)
+						(pin
+							(num "28")
+						)
+						(pin
+							(num "55")
+						)
+						(pin
+							(num "56")
+						)
+						(pin
+							(num "57")
+						)
+						(pin
+							(num "58")
+						)
+						(pin
+							(num "59")
+						)
+						(pin
+							(num "61")
+						)
+						(pin
+							(num "62")
+						)
+						(pin
+							(num "29")
+						)
+						(pin
+							(num "30")
+						)
+						(pin
+							(num "33")
+						)
+						(pin
+							(num "34")
+						)
+						(pin
+							(num "35")
+						)
+						(pin
+							(num "36")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "PWM1")
+			(value "PCA9685BS")
+			(footprint "Package_DFN_QFN:QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm")
+			(datasheet "http://www.nxp.com/documents/data_sheet/PCA9685.pdf")
+			(fields
+				(field
+					(name "Footprint") "Package_DFN_QFN:QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm")
+				(field
+					(name "Datasheet") "http://www.nxp.com/documents/data_sheet/PCA9685.pdf")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Driver_LED")
+				(part "PCA9685BS")
+				(description "16-channel 12-bit PWM Fm+ I2C-bus LED controller RGBA QFN")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "PWM LED driver I2C QFN")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "QFN*1EP*6x6mm*P0.65mm*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005dead9c1")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "23")
+						)
+						(pin
+							(num "24")
+						)
+						(pin
+							(num "22")
+						)
+						(pin
+							(num "20")
+						)
+						(pin
+							(num "26")
+						)
+						(pin
+							(num "27")
+						)
+						(pin
+							(num "28")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "21")
+						)
+						(pin
+							(num "29")
+						)
+						(pin
+							(num "25")
+						)
+						(pin
+							(num "11")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "8")
+						)
+						(pin
+							(num "9")
+						)
+						(pin
+							(num "10")
+						)
+						(pin
+							(num "12")
+						)
+						(pin
+							(num "13")
+						)
+						(pin
+							(num "14")
+						)
+						(pin
+							(num "15")
+						)
+						(pin
+							(num "16")
+						)
+						(pin
+							(num "17")
+						)
+						(pin
+							(num "18")
+						)
+						(pin
+							(num "19")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "PWM_PWR1")
+			(value "Conn_02x08_Odd_Even")
+			(footprint "Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Connector_PinHeader_2.54mm:PinHeader_2x08_P2.54mm_Vertical")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Connector_Generic")
+				(part "Conn_02x08_Odd_Even")
+				(description "Generic connector, double row, 02x08, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "connector")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Connector*:*_2x??_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005e044553")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "9")
+						)
+						(pin
+							(num "11")
+						)
+						(pin
+							(num "13")
+						)
+						(pin
+							(num "15")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "8")
+						)
+						(pin
+							(num "10")
+						)
+						(pin
+							(num "12")
+						)
+						(pin
+							(num "14")
+						)
+						(pin
+							(num "16")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "PWM_SIGNAL1")
+			(value "Conn_01x08")
+			(footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Connector_Generic")
+				(part "Conn_01x08")
+				(description "Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "connector")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Connector*:*_1x??_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005e0ce72b")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "8")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "PWR1")
+			(value "GR")
+			(footprint "LED_SMD:LED_0603_1608Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "LED_SMD:LED_0603_1608Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "LED")
+				(description "Light emitting diode")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "LED diode")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "LED* LED_SMD:* LED_THT:*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005dffc974")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R3")
+			(value "2k2")
+			(footprint "Resistor_SMD:R_0402_1005Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005dffce8d")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R4")
+			(value "2k2")
+			(footprint "Resistor_SMD:R_0402_1005Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005df1be4e")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R5")
+			(value "2k2")
+			(footprint "Resistor_SMD:R_0402_1005Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005df1bfd0")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R6")
+			(value "2k2")
+			(footprint "Resistor_SMD:R_0402_1005Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005df1fc35")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R7")
+			(value "2k2")
+			(footprint "Resistor_SMD:R_0402_1005Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005df1fc95")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R8")
+			(value "620")
+			(footprint "Resistor_SMD:R_0402_1005Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005de8fbcc")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R9")
+			(value "2k2")
+			(footprint "Resistor_SMD:R_0402_1005Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005e027e73")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R10")
+			(value "1k")
+			(footprint "Resistor_SMD:R_0402_1005Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005e03db75")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R11")
+			(value "1k")
+			(footprint "Resistor_SMD:R_0402_1005Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005e048791")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R12")
+			(value "1k")
+			(footprint "Resistor_SMD:R_0402_1005Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005e0533ab")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R13")
+			(value "22")
+			(footprint "Resistor_SMD:R_0402_1005Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005dee546c")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R14")
+			(value "22")
+			(footprint "Resistor_SMD:R_0402_1005Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005dee5572")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R17")
+			(value "10k")
+			(footprint "Resistor_SMD:R_0402_1005Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005e0b0286")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R18")
+			(value "10k")
+			(footprint "Resistor_SMD:R_0402_1005Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005e0b1030")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R19")
+			(value "10k")
+			(footprint "Resistor_SMD:R_0402_1005Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005e034a3e")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "R20")
+			(value "10k")
+			(footprint "Resistor_SMD:R_0402_1005Metric")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Device")
+				(part "R")
+				(description "Resistor")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "R res resistor")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "R_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005e03b72e")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "RC1")
+			(value "Conn_01x04")
+			(footprint "Connector_Molex:Molex_PicoBlade_53048-0410_1x04_P1.25mm_Horizontal")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Connector_Molex:Molex_PicoBlade_53048-0410_1x04_P1.25mm_Horizontal")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Connector_Generic")
+				(part "Conn_01x04")
+				(description "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "connector")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Connector*:*_1x??_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005e14ccbd")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "REG1")
+			(value "LD39200PU33R")
+			(footprint "LD39200PU33R:SON95P300X300X100-7N-D")
+			(datasheet "https://www.st.com/resource/en/datasheet/ld39200.pdf")
+			(fields
+				(field
+					(name "Description")
+				)
+				(field
+					(name "Height") "1")
+				(field
+					(name "Manufacturer_Name") "STMicroelectronics")
+				(field
+					(name "Manufacturer_Part_Number") "LD39200PU33R")
+				(field
+					(name "Mouser Part Number") "511-LD39200PU33R")
+				(field
+					(name "Mouser Price/Stock") "https://www.mouser.com/Search/Refine.aspx?Keyword=511-LD39200PU33R")
+				(field
+					(name "RS Part Number")
+				)
+				(field
+					(name "RS Price/Stock")
+				)
+				(field
+					(name "Footprint") "LD39200PU33R:SON95P300X300X100-7N-D")
+				(field
+					(name "Datasheet") "https://www.st.com/resource/en/datasheet/ld39200.pdf")
+			)
+			(libsource
+				(lib "LD39200PU33R")
+				(part "LD39200PU33R")
+				(description "LDO Voltage Regulators 2 A high PSRR ultra low drop linear regulator with reverse current protection")
+			)
+			(property
+				(name "Description")
+				(value "LDO Voltage Regulators 2 A high PSRR ultra low drop linear regulator with reverse current protection")
+			)
+			(property
+				(name "Height")
+				(value "1")
+			)
+			(property
+				(name "Manufacturer_Name")
+				(value "STMicroelectronics")
+			)
+			(property
+				(name "Manufacturer_Part_Number")
+				(value "LD39200PU33R")
+			)
+			(property
+				(name "Mouser Part Number")
+				(value "511-LD39200PU33R")
+			)
+			(property
+				(name "Mouser Price/Stock")
+				(value "https://www.mouser.com/Search/Refine.aspx?Keyword=511-LD39200PU33R")
+			)
+			(property
+				(name "RS Part Number")
+				(value "")
+			)
+			(property
+				(name "RS Price/Stock")
+				(value "")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005de8d091")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "RESET1")
+			(value "SKRPANE010")
+			(footprint "SKRPANE010:SKRPADE010")
+			(datasheet "https://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKRP/SKRPANE010.html")
+			(fields
+				(field
+					(name "Description")
+				)
+				(field
+					(name "Height") "2")
+				(field
+					(name "Manufacturer_Name") "ALPS")
+				(field
+					(name "Manufacturer_Part_Number") "SKRPANE010")
+				(field
+					(name "Mouser Part Number") "688-SKRPANE010")
+				(field
+					(name "Mouser Price/Stock") "https://www.mouser.com/Search/Refine.aspx?Keyword=688-SKRPANE010")
+				(field
+					(name "RS Part Number")
+				)
+				(field
+					(name "RS Price/Stock")
+				)
+				(field
+					(name "Footprint") "SKRPANE010:SKRPADE010")
+				(field
+					(name "Datasheet") "https://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKRP/SKRPANE010.html")
+			)
+			(libsource
+				(lib "SKRPANE010")
+				(part "SKRPANE010")
+				(description "")
+			)
+			(property
+				(name "Description")
+				(value "Tactile Switches 500mOhm 1.57N 16VDC 4.2X3.2X2.5MM 50mA")
+			)
+			(property
+				(name "Height")
+				(value "2")
+			)
+			(property
+				(name "Manufacturer_Name")
+				(value "ALPS")
+			)
+			(property
+				(name "Manufacturer_Part_Number")
+				(value "SKRPANE010")
+			)
+			(property
+				(name "Mouser Part Number")
+				(value "688-SKRPANE010")
+			)
+			(property
+				(name "Mouser Price/Stock")
+				(value "https://www.mouser.com/Search/Refine.aspx?Keyword=688-SKRPANE010")
+			)
+			(property
+				(name "RS Part Number")
+				(value "")
+			)
+			(property
+				(name "RS Price/Stock")
+				(value "")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005e5ca338")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SBUS1")
+			(value "Conn_01x04")
+			(footprint "Connector_Molex:Molex_PicoBlade_53048-0810_1x04_P1.25mm_Horizontal")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Connector_Molex:Molex_PicoBlade_53048-0810_1x04_P1.25mm_Horizontal")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Connector_Generic")
+				(part "Conn_01x04")
+				(description "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "connector")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Connector*:*_1x??_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005e4145d4")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SERVO1")
+			(value "TrmnlBlck")
+			(footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "TerminalBlock_Phoenix:TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Connector_Generic")
+				(part "Conn_01x02")
+				(description "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "connector")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Connector*:*_1x??_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005df2b719")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "SWD1")
+			(value "Conn_02x05_Counter_Clockwise")
+			(footprint "Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical_SMD")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical_SMD")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Connector_Generic")
+				(part "Conn_02x05_Counter_Clockwise")
+				(description "Generic connector, double row, 02x05, counter clockwise pin numbering scheme (similar to DIP package numbering), script generated (kicad-library-utils/schlib/autogen/connector/)")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "connector")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Connector*:*_2x??_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005e687cc5")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "10")
+						)
+						(pin
+							(num "9")
+						)
+						(pin
+							(num "8")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "6")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "TELEM1")
+			(value "Conn_01x04")
+			(footprint "Connector_Molex:Molex_PicoBlade_53048-0810_1x04_P1.25mm_Horizontal")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Connector_Molex:Molex_PicoBlade_53048-0810_1x04_P1.25mm_Horizontal")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Connector_Generic")
+				(part "Conn_01x04")
+				(description "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "connector")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Connector*:*_1x??_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005e43641d")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "U1")
+			(value "USBLC6-2SC6")
+			(footprint "Package_TO_SOT_SMD:SOT-23-6")
+			(datasheet "http://www2.st.com/resource/en/datasheet/CD00050750.pdf")
+			(fields
+				(field
+					(name "Footprint") "Package_TO_SOT_SMD:SOT-23-6")
+				(field
+					(name "Datasheet") "http://www2.st.com/resource/en/datasheet/CD00050750.pdf")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Power_Protection")
+				(part "USBLC6-2SC6")
+				(description "Very low capacitance ESD protection diode, 2 data-line, SOT-666")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "usb ethernet video")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "SOT?23*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005de9b905")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "U2")
+			(value "otter:CH330")
+			(footprint "Package_SO:SSOP-8_3.95x5.21x3.27mm_P1.27mm")
+			(fields
+				(field
+					(name "Footprint") "Package_SO:SSOP-8_3.95x5.21x3.27mm_P1.27mm")
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "CH330")
+				(part "otter_CH330")
+				(description "")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005e6f24ae")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "4")
+						)
+						(pin
+							(num "8")
+						)
+						(pin
+							(num "7")
+						)
+						(pin
+							(num "6")
+						)
+						(pin
+							(num "5")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "USB1")
+			(value "USB_B_Micro")
+			(footprint "Connector_USB:USB_Micro-B_Wuerth_629105150521_CircularHoles")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Connector_USB:USB_Micro-B_Wuerth_629105150521_CircularHoles")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Connector")
+				(part "USB_B_Micro")
+				(description "USB Micro Type B connector")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "connector USB micro")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "USB*Micro*B*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005de9b7d6")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "SH")
+						)
+						(pin
+							(num "5")
+						)
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "3")
+						)
+						(pin
+							(num "2")
+						)
+						(pin
+							(num "4")
+						)
+					)
+				)
+			)
+		)
+		(comp
+			(ref "VIN1")
+			(value "Conn_01x02")
+			(footprint "Connector_Molex:Molex_PicoBlade_53048-0210_1x02_P1.25mm_Horizontal")
+			(datasheet "~")
+			(fields
+				(field
+					(name "Footprint") "Connector_Molex:Molex_PicoBlade_53048-0210_1x02_P1.25mm_Horizontal")
+				(field
+					(name "Datasheet") "~")
+				(field
+					(name "Description")
+				)
+			)
+			(libsource
+				(lib "Connector_Generic")
+				(part "Conn_01x02")
+				(description "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			)
+			(property
+				(name "Sheetname")
+				(value "HadesMicro")
+			)
+			(property
+				(name "Sheetfile")
+				(value "/Users/avajones/Documents/ava_kicad/pms67_HadesFCS/HadesFCS/Hardware/HadesMicro/HadesMicro.sch")
+			)
+			(property
+				(name "ki_keywords")
+				(value "connector")
+			)
+			(property
+				(name "ki_fp_filters")
+				(value "Connector*:*_1x??_*")
+			)
+			(sheetpath
+				(names "/")
+				(tstamps "/")
+			)
+			(tstamps "00000000-0000-0000-0000-00005e14bf34")
+			(units
+				(unit
+					(name "A")
+					(pins
+						(pin
+							(num "1")
+						)
+						(pin
+							(num "2")
+						)
+					)
+				)
+			)
+		)
+	)
+	(groups)
+	(variants)
+	(libparts
+		(libpart
+			(lib "")
+			(part "BMI088_1")
+			(docs "BMI088")
+			(fields
+				(field
+					(name "Reference") "U")
+				(field
+					(name "Value") "BMI088")
+				(field
+					(name "Footprint") "PQFN50P450X300X100-16N")
+				(field
+					(name "Datasheet") "BMI088")
+				(field
+					(name "Description")
+				)
+				(field
+					(name "Field42") "None")
+				(field
+					(name "Field42") "VFLGA-16 Bosch Sensortec")
+				(field
+					(name "Field42") "Bosch Sensortec")
+				(field
+					(name "Field42") "High-performance 6-axis inertial sensor _accelerometer + gyroscope_")
+				(field
+					(name "Field42") "Unavailable")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "INT2")
+					(type "bidirectional")
+				)
+				(pin
+					(num "3")
+					(name "VDD")
+					(type "power_in")
+				)
+				(pin
+					(num "4")
+					(name "GNDA")
+					(type "power_in")
+				)
+				(pin
+					(num "5")
+					(name "CSB2")
+					(type "input")
+				)
+				(pin
+					(num "6")
+					(name "GNDIO")
+					(type "power_in")
+				)
+				(pin
+					(num "7")
+					(name "PS")
+					(type "input")
+				)
+				(pin
+					(num "8")
+					(name "SCL/SCK")
+					(type "input")
+				)
+				(pin
+					(num "9")
+					(name "SDA/SDI")
+					(type "bidirectional")
+				)
+				(pin
+					(num "10")
+					(name "SDO2")
+					(type "output")
+				)
+				(pin
+					(num "11")
+					(name "VDDIO")
+					(type "power_in")
+				)
+				(pin
+					(num "12")
+					(name "INT3")
+					(type "bidirectional")
+				)
+				(pin
+					(num "13")
+					(name "INT4")
+					(type "bidirectional")
+				)
+				(pin
+					(num "14")
+					(name "CSB1")
+					(type "input")
+				)
+				(pin
+					(num "15")
+					(name "SDO1")
+					(type "output")
+				)
+				(pin
+					(num "16")
+					(name "INT1")
+					(type "bidirectional")
+				)
+			)
+		)
+		(libpart
+			(lib "")
+			(part "BMP388_1")
+			(docs "P-Sensor SPI I2C 1, 25 Bar SMD")
+			(fields
+				(field
+					(name "Reference") "U")
+				(field
+					(name "Value") "BMP388")
+				(field
+					(name "Footprint") "PQFN50P200X200X80-10N")
+				(field
+					(name "Datasheet") "P-Sensor SPI I2C 1, 25 Bar SMD")
+				(field
+					(name "Description")
+				)
+				(field
+					(name "Field42") "WFLGA-10 Bosch Tools")
+				(field
+					(name "Field42") "BMP388")
+				(field
+					(name "Field42") "Unavailable")
+				(field
+					(name "Field42") "None")
+				(field
+					(name "Field42") "Bosch Sensortec")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "VDDIO")
+					(type "power_in")
+				)
+				(pin
+					(num "2")
+					(name "SCK")
+					(type "input")
+				)
+				(pin
+					(num "3")
+					(name "VSS")
+					(type "power_in")
+				)
+				(pin
+					(num "4")
+					(name "SDI")
+					(type "bidirectional")
+				)
+				(pin
+					(num "5")
+					(name "SDO")
+					(type "bidirectional")
+				)
+				(pin
+					(num "6")
+					(name "CSB")
+					(type "input")
+				)
+				(pin
+					(num "7")
+					(name "INT")
+					(type "output")
+				)
+				(pin
+					(num "8")
+					(name "VSS")
+					(type "power_in")
+				)
+				(pin
+					(num "9")
+					(name "VSS")
+					(type "power_in")
+				)
+				(pin
+					(num "10")
+					(name "VDD")
+					(type "power_in")
+				)
+			)
+		)
+		(libpart
+			(lib "")
+			(part "CH330_otter_CH330")
+			(fields
+				(field
+					(name "Reference") "U")
+				(field
+					(name "Value") "CH330_otter_CH330")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "UD+")
+					(type "bidirectional")
+				)
+				(pin
+					(num "2")
+					(name "UD-")
+					(type "bidirectional")
+				)
+				(pin
+					(num "3")
+					(name "GND")
+					(type "power_in")
+				)
+				(pin
+					(num "4")
+					(name "RTS")
+					(type "output")
+				)
+				(pin
+					(num "5")
+					(name "VCC")
+					(type "power_in")
+				)
+				(pin
+					(num "6")
+					(name "TXD")
+					(type "output")
+				)
+				(pin
+					(num "7")
+					(name "RXD")
+					(type "input")
+				)
+				(pin
+					(num "8")
+					(name "V3")
+					(type "power_out")
+				)
+			)
+		)
+		(libpart
+			(lib "")
+			(part "Device_CP")
+			(footprints
+				(fp "CP_*")
+			)
+			(fields
+				(field
+					(name "Reference") "C")
+				(field
+					(name "Value") "Device_CP")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "~")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "~")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "")
+			(part "Device_Ferrite_Bead_Small")
+			(footprints
+				(fp "Inductor_*")
+				(fp "L_*")
+				(fp "*Ferrite*")
+			)
+			(fields
+				(field
+					(name "Reference") "FB")
+				(field
+					(name "Value") "Device_Ferrite_Bead_Small")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "~")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "~")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "")
+			(part "Device_Jumper_NO_Small")
+			(footprints
+				(fp "SolderJumper*Open*")
+			)
+			(fields
+				(field
+					(name "Reference") "JP")
+				(field
+					(name "Value") "Device_Jumper_NO_Small")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description")
+				)
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "1")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "2")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "24CW1280T-I_OT")
+			(part "24CW1280T-I_OT")
+			(description "MICROCHIP - 24CW1280T-I/OT - EEPROM, 128KBIT, -40 TO 85DEG C")
+			(docs "http://ww1.microchip.com/downloads/en/DeviceDoc/24CW16X-24CW32X-24CW64X-24CW128X-Data-Sheet-20005772B.pdf")
+			(fields
+				(field
+					(name "Reference") "IC")
+				(field
+					(name "Value") "24CW1280T-I_OT")
+				(field
+					(name "Footprint") "SOT95P280X145-5N")
+				(field
+					(name "Datasheet") "http://ww1.microchip.com/downloads/en/DeviceDoc/24CW16X-24CW32X-24CW64X-24CW128X-Data-Sheet-20005772B.pdf")
+				(field
+					(name "Description") "MICROCHIP - 24CW1280T-I/OT - EEPROM, 128KBIT, -40 TO 85DEG C")
+				(field
+					(name "Description_1") "MICROCHIP - 24CW1280T-I/OT - EEPROM, 128KBIT, -40 TO 85DEG C")
+				(field
+					(name "Height") "1.45")
+				(field
+					(name "Manufacturer_Name") "Microchip")
+				(field
+					(name "Manufacturer_Part_Number") "24CW1280T-I/OT")
+				(field
+					(name "Mouser Part Number") "579-24CW1280T-I/OT")
+				(field
+					(name "Mouser Price/Stock") "https://www.mouser.com/Search/Refine.aspx?Keyword=579-24CW1280T-I%2FOT")
+				(field
+					(name "RS Part Number") "1871851")
+				(field
+					(name "RS Price/Stock") "http://uk.rs-online.com/web/p/products/1871851")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "SCL")
+					(type "bidirectional")
+				)
+				(pin
+					(num "2")
+					(name "VSS")
+					(type "bidirectional")
+				)
+				(pin
+					(num "3")
+					(name "SDA")
+					(type "bidirectional")
+				)
+				(pin
+					(num "4")
+					(name "VCC")
+					(type "bidirectional")
+				)
+				(pin
+					(num "5")
+					(name "NC")
+					(type "bidirectional")
+				)
+			)
+		)
+		(libpart
+			(lib "74LVC1G04GX4Z")
+			(part "74LVC1G04GX4Z")
+			(description "74LVC1G04 - Single inverter@en-us")
+			(docs "https://assets.nexperia.com/documents/data-sheet/74LVC1G04.pdf")
+			(fields
+				(field
+					(name "Reference") "IC")
+				(field
+					(name "Value") "74LVC1G04GX4Z")
+				(field
+					(name "Footprint") "74AUP1G04GX4Z")
+				(field
+					(name "Datasheet") "https://assets.nexperia.com/documents/data-sheet/74LVC1G04.pdf")
+				(field
+					(name "Description") "74LVC1G04 - Single inverter@en-us")
+				(field
+					(name "Description_1") "74LVC1G04 - Single inverter@en-us")
+				(field
+					(name "Height") "0.35")
+				(field
+					(name "Manufacturer_Name") "Nexperia")
+				(field
+					(name "Manufacturer_Part_Number") "74LVC1G04GX4Z")
+				(field
+					(name "Mouser Part Number") "771-74LVC1G04GX4Z")
+				(field
+					(name "Mouser Price/Stock") "https://www.mouser.com/Search/Refine.aspx?Keyword=771-74LVC1G04GX4Z")
+				(field
+					(name "RS Part Number")
+				)
+				(field
+					(name "RS Price/Stock")
+				)
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "A")
+					(type "unspecified")
+				)
+				(pin
+					(num "2")
+					(name "GND")
+					(type "unspecified")
+				)
+				(pin
+					(num "3")
+					(name "Y")
+					(type "unspecified")
+				)
+				(pin
+					(num "4")
+					(name "VCC")
+					(type "unspecified")
+				)
+			)
+		)
+		(libpart
+			(lib "Connector")
+			(part "USB_B_Micro")
+			(description "USB Micro Type B connector")
+			(footprints
+				(fp "USB*Micro*B*")
+			)
+			(fields
+				(field
+					(name "Reference") "J")
+				(field
+					(name "Value") "USB_B_Micro")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "USB Micro Type B connector")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "VBUS")
+					(type "power_out")
+				)
+				(pin
+					(num "2")
+					(name "D-")
+					(type "bidirectional")
+				)
+				(pin
+					(num "3")
+					(name "D+")
+					(type "bidirectional")
+				)
+				(pin
+					(num "4")
+					(name "ID")
+					(type "passive")
+				)
+				(pin
+					(num "5")
+					(name "GND")
+					(type "power_out")
+				)
+				(pin
+					(num "SH")
+					(name "Shield")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Connector_Generic")
+			(part "Conn_01x02")
+			(description "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			(footprints
+				(fp "Connector*:*_1x??_*")
+			)
+			(fields
+				(field
+					(name "Reference") "J")
+				(field
+					(name "Value") "Conn_01x02")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "Pin_1")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "Pin_2")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Connector_Generic")
+			(part "Conn_01x04")
+			(description "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			(footprints
+				(fp "Connector*:*_1x??_*")
+			)
+			(fields
+				(field
+					(name "Reference") "J")
+				(field
+					(name "Value") "Conn_01x04")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "Pin_1")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "Pin_2")
+					(type "passive")
+				)
+				(pin
+					(num "3")
+					(name "Pin_3")
+					(type "passive")
+				)
+				(pin
+					(num "4")
+					(name "Pin_4")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Connector_Generic")
+			(part "Conn_01x08")
+			(description "Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			(footprints
+				(fp "Connector*:*_1x??_*")
+			)
+			(fields
+				(field
+					(name "Reference") "J")
+				(field
+					(name "Value") "Conn_01x08")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "Pin_1")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "Pin_2")
+					(type "passive")
+				)
+				(pin
+					(num "3")
+					(name "Pin_3")
+					(type "passive")
+				)
+				(pin
+					(num "4")
+					(name "Pin_4")
+					(type "passive")
+				)
+				(pin
+					(num "5")
+					(name "Pin_5")
+					(type "passive")
+				)
+				(pin
+					(num "6")
+					(name "Pin_6")
+					(type "passive")
+				)
+				(pin
+					(num "7")
+					(name "Pin_7")
+					(type "passive")
+				)
+				(pin
+					(num "8")
+					(name "Pin_8")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Connector_Generic")
+			(part "Conn_02x05_Counter_Clockwise")
+			(description "Generic connector, double row, 02x05, counter clockwise pin numbering scheme (similar to DIP package numbering), script generated (kicad-library-utils/schlib/autogen/connector/)")
+			(footprints
+				(fp "Connector*:*_2x??_*")
+			)
+			(fields
+				(field
+					(name "Reference") "J")
+				(field
+					(name "Value") "Conn_02x05_Counter_Clockwise")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Generic connector, double row, 02x05, counter clockwise pin numbering scheme (similar to DIP package numbering), script generated (kicad-library-utils/schlib/autogen/connector/)")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "Pin_1")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "Pin_2")
+					(type "passive")
+				)
+				(pin
+					(num "3")
+					(name "Pin_3")
+					(type "passive")
+				)
+				(pin
+					(num "4")
+					(name "Pin_4")
+					(type "passive")
+				)
+				(pin
+					(num "5")
+					(name "Pin_5")
+					(type "passive")
+				)
+				(pin
+					(num "6")
+					(name "Pin_6")
+					(type "passive")
+				)
+				(pin
+					(num "7")
+					(name "Pin_7")
+					(type "passive")
+				)
+				(pin
+					(num "8")
+					(name "Pin_8")
+					(type "passive")
+				)
+				(pin
+					(num "9")
+					(name "Pin_9")
+					(type "passive")
+				)
+				(pin
+					(num "10")
+					(name "Pin_10")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Connector_Generic")
+			(part "Conn_02x08_Odd_Even")
+			(description "Generic connector, double row, 02x08, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)")
+			(footprints
+				(fp "Connector*:*_2x??_*")
+			)
+			(fields
+				(field
+					(name "Reference") "J")
+				(field
+					(name "Value") "Conn_02x08_Odd_Even")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Generic connector, double row, 02x08, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "Pin_1")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "Pin_2")
+					(type "passive")
+				)
+				(pin
+					(num "3")
+					(name "Pin_3")
+					(type "passive")
+				)
+				(pin
+					(num "4")
+					(name "Pin_4")
+					(type "passive")
+				)
+				(pin
+					(num "5")
+					(name "Pin_5")
+					(type "passive")
+				)
+				(pin
+					(num "6")
+					(name "Pin_6")
+					(type "passive")
+				)
+				(pin
+					(num "7")
+					(name "Pin_7")
+					(type "passive")
+				)
+				(pin
+					(num "8")
+					(name "Pin_8")
+					(type "passive")
+				)
+				(pin
+					(num "9")
+					(name "Pin_9")
+					(type "passive")
+				)
+				(pin
+					(num "10")
+					(name "Pin_10")
+					(type "passive")
+				)
+				(pin
+					(num "11")
+					(name "Pin_11")
+					(type "passive")
+				)
+				(pin
+					(num "12")
+					(name "Pin_12")
+					(type "passive")
+				)
+				(pin
+					(num "13")
+					(name "Pin_13")
+					(type "passive")
+				)
+				(pin
+					(num "14")
+					(name "Pin_14")
+					(type "passive")
+				)
+				(pin
+					(num "15")
+					(name "Pin_15")
+					(type "passive")
+				)
+				(pin
+					(num "16")
+					(name "Pin_16")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Device")
+			(part "C")
+			(description "Unpolarized capacitor")
+			(footprints
+				(fp "C_*")
+			)
+			(fields
+				(field
+					(name "Reference") "C")
+				(field
+					(name "Value") "C")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Unpolarized capacitor")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Device")
+			(part "Crystal_GND24")
+			(description "Four pin crystal, GND on pins 2 and 4")
+			(footprints
+				(fp "Crystal*")
+			)
+			(fields
+				(field
+					(name "Reference") "Y")
+				(field
+					(name "Value") "Crystal_GND24")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Four pin crystal, GND on pins 2 and 4")
+				(field
+					(name "KLC_S3.3") "The rectangle is not a symbol body but a graphical element")
+				(field
+					(name "KLC_S4.1") "Some pins are on 50mil grid to make the symbol small")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "1")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "G")
+					(type "passive")
+				)
+				(pin
+					(num "3")
+					(name "3")
+					(type "passive")
+				)
+				(pin
+					(num "4")
+					(name "G")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Device")
+			(part "D_Schottky")
+			(description "Schottky diode")
+			(footprints
+				(fp "TO-???*")
+				(fp "*_Diode_*")
+				(fp "*SingleDiode*")
+				(fp "D_*")
+			)
+			(fields
+				(field
+					(name "Reference") "D")
+				(field
+					(name "Value") "D_Schottky")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Schottky diode")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "K")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "A")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Device")
+			(part "Fuse")
+			(description "Fuse")
+			(footprints
+				(fp "*Fuse*")
+			)
+			(fields
+				(field
+					(name "Reference") "F")
+				(field
+					(name "Value") "Fuse")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Fuse")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Device")
+			(part "LED")
+			(description "Light emitting diode")
+			(footprints
+				(fp "LED*")
+				(fp "LED_SMD:*")
+				(fp "LED_THT:*")
+			)
+			(fields
+				(field
+					(name "Reference") "D")
+				(field
+					(name "Value") "LED")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Light emitting diode")
+				(field
+					(name "Sim.Pins") "1=K 2=A")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "K")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "A")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Device")
+			(part "R")
+			(description "Resistor")
+			(footprints
+				(fp "R_*")
+			)
+			(fields
+				(field
+					(name "Reference") "R")
+				(field
+					(name "Value") "R")
+				(field
+					(name "Footprint")
+				)
+				(field
+					(name "Datasheet")
+				)
+				(field
+					(name "Description") "Resistor")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "Driver_LED")
+			(part "PCA9685BS")
+			(description "16-channel 12-bit PWM Fm+ I2C-bus LED controller RGBA QFN")
+			(docs "http://www.nxp.com/docs/en/data-sheet/PCA9685.pdf")
+			(footprints
+				(fp "QFN*1EP*6x6mm*P0.65mm*")
+			)
+			(fields
+				(field
+					(name "Reference") "U")
+				(field
+					(name "Value") "PCA9685BS")
+				(field
+					(name "Footprint") "Package_DFN_QFN:QFN-28-1EP_6x6mm_P0.65mm_EP4.25x4.25mm")
+				(field
+					(name "Datasheet") "http://www.nxp.com/docs/en/data-sheet/PCA9685.pdf")
+				(field
+					(name "Description") "16-channel 12-bit PWM Fm+ I2C-bus LED controller RGBA QFN")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "A3")
+					(type "input")
+				)
+				(pin
+					(num "2")
+					(name "A4")
+					(type "input")
+				)
+				(pin
+					(num "3")
+					(name "LED0")
+					(type "output")
+				)
+				(pin
+					(num "4")
+					(name "LED1")
+					(type "output")
+				)
+				(pin
+					(num "5")
+					(name "LED2")
+					(type "output")
+				)
+				(pin
+					(num "6")
+					(name "LED3")
+					(type "output")
+				)
+				(pin
+					(num "7")
+					(name "LED4")
+					(type "output")
+				)
+				(pin
+					(num "8")
+					(name "LED5")
+					(type "output")
+				)
+				(pin
+					(num "9")
+					(name "LED6")
+					(type "output")
+				)
+				(pin
+					(num "10")
+					(name "LED7")
+					(type "output")
+				)
+				(pin
+					(num "11")
+					(name "VSS")
+					(type "power_in")
+				)
+				(pin
+					(num "12")
+					(name "LED8")
+					(type "output")
+				)
+				(pin
+					(num "13")
+					(name "LED9")
+					(type "output")
+				)
+				(pin
+					(num "14")
+					(name "LED10")
+					(type "output")
+				)
+				(pin
+					(num "15")
+					(name "LED11")
+					(type "output")
+				)
+				(pin
+					(num "16")
+					(name "LED12")
+					(type "output")
+				)
+				(pin
+					(num "17")
+					(name "LED13")
+					(type "output")
+				)
+				(pin
+					(num "18")
+					(name "LED14")
+					(type "output")
+				)
+				(pin
+					(num "19")
+					(name "LED15")
+					(type "output")
+				)
+				(pin
+					(num "20")
+					(name "~{OE}")
+					(type "input")
+				)
+				(pin
+					(num "21")
+					(name "A5")
+					(type "input")
+				)
+				(pin
+					(num "22")
+					(name "EXTCLK")
+					(type "input")
+				)
+				(pin
+					(num "23")
+					(name "SCL")
+					(type "input")
+				)
+				(pin
+					(num "24")
+					(name "SDA")
+					(type "bidirectional")
+				)
+				(pin
+					(num "25")
+					(name "VDD")
+					(type "power_in")
+				)
+				(pin
+					(num "26")
+					(name "A0")
+					(type "input")
+				)
+				(pin
+					(num "27")
+					(name "A1")
+					(type "input")
+				)
+				(pin
+					(num "28")
+					(name "A2")
+					(type "input")
+				)
+				(pin
+					(num "29")
+					(name "VSS")
+					(type "power_in")
+				)
+			)
+		)
+		(libpart
+			(lib "IIS2MDCTR")
+			(part "IIS2MDCTR")
+			(description "STMICROELECTRONICS - IIS2MDCTR - MEMS MODULE, 3-AXIS MAGNETOMETER, LGA-12")
+			(docs "https://www.st.com/resource/en/datasheet/iis2mdc.pdf")
+			(fields
+				(field
+					(name "Reference") "IC")
+				(field
+					(name "Value") "IIS2MDCTR")
+				(field
+					(name "Footprint") "IIS2MDCTR")
+				(field
+					(name "Datasheet") "https://www.st.com/resource/en/datasheet/iis2mdc.pdf")
+				(field
+					(name "Description") "STMICROELECTRONICS - IIS2MDCTR - MEMS MODULE, 3-AXIS MAGNETOMETER, LGA-12")
+				(field
+					(name "Description_1") "STMICROELECTRONICS - IIS2MDCTR - MEMS MODULE, 3-AXIS MAGNETOMETER, LGA-12")
+				(field
+					(name "Height") "0.7")
+				(field
+					(name "Manufacturer_Name") "STMicroelectronics")
+				(field
+					(name "Manufacturer_Part_Number") "IIS2MDCTR")
+				(field
+					(name "Mouser Part Number") "511-IIS2MDCTR")
+				(field
+					(name "Mouser Price/Stock") "https://www.mouser.com/Search/Refine.aspx?Keyword=511-IIS2MDCTR")
+				(field
+					(name "RS Part Number")
+				)
+				(field
+					(name "RS Price/Stock")
+				)
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "SCL/SPC")
+					(type "bidirectional")
+				)
+				(pin
+					(num "2")
+					(name "NC_1")
+					(type "bidirectional")
+				)
+				(pin
+					(num "3")
+					(name "CS")
+					(type "bidirectional")
+				)
+				(pin
+					(num "4")
+					(name "SDA/SDI/SDO")
+					(type "bidirectional")
+				)
+				(pin
+					(num "5")
+					(name "C1")
+					(type "bidirectional")
+				)
+				(pin
+					(num "6")
+					(name "GND_1")
+					(type "bidirectional")
+				)
+				(pin
+					(num "7")
+					(name "INT/DRDY")
+					(type "bidirectional")
+				)
+				(pin
+					(num "8")
+					(name "GND_2")
+					(type "bidirectional")
+				)
+				(pin
+					(num "9")
+					(name "VDD")
+					(type "bidirectional")
+				)
+				(pin
+					(num "10")
+					(name "VDD_IO")
+					(type "bidirectional")
+				)
+				(pin
+					(num "11")
+					(name "NC_2")
+					(type "bidirectional")
+				)
+				(pin
+					(num "12")
+					(name "NC_3")
+					(type "bidirectional")
+				)
+			)
+		)
+		(libpart
+			(lib "LD39200PU33R")
+			(part "LD39200PU33R")
+			(description "LDO Voltage Regulators 2 A high PSRR ultra low drop linear regulator with reverse current protection")
+			(docs "https://www.st.com/resource/en/datasheet/ld39200.pdf")
+			(fields
+				(field
+					(name "Reference") "IC")
+				(field
+					(name "Value") "LD39200PU33R")
+				(field
+					(name "Footprint") "SON95P300X300X100-7N-D")
+				(field
+					(name "Datasheet") "https://www.st.com/resource/en/datasheet/ld39200.pdf")
+				(field
+					(name "Description") "LDO Voltage Regulators 2 A high PSRR ultra low drop linear regulator with reverse current protection")
+				(field
+					(name "Description_1") "LDO Voltage Regulators 2 A high PSRR ultra low drop linear regulator with reverse current protection")
+				(field
+					(name "Height") "1")
+				(field
+					(name "Manufacturer_Name") "STMicroelectronics")
+				(field
+					(name "Manufacturer_Part_Number") "LD39200PU33R")
+				(field
+					(name "Mouser Part Number") "511-LD39200PU33R")
+				(field
+					(name "Mouser Price/Stock") "https://www.mouser.com/Search/Refine.aspx?Keyword=511-LD39200PU33R")
+				(field
+					(name "RS Part Number")
+				)
+				(field
+					(name "RS Price/Stock")
+				)
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "OUT")
+					(type "unspecified")
+				)
+				(pin
+					(num "2")
+					(name "ADJ/SENSE")
+					(type "unspecified")
+				)
+				(pin
+					(num "3")
+					(name "GND")
+					(type "unspecified")
+				)
+				(pin
+					(num "4")
+					(name "PG")
+					(type "unspecified")
+				)
+				(pin
+					(num "5")
+					(name "EN")
+					(type "unspecified")
+				)
+				(pin
+					(num "6")
+					(name "IN")
+					(type "unspecified")
+				)
+				(pin
+					(num "7")
+					(name "EPAD")
+					(type "unspecified")
+				)
+			)
+		)
+		(libpart
+			(lib "MCU_ST_STM32F4")
+			(part "STM32F405RGTx")
+			(description "STMicroelectronics Arm Cortex-M4 MCU, 1024KB flash, 192KB RAM, 168 MHz, 1.8-3.6V, 51 GPIO, LQFP64")
+			(docs "https://www.st.com/resource/en/datasheet/stm32f405rg.pdf")
+			(footprints
+				(fp "LQFP*10x10mm*P0.5mm*")
+			)
+			(fields
+				(field
+					(name "Reference") "U")
+				(field
+					(name "Value") "STM32F405RGTx")
+				(field
+					(name "Footprint") "Package_QFP:LQFP-64_10x10mm_P0.5mm")
+				(field
+					(name "Datasheet") "https://www.st.com/resource/en/datasheet/stm32f405rg.pdf")
+				(field
+					(name "Description") "STMicroelectronics Arm Cortex-M4 MCU, 1024KB flash, 192KB RAM, 168 MHz, 1.8-3.6V, 51 GPIO, LQFP64")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "VBAT")
+					(type "power_in")
+				)
+				(pin
+					(num "2")
+					(name "PC13")
+					(type "bidirectional")
+				)
+				(pin
+					(num "3")
+					(name "PC14")
+					(type "bidirectional")
+				)
+				(pin
+					(num "4")
+					(name "PC15")
+					(type "bidirectional")
+				)
+				(pin
+					(num "5")
+					(name "PH0")
+					(type "bidirectional")
+				)
+				(pin
+					(num "6")
+					(name "PH1")
+					(type "bidirectional")
+				)
+				(pin
+					(num "7")
+					(name "NRST")
+					(type "input")
+				)
+				(pin
+					(num "8")
+					(name "PC0")
+					(type "bidirectional")
+				)
+				(pin
+					(num "9")
+					(name "PC1")
+					(type "bidirectional")
+				)
+				(pin
+					(num "10")
+					(name "PC2")
+					(type "bidirectional")
+				)
+				(pin
+					(num "11")
+					(name "PC3")
+					(type "bidirectional")
+				)
+				(pin
+					(num "12")
+					(name "VSSA")
+					(type "power_in")
+				)
+				(pin
+					(num "13")
+					(name "VDDA")
+					(type "power_in")
+				)
+				(pin
+					(num "14")
+					(name "PA0")
+					(type "bidirectional")
+				)
+				(pin
+					(num "15")
+					(name "PA1")
+					(type "bidirectional")
+				)
+				(pin
+					(num "16")
+					(name "PA2")
+					(type "bidirectional")
+				)
+				(pin
+					(num "17")
+					(name "PA3")
+					(type "bidirectional")
+				)
+				(pin
+					(num "18")
+					(name "VSS")
+					(type "power_in")
+				)
+				(pin
+					(num "19")
+					(name "VDD")
+					(type "power_in")
+				)
+				(pin
+					(num "20")
+					(name "PA4")
+					(type "bidirectional")
+				)
+				(pin
+					(num "21")
+					(name "PA5")
+					(type "bidirectional")
+				)
+				(pin
+					(num "22")
+					(name "PA6")
+					(type "bidirectional")
+				)
+				(pin
+					(num "23")
+					(name "PA7")
+					(type "bidirectional")
+				)
+				(pin
+					(num "24")
+					(name "PC4")
+					(type "bidirectional")
+				)
+				(pin
+					(num "25")
+					(name "PC5")
+					(type "bidirectional")
+				)
+				(pin
+					(num "26")
+					(name "PB0")
+					(type "bidirectional")
+				)
+				(pin
+					(num "27")
+					(name "PB1")
+					(type "bidirectional")
+				)
+				(pin
+					(num "28")
+					(name "PB2")
+					(type "bidirectional")
+				)
+				(pin
+					(num "29")
+					(name "PB10")
+					(type "bidirectional")
+				)
+				(pin
+					(num "30")
+					(name "PB11")
+					(type "bidirectional")
+				)
+				(pin
+					(num "31")
+					(name "VCAP_1")
+					(type "power_out")
+				)
+				(pin
+					(num "32")
+					(name "VDD")
+					(type "power_in")
+				)
+				(pin
+					(num "33")
+					(name "PB12")
+					(type "bidirectional")
+				)
+				(pin
+					(num "34")
+					(name "PB13")
+					(type "bidirectional")
+				)
+				(pin
+					(num "35")
+					(name "PB14")
+					(type "bidirectional")
+				)
+				(pin
+					(num "36")
+					(name "PB15")
+					(type "bidirectional")
+				)
+				(pin
+					(num "37")
+					(name "PC6")
+					(type "bidirectional")
+				)
+				(pin
+					(num "38")
+					(name "PC7")
+					(type "bidirectional")
+				)
+				(pin
+					(num "39")
+					(name "PC8")
+					(type "bidirectional")
+				)
+				(pin
+					(num "40")
+					(name "PC9")
+					(type "bidirectional")
+				)
+				(pin
+					(num "41")
+					(name "PA8")
+					(type "bidirectional")
+				)
+				(pin
+					(num "42")
+					(name "PA9")
+					(type "bidirectional")
+				)
+				(pin
+					(num "43")
+					(name "PA10")
+					(type "bidirectional")
+				)
+				(pin
+					(num "44")
+					(name "PA11")
+					(type "bidirectional")
+				)
+				(pin
+					(num "45")
+					(name "PA12")
+					(type "bidirectional")
+				)
+				(pin
+					(num "46")
+					(name "PA13")
+					(type "bidirectional")
+				)
+				(pin
+					(num "47")
+					(name "VCAP_2")
+					(type "power_out")
+				)
+				(pin
+					(num "48")
+					(name "VDD")
+					(type "power_in")
+				)
+				(pin
+					(num "49")
+					(name "PA14")
+					(type "bidirectional")
+				)
+				(pin
+					(num "50")
+					(name "PA15")
+					(type "bidirectional")
+				)
+				(pin
+					(num "51")
+					(name "PC10")
+					(type "bidirectional")
+				)
+				(pin
+					(num "52")
+					(name "PC11")
+					(type "bidirectional")
+				)
+				(pin
+					(num "53")
+					(name "PC12")
+					(type "bidirectional")
+				)
+				(pin
+					(num "54")
+					(name "PD2")
+					(type "bidirectional")
+				)
+				(pin
+					(num "55")
+					(name "PB3")
+					(type "bidirectional")
+				)
+				(pin
+					(num "56")
+					(name "PB4")
+					(type "bidirectional")
+				)
+				(pin
+					(num "57")
+					(name "PB5")
+					(type "bidirectional")
+				)
+				(pin
+					(num "58")
+					(name "PB6")
+					(type "bidirectional")
+				)
+				(pin
+					(num "59")
+					(name "PB7")
+					(type "bidirectional")
+				)
+				(pin
+					(num "60")
+					(name "BOOT0")
+					(type "input")
+				)
+				(pin
+					(num "61")
+					(name "PB8")
+					(type "bidirectional")
+				)
+				(pin
+					(num "62")
+					(name "PB9")
+					(type "bidirectional")
+				)
+				(pin
+					(num "63")
+					(name "VSS")
+					(type "passive")
+				)
+				(pin
+					(num "64")
+					(name "VDD")
+					(type "power_in")
+				)
+			)
+		)
+		(libpart
+			(lib "Power_Protection")
+			(part "USBLC6-2SC6")
+			(description "Very low capacitance ESD protection diode, 2 data-line, SOT-23-6")
+			(docs "https://www.st.com/resource/en/datasheet/usblc6-2.pdf")
+			(footprints
+				(fp "SOT?23*")
+			)
+			(fields
+				(field
+					(name "Reference") "U")
+				(field
+					(name "Value") "USBLC6-2SC6")
+				(field
+					(name "Footprint") "Package_TO_SOT_SMD:SOT-23-6")
+				(field
+					(name "Datasheet") "https://www.st.com/resource/en/datasheet/usblc6-2.pdf")
+				(field
+					(name "Description") "Very low capacitance ESD protection diode, 2 data-line, SOT-23-6")
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "I/O1")
+					(type "passive")
+				)
+				(pin
+					(num "2")
+					(name "GND")
+					(type "passive")
+				)
+				(pin
+					(num "3")
+					(name "I/O2")
+					(type "passive")
+				)
+				(pin
+					(num "4")
+					(name "I/O2")
+					(type "passive")
+				)
+				(pin
+					(num "5")
+					(name "VBUS")
+					(type "passive")
+				)
+				(pin
+					(num "6")
+					(name "I/O1")
+					(type "passive")
+				)
+			)
+		)
+		(libpart
+			(lib "SKRPANE010")
+			(part "SKRPANE010")
+			(docs "https://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKRP/SKRPANE010.html")
+			(fields
+				(field
+					(name "Reference") "S")
+				(field
+					(name "Value") "SKRPANE010")
+				(field
+					(name "Footprint") "SKRPADE010")
+				(field
+					(name "Datasheet") "https://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKRP/SKRPANE010.html")
+				(field
+					(name "Description")
+				)
+				(field
+					(name "Description_1") "Tactile Switches 500mOhm 1.57N 16VDC 4.2X3.2X2.5MM 50mA")
+				(field
+					(name "Height") "2")
+				(field
+					(name "Manufacturer_Name") "ALPS")
+				(field
+					(name "Manufacturer_Part_Number") "SKRPANE010")
+				(field
+					(name "Mouser Part Number") "688-SKRPANE010")
+				(field
+					(name "Mouser Price/Stock") "https://www.mouser.com/Search/Refine.aspx?Keyword=688-SKRPANE010")
+				(field
+					(name "RS Part Number")
+				)
+				(field
+					(name "RS Price/Stock")
+				)
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "1")
+					(type "unspecified")
+				)
+				(pin
+					(num "2")
+					(name "2")
+					(type "unspecified")
+				)
+				(pin
+					(num "3")
+					(name "3")
+					(type "unspecified")
+				)
+				(pin
+					(num "4")
+					(name "4")
+					(type "unspecified")
+				)
+			)
+		)
+		(libpart
+			(lib "TDD01H0SB1R")
+			(part "TDD01H0SB1R")
+			(docs "https://componentsearchengine.com/Datasheets/1/TDD01H0SB1R.pdf")
+			(fields
+				(field
+					(name "Reference") "S")
+				(field
+					(name "Value") "TDD01H0SB1R")
+				(field
+					(name "Footprint") "SOT175P420X230-3N")
+				(field
+					(name "Datasheet") "https://componentsearchengine.com/Datasheets/1/TDD01H0SB1R.pdf")
+				(field
+					(name "Description")
+				)
+				(field
+					(name "Description_1") "DIP Switches / SIP Switches Jumper Switch 2 positions")
+				(field
+					(name "Height") "2.3")
+				(field
+					(name "Manufacturer_Name") "C & K COMPONENTS")
+				(field
+					(name "Manufacturer_Part_Number") "TDD01H0SB1R")
+				(field
+					(name "Mouser Part Number") "611-TDD01H0SB1R")
+				(field
+					(name "Mouser Price/Stock") "https://www.mouser.com/Search/Refine.aspx?Keyword=611-TDD01H0SB1R")
+				(field
+					(name "RS Part Number")
+				)
+				(field
+					(name "RS Price/Stock")
+				)
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "1")
+					(type "unspecified")
+				)
+				(pin
+					(num "2")
+					(name "2")
+					(type "unspecified")
+				)
+				(pin
+					(num "3")
+					(name "C")
+					(type "unspecified")
+				)
+			)
+		)
+		(libpart
+			(lib "W25N01GVZEIG_TR")
+			(part "W25N01GVZEIG_TR")
+			(description "IC FLASH 1GBIT 104MHZ 8WSON")
+			(docs "https://www.winbond.com/resource-files/w25n01gv revg 032116.pdf")
+			(fields
+				(field
+					(name "Reference") "IC")
+				(field
+					(name "Value") "W25N01GVZEIG_TR")
+				(field
+					(name "Footprint") "SON127P800X600X80-9N-D")
+				(field
+					(name "Datasheet") "https://www.winbond.com/resource-files/w25n01gv revg 032116.pdf")
+				(field
+					(name "Description") "IC FLASH 1GBIT 104MHZ 8WSON")
+				(field
+					(name "Description_1") "IC FLASH 1GBIT 104MHZ 8WSON")
+				(field
+					(name "Height") "0.8")
+				(field
+					(name "Manufacturer_Name") "Winbond")
+				(field
+					(name "Manufacturer_Part_Number") "W25N01GVZEIG TR")
+				(field
+					(name "Mouser Part Number") "454-W25N01GVZEIGTR")
+				(field
+					(name "Mouser Price/Stock") "https://www.mouser.com/Search/Refine.aspx?Keyword=454-W25N01GVZEIGTR")
+				(field
+					(name "RS Part Number")
+				)
+				(field
+					(name "RS Price/Stock")
+				)
+			)
+			(pins
+				(pin
+					(num "1")
+					(name "~{CS}")
+					(type "unspecified")
+				)
+				(pin
+					(num "2")
+					(name "DO_(IO1)")
+					(type "unspecified")
+				)
+				(pin
+					(num "3")
+					(name "~{WP_(IO2})")
+					(type "unspecified")
+				)
+				(pin
+					(num "4")
+					(name "GND")
+					(type "unspecified")
+				)
+				(pin
+					(num "5")
+					(name "DI_(IO0)")
+					(type "unspecified")
+				)
+				(pin
+					(num "6")
+					(name "CLK")
+					(type "unspecified")
+				)
+				(pin
+					(num "7")
+					(name "~{HOLD_(IO3})")
+					(type "unspecified")
+				)
+				(pin
+					(num "8")
+					(name "VCC")
+					(type "unspecified")
+				)
+				(pin
+					(num "9")
+					(name "EP")
+					(type "unspecified")
+				)
+			)
+		)
+	)
+	(libraries
+		(library
+			(logical "24CW1280T-I_OT")
+			(uri "${KIPRJMOD}/lib/24CW1280T-I_OT.lib")
+		)
+		(library
+			(logical "74LVC1G04GX4Z")
+			(uri "${KIPRJMOD}/lib/74LVC1G04GX4Z.lib")
+		)
+		(library
+			(logical "Connector")
+			(uri "${KICAD10_SYMBOL_DIR}/Connector.kicad_sym")
+		)
+		(library
+			(logical "Connector_Generic")
+			(uri "${KICAD10_SYMBOL_DIR}/Connector_Generic.kicad_sym")
+		)
+		(library
+			(logical "Device")
+			(uri "${KICAD10_SYMBOL_DIR}/Device.kicad_sym")
+		)
+		(library
+			(logical "Driver_LED")
+			(uri "${KICAD10_SYMBOL_DIR}/Driver_LED.kicad_sym")
+		)
+		(library
+			(logical "IIS2MDCTR")
+			(uri "${KIPRJMOD}/lib/IIS2MDCTR.lib")
+		)
+		(library
+			(logical "LD39200PU33R")
+			(uri "${KIPRJMOD}/lib/LD39200PU33R.lib")
+		)
+		(library
+			(logical "MCU_ST_STM32F4")
+			(uri "${KICAD10_SYMBOL_DIR}/MCU_ST_STM32F4.kicad_sym")
+		)
+		(library
+			(logical "Power_Protection")
+			(uri "${KICAD10_SYMBOL_DIR}/Power_Protection.kicad_sym")
+		)
+		(library
+			(logical "SKRPANE010")
+			(uri "${KIPRJMOD}/lib/SKRPANE010.lib")
+		)
+		(library
+			(logical "TDD01H0SB1R")
+			(uri "${KIPRJMOD}/lib/TDD01H0SB1R.lib")
+		)
+		(library
+			(logical "W25N01GVZEIG_TR")
+			(uri "${KIPRJMOD}/lib/W25N01GVZEIG_TR.lib")
+		)
+	)
+	(nets
+		(net
+			(code "1")
+			(name "+3V3")
+			(class "Default")
+			(node
+				(ref "BAR1")
+				(pin "1")
+				(pinfunction "VDDIO_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "BAR1")
+				(pin "10")
+				(pinfunction "VDD_10")
+				(pintype "power_in")
+			)
+			(node
+				(ref "BAR1")
+				(pin "6")
+				(pinfunction "CSB_6")
+				(pintype "input")
+			)
+			(node
+				(ref "BOOT0")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "BOOT1")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "C10")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C11")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C12")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C19")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C2")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C20")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C21")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C23")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C24")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C25")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C26")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C27")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C28")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C3")
+				(pin "1")
+				(pinfunction "~_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C30")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C31")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C34")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C4")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C5")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C6")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C7")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C8")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C9")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "EEPROM1")
+				(pin "4")
+				(pinfunction "VCC_4")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "FB1")
+				(pin "2")
+				(pinfunction "~_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "FLASH1")
+				(pin "8")
+				(pinfunction "VCC_8")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "GPS1")
+				(pin "1")
+				(pinfunction "Pin_1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "I2C3")
+				(pin "1")
+				(pinfunction "Pin_1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "IC1")
+				(pin "4")
+				(pinfunction "VCC_4")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "IMU1")
+				(pin "10")
+				(pinfunction "SDO2_10")
+				(pintype "output")
+			)
+			(node
+				(ref "IMU1")
+				(pin "11")
+				(pinfunction "VDDIO_11")
+				(pintype "power_in")
+			)
+			(node
+				(ref "IMU1")
+				(pin "14")
+				(pinfunction "CSB1_14")
+				(pintype "input")
+			)
+			(node
+				(ref "IMU1")
+				(pin "15")
+				(pinfunction "SDO1_15")
+				(pintype "output")
+			)
+			(node
+				(ref "IMU1")
+				(pin "3")
+				(pinfunction "VDD_3")
+				(pintype "power_in")
+			)
+			(node
+				(ref "IMU1")
+				(pin "7")
+				(pinfunction "PS_7")
+				(pintype "input")
+			)
+			(node
+				(ref "MAG1")
+				(pin "10")
+				(pinfunction "VDD_IO_10")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "MAG1")
+				(pin "3")
+				(pinfunction "CS_3")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "MAG1")
+				(pin "9")
+				(pinfunction "VDD_9")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "MCU1")
+				(pin "1")
+				(pinfunction "VBAT_1")
+				(pintype "power_in")
+			)
+			(node
+				(ref "PWM1")
+				(pin "25")
+				(pinfunction "VDD_25")
+				(pintype "power_in")
+			)
+			(node
+				(ref "PWR1")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R19")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R20")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R4")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R5")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R6")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R7")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "REG1")
+				(pin "1")
+				(pinfunction "OUT_1")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "REG1")
+				(pin "2")
+				(pinfunction "ADJ/SENSE_2")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "SBUS1")
+				(pin "1")
+				(pinfunction "Pin_1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "SWD1")
+				(pin "1")
+				(pinfunction "Pin_1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "TELEM1")
+				(pin "1")
+				(pinfunction "Pin_1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "U2")
+				(pin "5")
+				(pinfunction "VCC_5")
+				(pintype "power_in")
+			)
+		)
+		(net
+			(code "2")
+			(name "BOOT0")
+			(class "Default")
+			(node
+				(ref "R17")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "3")
+			(name "BOOT1")
+			(class "Default")
+			(node
+				(ref "R18")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "4")
+			(name "FLASH_!WP")
+			(class "Default")
+			(node
+				(ref "FLASH1")
+				(pin "3")
+				(pinfunction "~{WP_(IO2})_3")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "R20")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "5")
+			(name "GND")
+			(class "Default")
+			(node
+				(ref "BAR1")
+				(pin "3")
+				(pinfunction "VSS_3")
+				(pintype "power_in")
+			)
+			(node
+				(ref "BAR1")
+				(pin "5")
+				(pinfunction "SDO_5")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "BAR1")
+				(pin "8")
+				(pinfunction "VSS_8")
+				(pintype "power_in")
+			)
+			(node
+				(ref "BAR1")
+				(pin "9")
+				(pinfunction "VSS_9")
+				(pintype "power_in")
+			)
+			(node
+				(ref "BOOT0")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "BOOT1")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "C1")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C10")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C11")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C12")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C13")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C14")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C15")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C16")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C17")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C18")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C19")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C2")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C20")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C21")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C22")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C23")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C24")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C25")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C26")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C27")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C28")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C29")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C3")
+				(pin "2")
+				(pinfunction "~_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C30")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C31")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C32")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C33")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C34")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C4")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C5")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C6")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C7")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C8")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "C9")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "EEPROM1")
+				(pin "2")
+				(pinfunction "VSS_2")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "FLASH1")
+				(pin "4")
+				(pinfunction "GND_4")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "FLASH1")
+				(pin "9")
+				(pinfunction "EP_9")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "GPS1")
+				(pin "2")
+				(pinfunction "Pin_2_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "HSE1")
+				(pin "2")
+				(pinfunction "G_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "HSE1")
+				(pin "4")
+				(pinfunction "G_4")
+				(pintype "passive")
+			)
+			(node
+				(ref "I2C3")
+				(pin "2")
+				(pinfunction "Pin_2_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "IC1")
+				(pin "2")
+				(pinfunction "GND_2")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "IMU1")
+				(pin "4")
+				(pinfunction "GNDA_4")
+				(pintype "power_in")
+			)
+			(node
+				(ref "IMU1")
+				(pin "6")
+				(pinfunction "GNDIO_6")
+				(pintype "power_in")
+			)
+			(node
+				(ref "MAG1")
+				(pin "6")
+				(pinfunction "GND_1_6")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "MAG1")
+				(pin "8")
+				(pinfunction "GND_2_8")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "PWM1")
+				(pin "1")
+				(pinfunction "A3_1")
+				(pintype "input")
+			)
+			(node
+				(ref "PWM1")
+				(pin "11")
+				(pinfunction "VSS_11")
+				(pintype "power_in")
+			)
+			(node
+				(ref "PWM1")
+				(pin "2")
+				(pinfunction "A4_2")
+				(pintype "input")
+			)
+			(node
+				(ref "PWM1")
+				(pin "20")
+				(pinfunction "~{OE}_20")
+				(pintype "input")
+			)
+			(node
+				(ref "PWM1")
+				(pin "21")
+				(pinfunction "A5_21")
+				(pintype "input")
+			)
+			(node
+				(ref "PWM1")
+				(pin "26")
+				(pinfunction "A0_26")
+				(pintype "input")
+			)
+			(node
+				(ref "PWM1")
+				(pin "27")
+				(pinfunction "A1_27")
+				(pintype "input")
+			)
+			(node
+				(ref "PWM1")
+				(pin "28")
+				(pinfunction "A2_28")
+				(pintype "input")
+			)
+			(node
+				(ref "PWM1")
+				(pin "29")
+				(pinfunction "VSS_29")
+				(pintype "power_in")
+			)
+			(node
+				(ref "PWM_PWR1")
+				(pin "10")
+				(pinfunction "Pin_10_10")
+				(pintype "passive")
+			)
+			(node
+				(ref "PWM_PWR1")
+				(pin "12")
+				(pinfunction "Pin_12_12")
+				(pintype "passive")
+			)
+			(node
+				(ref "PWM_PWR1")
+				(pin "14")
+				(pinfunction "Pin_14_14")
+				(pintype "passive")
+			)
+			(node
+				(ref "PWM_PWR1")
+				(pin "16")
+				(pinfunction "Pin_16_16")
+				(pintype "passive")
+			)
+			(node
+				(ref "PWM_PWR1")
+				(pin "2")
+				(pinfunction "Pin_2_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "PWM_PWR1")
+				(pin "4")
+				(pinfunction "Pin_4_4")
+				(pintype "passive")
+			)
+			(node
+				(ref "PWM_PWR1")
+				(pin "6")
+				(pinfunction "Pin_6_6")
+				(pintype "passive")
+			)
+			(node
+				(ref "PWM_PWR1")
+				(pin "8")
+				(pinfunction "Pin_8_8")
+				(pintype "passive")
+			)
+			(node
+				(ref "R10")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R11")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R12")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "R3")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R9")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "REG1")
+				(pin "3")
+				(pinfunction "GND_3")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "REG1")
+				(pin "7")
+				(pinfunction "EPAD_7")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "RESET1")
+				(pin "3")
+				(pinfunction "3_3")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "RESET1")
+				(pin "4")
+				(pinfunction "4_4")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "SBUS1")
+				(pin "2")
+				(pinfunction "Pin_2_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "SERVO1")
+				(pin "2")
+				(pinfunction "Pin_2_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "SWD1")
+				(pin "2")
+				(pinfunction "Pin_2_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "SWD1")
+				(pin "3")
+				(pinfunction "Pin_3_3")
+				(pintype "passive")
+			)
+			(node
+				(ref "SWD1")
+				(pin "5")
+				(pinfunction "Pin_5_5")
+				(pintype "passive")
+			)
+			(node
+				(ref "TELEM1")
+				(pin "2")
+				(pinfunction "Pin_2_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U2")
+				(pin "3")
+				(pinfunction "GND_3")
+				(pintype "power_in")
+			)
+			(node
+				(ref "USB1")
+				(pin "5")
+				(pinfunction "GND_5")
+				(pintype "power_out")
+			)
+			(node
+				(ref "USB1")
+				(pin "SH")
+				(pinfunction "Shield_SH")
+				(pintype "passive")
+			)
+			(node
+				(ref "VIN1")
+				(pin "2")
+				(pinfunction "Pin_2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "6")
+			(name "HSE_IN")
+			(class "Default")
+			(node
+				(ref "C17")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "HSE1")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "7")
+			(name "HSE_OUT")
+			(class "Default")
+			(node
+				(ref "R8")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "8")
+			(name "I2C1_SCL")
+			(class "Default")
+			(node
+				(ref "BAR1")
+				(pin "2")
+				(pinfunction "SCK_2")
+				(pintype "input")
+			)
+			(node
+				(ref "EEPROM1")
+				(pin "1")
+				(pinfunction "SCL_1")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "IMU1")
+				(pin "8")
+				(pinfunction "SCL/SCK_8")
+				(pintype "input")
+			)
+			(node
+				(ref "MAG1")
+				(pin "1")
+				(pinfunction "SCL/SPC_1")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "PWM1")
+				(pin "23")
+				(pinfunction "SCL_23")
+				(pintype "input")
+			)
+			(node
+				(ref "R4")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "9")
+			(name "I2C1_SDA")
+			(class "Default")
+			(node
+				(ref "BAR1")
+				(pin "4")
+				(pinfunction "SDI_4")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "EEPROM1")
+				(pin "3")
+				(pinfunction "SDA_3")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "IMU1")
+				(pin "9")
+				(pinfunction "SDA/SDI_9")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "MAG1")
+				(pin "4")
+				(pinfunction "SDA/SDI/SDO_4")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "PWM1")
+				(pin "24")
+				(pinfunction "SDA_24")
+				(pintype "bidirectional")
+			)
+			(node
+				(ref "R5")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "10")
+			(name "I2C3_SCL")
+			(class "Default")
+			(node
+				(ref "I2C3")
+				(pin "3")
+				(pinfunction "Pin_3_3")
+				(pintype "passive")
+			)
+			(node
+				(ref "R6")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "11")
+			(name "I2C3_SDA")
+			(class "Default")
+			(node
+				(ref "I2C3")
+				(pin "4")
+				(pinfunction "Pin_4_4")
+				(pintype "passive")
+			)
+			(node
+				(ref "R7")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "12")
+			(name "INT_ACC")
+			(class "Default")
+			(node
+				(ref "IMU1")
+				(pin "16")
+				(pinfunction "INT1_16")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "13")
+			(name "INT_BAR")
+			(class "Default")
+			(node
+				(ref "BAR1")
+				(pin "7")
+				(pinfunction "INT_7")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "14")
+			(name "INT_GYR")
+			(class "Default")
+			(node
+				(ref "IMU1")
+				(pin "12")
+				(pinfunction "INT3_12")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "15")
+			(name "INT_MAG")
+			(class "Default")
+			(node
+				(ref "MAG1")
+				(pin "7")
+				(pinfunction "INT/DRDY_7")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "16")
+			(name "LED_A")
+			(class "Default")
+			(node
+				(ref "D1")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "17")
+			(name "LED_B")
+			(class "Default")
+			(node
+				(ref "D2")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "18")
+			(name "LED_C")
+			(class "Default")
+			(node
+				(ref "D3")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "19")
+			(name "LED_D")
+			(class "Default")
+			(node
+				(ref "D4")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "20")
+			(name "NRST")
+			(class "Default")
+			(node
+				(ref "C29")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "RESET1")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "RESET1")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "SWD1")
+				(pin "6")
+				(pinfunction "Pin_6_6")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "21")
+			(name "Net-(BOOT0-C)")
+			(class "Default")
+			(node
+				(ref "BOOT0")
+				(pin "3")
+				(pinfunction "C_3")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "R17")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "22")
+			(name "Net-(BOOT1-C)")
+			(class "Default")
+			(node
+				(ref "BOOT1")
+				(pin "3")
+				(pinfunction "C_3")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "R18")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "23")
+			(name "Net-(C18-Pad1)")
+			(class "Default")
+			(node
+				(ref "C18")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "HSE1")
+				(pin "3")
+				(pinfunction "3_3")
+				(pintype "passive")
+			)
+			(node
+				(ref "R8")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "24")
+			(name "Net-(D1-K)")
+			(class "Default")
+			(node
+				(ref "D1")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R9")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "25")
+			(name "Net-(D2-K)")
+			(class "Default")
+			(node
+				(ref "D2")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R10")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "26")
+			(name "Net-(D3-K)")
+			(class "Default")
+			(node
+				(ref "D3")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R11")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "27")
+			(name "Net-(D4-K)")
+			(class "Default")
+			(node
+				(ref "D4")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R12")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "28")
+			(name "Net-(D5-A)")
+			(class "Default")
+			(node
+				(ref "C32")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D5")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "FB2")
+				(pin "1")
+				(pinfunction "~_1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "29")
+			(name "Net-(D6-A)")
+			(class "Default")
+			(node
+				(ref "D6")
+				(pin "2")
+				(pinfunction "A_2")
+				(pintype "passive")
+			)
+			(node
+				(ref "JP1")
+				(pin "2")
+				(pinfunction "2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "30")
+			(name "Net-(F1-Pad1)")
+			(class "Default")
+			(node
+				(ref "F1")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "FB2")
+				(pin "2")
+				(pinfunction "~_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "31")
+			(name "Net-(FLASH1-~{HOLD_(IO3}))")
+			(class "Default")
+			(node
+				(ref "FLASH1")
+				(pin "7")
+				(pinfunction "~{HOLD_(IO3})_7")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "R19")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "32")
+			(name "Net-(MAG1-C1)")
+			(class "Default")
+			(node
+				(ref "C22")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "MAG1")
+				(pin "5")
+				(pinfunction "C1_5")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "33")
+			(name "Net-(MCU1-PH0)")
+			(class "Default")
+			(node
+				(ref "C13")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "MCU1")
+				(pin "5")
+				(pinfunction "PH0_5")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "34")
+			(name "Net-(MCU1-PH1)")
+			(class "Default")
+			(node
+				(ref "C14")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "MCU1")
+				(pin "6")
+				(pinfunction "PH1_6")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "35")
+			(name "Net-(MCU1-VSS-Pad18)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "18")
+				(pinfunction "VSS_18")
+				(pintype "power_in")
+			)
+			(node
+				(ref "MCU1")
+				(pin "63")
+				(pinfunction "VSS_63")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "36")
+			(name "Net-(PWM1-LED0)")
+			(class "Default")
+			(node
+				(ref "PWM1")
+				(pin "3")
+				(pinfunction "LED0_3")
+				(pintype "output")
+			)
+			(node
+				(ref "PWM_SIGNAL1")
+				(pin "1")
+				(pinfunction "Pin_1_1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "37")
+			(name "Net-(PWM1-LED1)")
+			(class "Default")
+			(node
+				(ref "PWM1")
+				(pin "4")
+				(pinfunction "LED1_4")
+				(pintype "output")
+			)
+			(node
+				(ref "PWM_SIGNAL1")
+				(pin "2")
+				(pinfunction "Pin_2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "38")
+			(name "Net-(PWM1-LED2)")
+			(class "Default")
+			(node
+				(ref "PWM1")
+				(pin "5")
+				(pinfunction "LED2_5")
+				(pintype "output")
+			)
+			(node
+				(ref "PWM_SIGNAL1")
+				(pin "3")
+				(pinfunction "Pin_3_3")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "39")
+			(name "Net-(PWM1-LED3)")
+			(class "Default")
+			(node
+				(ref "PWM1")
+				(pin "6")
+				(pinfunction "LED3_6")
+				(pintype "output")
+			)
+			(node
+				(ref "PWM_SIGNAL1")
+				(pin "4")
+				(pinfunction "Pin_4_4")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "40")
+			(name "Net-(PWM1-LED4)")
+			(class "Default")
+			(node
+				(ref "PWM1")
+				(pin "7")
+				(pinfunction "LED4_7")
+				(pintype "output")
+			)
+			(node
+				(ref "PWM_SIGNAL1")
+				(pin "5")
+				(pinfunction "Pin_5_5")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "41")
+			(name "Net-(PWM1-LED5)")
+			(class "Default")
+			(node
+				(ref "PWM1")
+				(pin "8")
+				(pinfunction "LED5_8")
+				(pintype "output")
+			)
+			(node
+				(ref "PWM_SIGNAL1")
+				(pin "6")
+				(pinfunction "Pin_6_6")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "42")
+			(name "Net-(PWM1-LED6)")
+			(class "Default")
+			(node
+				(ref "PWM1")
+				(pin "9")
+				(pinfunction "LED6_9")
+				(pintype "output")
+			)
+			(node
+				(ref "PWM_SIGNAL1")
+				(pin "7")
+				(pinfunction "Pin_7_7")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "43")
+			(name "Net-(PWM1-LED7)")
+			(class "Default")
+			(node
+				(ref "PWM1")
+				(pin "10")
+				(pinfunction "LED7_10")
+				(pintype "output")
+			)
+			(node
+				(ref "PWM_SIGNAL1")
+				(pin "8")
+				(pinfunction "Pin_8_8")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "44")
+			(name "Net-(PWM_PWR1-Pin_1)")
+			(class "Default")
+			(node
+				(ref "JP1")
+				(pin "1")
+				(pinfunction "1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "PWM_PWR1")
+				(pin "1")
+				(pinfunction "Pin_1_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "PWM_PWR1")
+				(pin "11")
+				(pinfunction "Pin_11_11")
+				(pintype "passive")
+			)
+			(node
+				(ref "PWM_PWR1")
+				(pin "13")
+				(pinfunction "Pin_13_13")
+				(pintype "passive")
+			)
+			(node
+				(ref "PWM_PWR1")
+				(pin "15")
+				(pinfunction "Pin_15_15")
+				(pintype "passive")
+			)
+			(node
+				(ref "PWM_PWR1")
+				(pin "3")
+				(pinfunction "Pin_3_3")
+				(pintype "passive")
+			)
+			(node
+				(ref "PWM_PWR1")
+				(pin "5")
+				(pinfunction "Pin_5_5")
+				(pintype "passive")
+			)
+			(node
+				(ref "PWM_PWR1")
+				(pin "7")
+				(pinfunction "Pin_7_7")
+				(pintype "passive")
+			)
+			(node
+				(ref "PWM_PWR1")
+				(pin "9")
+				(pinfunction "Pin_9_9")
+				(pintype "passive")
+			)
+			(node
+				(ref "SERVO1")
+				(pin "1")
+				(pinfunction "Pin_1_1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "45")
+			(name "Net-(PWR1-K)")
+			(class "Default")
+			(node
+				(ref "PWR1")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "R3")
+				(pin "2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "46")
+			(name "Net-(U2-RXD)")
+			(class "Default")
+			(node
+				(ref "R13")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U2")
+				(pin "7")
+				(pinfunction "RXD_7")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "47")
+			(name "Net-(U2-TXD)")
+			(class "Default")
+			(node
+				(ref "R14")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U2")
+				(pin "6")
+				(pinfunction "TXD_6")
+				(pintype "output")
+			)
+		)
+		(net
+			(code "48")
+			(name "Net-(U2-V3)")
+			(class "Default")
+			(node
+				(ref "C33")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "U2")
+				(pin "8")
+				(pinfunction "V3_8")
+				(pintype "power_out")
+			)
+		)
+		(net
+			(code "49")
+			(name "Net-(USB1-VBUS)")
+			(class "Default")
+			(node
+				(ref "F1")
+				(pin "2")
+				(pintype "passive")
+			)
+			(node
+				(ref "USB1")
+				(pin "1")
+				(pinfunction "VBUS_1")
+				(pintype "power_out")
+			)
+		)
+		(net
+			(code "50")
+			(name "SPI1_CS")
+			(class "Default")
+			(node
+				(ref "FLASH1")
+				(pin "1")
+				(pinfunction "~{CS}_1")
+				(pintype "unspecified")
+			)
+		)
+		(net
+			(code "51")
+			(name "SPI1_MISO")
+			(class "Default")
+			(node
+				(ref "FLASH1")
+				(pin "2")
+				(pinfunction "DO_(IO1)_2")
+				(pintype "unspecified")
+			)
+		)
+		(net
+			(code "52")
+			(name "SPI1_MOSI")
+			(class "Default")
+			(node
+				(ref "FLASH1")
+				(pin "5")
+				(pinfunction "DI_(IO0)_5")
+				(pintype "unspecified")
+			)
+		)
+		(net
+			(code "53")
+			(name "SPI1_SCK")
+			(class "Default")
+			(node
+				(ref "FLASH1")
+				(pin "6")
+				(pinfunction "CLK_6")
+				(pintype "unspecified")
+			)
+		)
+		(net
+			(code "54")
+			(name "SWCLK")
+			(class "Default")
+			(node
+				(ref "SWD1")
+				(pin "9")
+				(pinfunction "Pin_9_9")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "55")
+			(name "SWDIO")
+			(class "Default")
+			(node
+				(ref "SWD1")
+				(pin "10")
+				(pinfunction "Pin_10_10")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "56")
+			(name "TIM2_CH1")
+			(class "Default")
+			(node
+				(ref "RC1")
+				(pin "1")
+				(pinfunction "Pin_1_1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "57")
+			(name "TIM2_CH2")
+			(class "Default")
+			(node
+				(ref "RC1")
+				(pin "2")
+				(pinfunction "Pin_2_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "58")
+			(name "TIM2_CH3")
+			(class "Default")
+			(node
+				(ref "RC1")
+				(pin "3")
+				(pinfunction "Pin_3_3")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "59")
+			(name "TIM2_CH4")
+			(class "Default")
+			(node
+				(ref "RC1")
+				(pin "4")
+				(pinfunction "Pin_4_4")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "60")
+			(name "UART1_RX")
+			(class "Default")
+			(node
+				(ref "TELEM1")
+				(pin "4")
+				(pinfunction "Pin_4_4")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "61")
+			(name "UART1_TX")
+			(class "Default")
+			(node
+				(ref "TELEM1")
+				(pin "3")
+				(pinfunction "Pin_3_3")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "62")
+			(name "UART2_RX")
+			(class "Default")
+			(node
+				(ref "GPS1")
+				(pin "4")
+				(pinfunction "Pin_4_4")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "63")
+			(name "UART2_TX")
+			(class "Default")
+			(node
+				(ref "GPS1")
+				(pin "3")
+				(pinfunction "Pin_3_3")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "64")
+			(name "UART3_RX")
+			(class "Default")
+			(node
+				(ref "R14")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "65")
+			(name "UART3_TX")
+			(class "Default")
+			(node
+				(ref "R13")
+				(pin "1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "66")
+			(name "UART4_RX")
+			(class "Default")
+			(node
+				(ref "IC1")
+				(pin "3")
+				(pinfunction "Y_3")
+				(pintype "unspecified")
+			)
+		)
+		(net
+			(code "67")
+			(name "UART4_RX_INV")
+			(class "Default")
+			(node
+				(ref "IC1")
+				(pin "1")
+				(pinfunction "A_1")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "SBUS1")
+				(pin "4")
+				(pinfunction "Pin_4_4")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "68")
+			(name "UART4_TX")
+			(class "Default")
+			(node
+				(ref "SBUS1")
+				(pin "3")
+				(pinfunction "Pin_3_3")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "69")
+			(name "USB_CONN_D+")
+			(class "Default")
+			(node
+				(ref "USB1")
+				(pin "3")
+				(pinfunction "D+_3")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "70")
+			(name "USB_CONN_D-")
+			(class "Default")
+			(node
+				(ref "USB1")
+				(pin "2")
+				(pinfunction "D-_2")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "71")
+			(name "USB_CONV_D+")
+			(class "Default")
+			(node
+				(ref "U2")
+				(pin "1")
+				(pinfunction "UD+_1")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "72")
+			(name "USB_CONV_D-")
+			(class "Default")
+			(node
+				(ref "U2")
+				(pin "2")
+				(pinfunction "UD-_2")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "73")
+			(name "VCC")
+			(class "Default")
+			(node
+				(ref "C1")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D5")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "D6")
+				(pin "1")
+				(pinfunction "K_1")
+				(pintype "passive")
+			)
+			(node
+				(ref "REG1")
+				(pin "5")
+				(pinfunction "EN_5")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "REG1")
+				(pin "6")
+				(pinfunction "IN_6")
+				(pintype "unspecified")
+			)
+			(node
+				(ref "VIN1")
+				(pin "1")
+				(pinfunction "Pin_1_1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "74")
+			(name "VDDA")
+			(class "Default")
+			(node
+				(ref "C15")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "C16")
+				(pin "1")
+				(pintype "passive")
+			)
+			(node
+				(ref "FB1")
+				(pin "1")
+				(pinfunction "~_1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "75")
+			(name "unconnected-(EEPROM1-NC-Pad5)")
+			(class "Default")
+			(node
+				(ref "EEPROM1")
+				(pin "5")
+				(pinfunction "NC_5")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "76")
+			(name "unconnected-(IMU1-CSB2-Pad5)")
+			(class "Default")
+			(node
+				(ref "IMU1")
+				(pin "5")
+				(pinfunction "CSB2_5")
+				(pintype "input+no_connect")
+			)
+		)
+		(net
+			(code "77")
+			(name "unconnected-(IMU1-INT2-Pad1)")
+			(class "Default")
+			(node
+				(ref "IMU1")
+				(pin "1")
+				(pinfunction "INT2_1")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "78")
+			(name "unconnected-(IMU1-INT4-Pad13)")
+			(class "Default")
+			(node
+				(ref "IMU1")
+				(pin "13")
+				(pinfunction "INT4_13")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "79")
+			(name "unconnected-(MAG1-NC_1-Pad2)")
+			(class "Default")
+			(node
+				(ref "MAG1")
+				(pin "2")
+				(pinfunction "NC_1_2")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "80")
+			(name "unconnected-(MAG1-NC_2-Pad11)")
+			(class "Default")
+			(node
+				(ref "MAG1")
+				(pin "11")
+				(pinfunction "NC_2_11")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "81")
+			(name "unconnected-(MAG1-NC_3-Pad12)")
+			(class "Default")
+			(node
+				(ref "MAG1")
+				(pin "12")
+				(pinfunction "NC_3_12")
+				(pintype "bidirectional+no_connect")
+			)
+		)
+		(net
+			(code "82")
+			(name "unconnected-(MCU1-BOOT0-Pad60)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "60")
+				(pinfunction "BOOT0_60")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "83")
+			(name "unconnected-(MCU1-NRST-Pad7)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "7")
+				(pinfunction "NRST_7")
+				(pintype "input")
+			)
+		)
+		(net
+			(code "84")
+			(name "unconnected-(MCU1-PA0-Pad14)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "14")
+				(pinfunction "PA0_14")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "85")
+			(name "unconnected-(MCU1-PA1-Pad15)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "15")
+				(pinfunction "PA1_15")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "86")
+			(name "unconnected-(MCU1-PA2-Pad16)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "16")
+				(pinfunction "PA2_16")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "87")
+			(name "unconnected-(MCU1-PA3-Pad17)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "17")
+				(pinfunction "PA3_17")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "88")
+			(name "unconnected-(MCU1-PA4-Pad20)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "20")
+				(pinfunction "PA4_20")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "89")
+			(name "unconnected-(MCU1-PA5-Pad21)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "21")
+				(pinfunction "PA5_21")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "90")
+			(name "unconnected-(MCU1-PA6-Pad22)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "22")
+				(pinfunction "PA6_22")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "91")
+			(name "unconnected-(MCU1-PA7-Pad23)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "23")
+				(pinfunction "PA7_23")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "92")
+			(name "unconnected-(MCU1-PA8-Pad41)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "41")
+				(pinfunction "PA8_41")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "93")
+			(name "unconnected-(MCU1-PA9-Pad42)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "42")
+				(pinfunction "PA9_42")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "94")
+			(name "unconnected-(MCU1-PA10-Pad43)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "43")
+				(pinfunction "PA10_43")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "95")
+			(name "unconnected-(MCU1-PA11-Pad44)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "44")
+				(pinfunction "PA11_44")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "96")
+			(name "unconnected-(MCU1-PA12-Pad45)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "45")
+				(pinfunction "PA12_45")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "97")
+			(name "unconnected-(MCU1-PA13-Pad46)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "46")
+				(pinfunction "PA13_46")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "98")
+			(name "unconnected-(MCU1-PA14-Pad49)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "49")
+				(pinfunction "PA14_49")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "99")
+			(name "unconnected-(MCU1-PA15-Pad50)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "50")
+				(pinfunction "PA15_50")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "100")
+			(name "unconnected-(MCU1-PB0-Pad26)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "26")
+				(pinfunction "PB0_26")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "101")
+			(name "unconnected-(MCU1-PB1-Pad27)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "27")
+				(pinfunction "PB1_27")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "102")
+			(name "unconnected-(MCU1-PB2-Pad28)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "28")
+				(pinfunction "PB2_28")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "103")
+			(name "unconnected-(MCU1-PB3-Pad55)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "55")
+				(pinfunction "PB3_55")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "104")
+			(name "unconnected-(MCU1-PB4-Pad56)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "56")
+				(pinfunction "PB4_56")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "105")
+			(name "unconnected-(MCU1-PB5-Pad57)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "57")
+				(pinfunction "PB5_57")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "106")
+			(name "unconnected-(MCU1-PB6-Pad58)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "58")
+				(pinfunction "PB6_58")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "107")
+			(name "unconnected-(MCU1-PB7-Pad59)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "59")
+				(pinfunction "PB7_59")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "108")
+			(name "unconnected-(MCU1-PB8-Pad61)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "61")
+				(pinfunction "PB8_61")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "109")
+			(name "unconnected-(MCU1-PB9-Pad62)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "62")
+				(pinfunction "PB9_62")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "110")
+			(name "unconnected-(MCU1-PB10-Pad29)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "29")
+				(pinfunction "PB10_29")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "111")
+			(name "unconnected-(MCU1-PB11-Pad30)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "30")
+				(pinfunction "PB11_30")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "112")
+			(name "unconnected-(MCU1-PB12-Pad33)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "33")
+				(pinfunction "PB12_33")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "113")
+			(name "unconnected-(MCU1-PB13-Pad34)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "34")
+				(pinfunction "PB13_34")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "114")
+			(name "unconnected-(MCU1-PB14-Pad35)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "35")
+				(pinfunction "PB14_35")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "115")
+			(name "unconnected-(MCU1-PB15-Pad36)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "36")
+				(pinfunction "PB15_36")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "116")
+			(name "unconnected-(MCU1-PC0-Pad8)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "8")
+				(pinfunction "PC0_8")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "117")
+			(name "unconnected-(MCU1-PC1-Pad9)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "9")
+				(pinfunction "PC1_9")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "118")
+			(name "unconnected-(MCU1-PC2-Pad10)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "10")
+				(pinfunction "PC2_10")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "119")
+			(name "unconnected-(MCU1-PC3-Pad11)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "11")
+				(pinfunction "PC3_11")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "120")
+			(name "unconnected-(MCU1-PC4-Pad24)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "24")
+				(pinfunction "PC4_24")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "121")
+			(name "unconnected-(MCU1-PC5-Pad25)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "25")
+				(pinfunction "PC5_25")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "122")
+			(name "unconnected-(MCU1-PC6-Pad37)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "37")
+				(pinfunction "PC6_37")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "123")
+			(name "unconnected-(MCU1-PC7-Pad38)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "38")
+				(pinfunction "PC7_38")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "124")
+			(name "unconnected-(MCU1-PC8-Pad39)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "39")
+				(pinfunction "PC8_39")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "125")
+			(name "unconnected-(MCU1-PC9-Pad40)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "40")
+				(pinfunction "PC9_40")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "126")
+			(name "unconnected-(MCU1-PC10-Pad51)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "51")
+				(pinfunction "PC10_51")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "127")
+			(name "unconnected-(MCU1-PC11-Pad52)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "52")
+				(pinfunction "PC11_52")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "128")
+			(name "unconnected-(MCU1-PC12-Pad53)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "53")
+				(pinfunction "PC12_53")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "129")
+			(name "unconnected-(MCU1-PC13-Pad2)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "2")
+				(pinfunction "PC13_2")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "130")
+			(name "unconnected-(MCU1-PC14-Pad3)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "3")
+				(pinfunction "PC14_3")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "131")
+			(name "unconnected-(MCU1-PC15-Pad4)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "4")
+				(pinfunction "PC15_4")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "132")
+			(name "unconnected-(MCU1-PD2-Pad54)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "54")
+				(pinfunction "PD2_54")
+				(pintype "bidirectional")
+			)
+		)
+		(net
+			(code "133")
+			(name "unconnected-(MCU1-VCAP_1-Pad31)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "31")
+				(pinfunction "VCAP_1_31")
+				(pintype "power_out")
+			)
+		)
+		(net
+			(code "134")
+			(name "unconnected-(MCU1-VCAP_2-Pad47)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "47")
+				(pinfunction "VCAP_2_47")
+				(pintype "power_out")
+			)
+		)
+		(net
+			(code "135")
+			(name "unconnected-(MCU1-VDD-Pad19)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "19")
+				(pinfunction "VDD_19")
+				(pintype "power_in")
+			)
+		)
+		(net
+			(code "136")
+			(name "unconnected-(MCU1-VDD-Pad32)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "32")
+				(pinfunction "VDD_32")
+				(pintype "power_in")
+			)
+		)
+		(net
+			(code "137")
+			(name "unconnected-(MCU1-VDD-Pad48)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "48")
+				(pinfunction "VDD_48")
+				(pintype "power_in")
+			)
+		)
+		(net
+			(code "138")
+			(name "unconnected-(MCU1-VDD-Pad64)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "64")
+				(pinfunction "VDD_64")
+				(pintype "power_in")
+			)
+		)
+		(net
+			(code "139")
+			(name "unconnected-(MCU1-VDDA-Pad13)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "13")
+				(pinfunction "VDDA_13")
+				(pintype "power_in")
+			)
+		)
+		(net
+			(code "140")
+			(name "unconnected-(MCU1-VSSA-Pad12)")
+			(class "Default")
+			(node
+				(ref "MCU1")
+				(pin "12")
+				(pinfunction "VSSA_12")
+				(pintype "power_in")
+			)
+		)
+		(net
+			(code "141")
+			(name "unconnected-(PWM1-EXTCLK-Pad22)")
+			(class "Default")
+			(node
+				(ref "PWM1")
+				(pin "22")
+				(pinfunction "EXTCLK_22")
+				(pintype "input+no_connect")
+			)
+		)
+		(net
+			(code "142")
+			(name "unconnected-(PWM1-LED8-Pad12)")
+			(class "Default")
+			(node
+				(ref "PWM1")
+				(pin "12")
+				(pinfunction "LED8_12")
+				(pintype "output+no_connect")
+			)
+		)
+		(net
+			(code "143")
+			(name "unconnected-(PWM1-LED9-Pad13)")
+			(class "Default")
+			(node
+				(ref "PWM1")
+				(pin "13")
+				(pinfunction "LED9_13")
+				(pintype "output+no_connect")
+			)
+		)
+		(net
+			(code "144")
+			(name "unconnected-(PWM1-LED10-Pad14)")
+			(class "Default")
+			(node
+				(ref "PWM1")
+				(pin "14")
+				(pinfunction "LED10_14")
+				(pintype "output+no_connect")
+			)
+		)
+		(net
+			(code "145")
+			(name "unconnected-(PWM1-LED11-Pad15)")
+			(class "Default")
+			(node
+				(ref "PWM1")
+				(pin "15")
+				(pinfunction "LED11_15")
+				(pintype "output+no_connect")
+			)
+		)
+		(net
+			(code "146")
+			(name "unconnected-(PWM1-LED12-Pad16)")
+			(class "Default")
+			(node
+				(ref "PWM1")
+				(pin "16")
+				(pinfunction "LED12_16")
+				(pintype "output+no_connect")
+			)
+		)
+		(net
+			(code "147")
+			(name "unconnected-(PWM1-LED13-Pad17)")
+			(class "Default")
+			(node
+				(ref "PWM1")
+				(pin "17")
+				(pinfunction "LED13_17")
+				(pintype "output+no_connect")
+			)
+		)
+		(net
+			(code "148")
+			(name "unconnected-(PWM1-LED14-Pad18)")
+			(class "Default")
+			(node
+				(ref "PWM1")
+				(pin "18")
+				(pinfunction "LED14_18")
+				(pintype "output+no_connect")
+			)
+		)
+		(net
+			(code "149")
+			(name "unconnected-(PWM1-LED15-Pad19)")
+			(class "Default")
+			(node
+				(ref "PWM1")
+				(pin "19")
+				(pinfunction "LED15_19")
+				(pintype "output+no_connect")
+			)
+		)
+		(net
+			(code "150")
+			(name "unconnected-(REG1-PG-Pad4)")
+			(class "Default")
+			(node
+				(ref "REG1")
+				(pin "4")
+				(pinfunction "PG_4")
+				(pintype "unspecified+no_connect")
+			)
+		)
+		(net
+			(code "151")
+			(name "unconnected-(SWD1-Pin_4-Pad4)")
+			(class "Default")
+			(node
+				(ref "SWD1")
+				(pin "4")
+				(pinfunction "Pin_4_4")
+				(pintype "passive+no_connect")
+			)
+		)
+		(net
+			(code "152")
+			(name "unconnected-(SWD1-Pin_7-Pad7)")
+			(class "Default")
+			(node
+				(ref "SWD1")
+				(pin "7")
+				(pinfunction "Pin_7_7")
+				(pintype "passive+no_connect")
+			)
+		)
+		(net
+			(code "153")
+			(name "unconnected-(SWD1-Pin_8-Pad8)")
+			(class "Default")
+			(node
+				(ref "SWD1")
+				(pin "8")
+				(pinfunction "Pin_8_8")
+				(pintype "passive+no_connect")
+			)
+		)
+		(net
+			(code "154")
+			(name "unconnected-(U1-GND-Pad2)")
+			(class "Default")
+			(node
+				(ref "U1")
+				(pin "2")
+				(pinfunction "GND_2")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "155")
+			(name "unconnected-(U1-I{slash}O1-Pad1)")
+			(class "Default")
+			(node
+				(ref "U1")
+				(pin "1")
+				(pinfunction "I/O1_1")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "156")
+			(name "unconnected-(U1-I{slash}O1-Pad6)")
+			(class "Default")
+			(node
+				(ref "U1")
+				(pin "6")
+				(pinfunction "I/O1_6")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "157")
+			(name "unconnected-(U1-I{slash}O2-Pad3)")
+			(class "Default")
+			(node
+				(ref "U1")
+				(pin "3")
+				(pinfunction "I/O2_3")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "158")
+			(name "unconnected-(U1-I{slash}O2-Pad4)")
+			(class "Default")
+			(node
+				(ref "U1")
+				(pin "4")
+				(pinfunction "I/O2_4")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "159")
+			(name "unconnected-(U1-VBUS-Pad5)")
+			(class "Default")
+			(node
+				(ref "U1")
+				(pin "5")
+				(pinfunction "VBUS_5")
+				(pintype "passive")
+			)
+		)
+		(net
+			(code "160")
+			(name "unconnected-(U2-RTS-Pad4)")
+			(class "Default")
+			(node
+				(ref "U2")
+				(pin "4")
+				(pinfunction "RTS_4")
+				(pintype "output+no_connect")
+			)
+		)
+		(net
+			(code "161")
+			(name "unconnected-(USB1-ID-Pad4)")
+			(class "Default")
+			(node
+				(ref "USB1")
+				(pin "4")
+				(pinfunction "ID_4")
+				(pintype "passive+no_connect")
+			)
+		)
+	)
+)

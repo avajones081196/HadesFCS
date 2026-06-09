@@ -1,0 +1,67 @@
+WARNING: KICAD6_SYMBOL_DIR environment variable is missing, so the default KiCad symbol libraries won't be searched. @ [/sessions/gallant-gracious-fermat/work/hades_build/HadesGPSDongle/<frozen importlib._bootstrap_external>:883=>/sessions/gallant-gracious-fermat/work/hades_build/HadesGPSDongle/<frozen importlib._bootstrap>:241]
+WARNING: KICAD9_SYMBOL_DIR environment variable is missing, so the default KiCad symbol libraries won't be searched. @ [/sessions/gallant-gracious-fermat/work/hades_build/HadesGPSDongle/<frozen importlib._bootstrap_external>:883=>/sessions/gallant-gracious-fermat/work/hades_build/HadesGPSDongle/<frozen importlib._bootstrap>:241]
+WARNING: KICAD7_SYMBOL_DIR environment variable is missing, so the default KiCad symbol libraries won't be searched. @ [/sessions/gallant-gracious-fermat/work/hades_build/HadesGPSDongle/<frozen importlib._bootstrap_external>:883=>/sessions/gallant-gracious-fermat/work/hades_build/HadesGPSDongle/<frozen importlib._bootstrap>:241]
+WARNING: KICAD8_SYMBOL_DIR environment variable is missing, so the default KiCad symbol libraries won't be searched. @ [/sessions/gallant-gracious-fermat/work/hades_build/HadesGPSDongle/<frozen importlib._bootstrap_external>:883=>/sessions/gallant-gracious-fermat/work/hades_build/HadesGPSDongle/<frozen importlib._bootstrap>:241]
+WARNING: KICAD_SYMBOL_DIR environment variable is missing, so the default KiCad symbol libraries won't be searched. @ [/sessions/gallant-gracious-fermat/work/hades_build/HadesGPSDongle/<frozen importlib._bootstrap_external>:883=>/sessions/gallant-gracious-fermat/work/hades_build/HadesGPSDongle/<frozen importlib._bootstrap>:241]
+WARNING: fp-lib-table file was not found. Component footprints are not available.
+WARNING: fp-lib-table file was not found. Component footprints are not available.
+WARNING: fp-lib-table file was not found. Component footprints are not available.
+WARNING: fp-lib-table file was not found. Component footprints are not available.
+WARNING: Missing tag on 2u2 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesGPSDongle/HadesGPSDongle.py:42.
+WARNING: Random tag jDtiCnWnD4 generated for 2u2.
+WARNING: Missing tag on 100n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesGPSDongle/HadesGPSDongle.py:49.
+WARNING: Random tag zbNuXWtxly generated for 100n.
+WARNING: Missing tag on 10n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesGPSDongle/HadesGPSDongle.py:56.
+WARNING: Random tag oLZuCWHW2A generated for 10n.
+WARNING: Missing tag on 56p instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesGPSDongle/HadesGPSDongle.py:63.
+WARNING: Random tag wGup_7D7nY generated for 56p.
+WARNING: Missing tag on 56p instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesGPSDongle/HadesGPSDongle.py:70.
+WARNING: Random tag iSOubUNQIO generated for 56p.
+WARNING: Missing tag on 10p instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesGPSDongle/HadesGPSDongle.py:77.
+WARNING: Random tag Mja8crpEtC generated for 10p.
+WARNING: Missing tag on 100p instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesGPSDongle/HadesGPSDongle.py:84.
+WARNING: Random tag u9axtJ4EUd generated for 100p.
+WARNING: Missing tag on 100p instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesGPSDongle/HadesGPSDongle.py:91.
+WARNING: Random tag dyPFL1e9cO generated for 100p.
+WARNING: Missing tag on GREEN instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesGPSDongle/HadesGPSDongle.py:98.
+WARNING: Random tag O6DNRPSISa generated for GREEN.
+WARNING: Missing tag on BLUE instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesGPSDongle/HadesGPSDongle.py:105.
+WARNING: Random tag Z8OoDJ8N3Q generated for BLUE.
+WARNING: Missing tag on JSTGH instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesGPSDongle/HadesGPSDongle.py:112.
+WARNING: Random tag imnjdJDN4k generated for JSTGH.
+WARNING: Missing tag on CONUFL001-SMD-T instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesGPSDongle/HadesGPSDongle.py:119.
+WARNING: Random tag Ob702hPyMu generated for CONUFL001-SMD-T.
+WARNING: Missing tag on CONSMA002 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesGPSDongle/HadesGPSDongle.py:126.
+WARNING: Random tag wddfaV4HJM generated for CONSMA002.
+WARNING: Missing tag on 27n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesGPSDongle/HadesGPSDongle.py:133.
+WARNING: Random tag bGJrfDiDSP generated for 27n.
+WARNING: Missing tag on 88n instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesGPSDongle/HadesGPSDongle.py:140.
+WARNING: Random tag ovRE5KfDTU generated for 88n.
+WARNING: Missing tag on AO3401A instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesGPSDongle/HadesGPSDongle.py:147.
+WARNING: Random tag 3eb23u5ZPG generated for AO3401A.
+WARNING: Missing tag on MMBT3904 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesGPSDongle/HadesGPSDongle.py:154.
+WARNING: Random tag ZBvCb4Y1ja generated for MMBT3904.
+WARNING: Missing tag on 2k2 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesGPSDongle/HadesGPSDongle.py:161.
+WARNING: Random tag _RKmh06jJO generated for 2k2.
+WARNING: Missing tag on 10k instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesGPSDongle/HadesGPSDongle.py:168.
+WARNING: Random tag 9bOQuuudpj generated for 10k.
+WARNING: Missing tag on 10k instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesGPSDongle/HadesGPSDongle.py:175.
+WARNING: Random tag oCa5N3EYNY generated for 10k.
+WARNING: Missing tag on 10k instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesGPSDongle/HadesGPSDongle.py:182.
+WARNING: Random tag AqP3Cwj4jY generated for 10k.
+WARNING: Missing tag on 22 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesGPSDongle/HadesGPSDongle.py:189.
+WARNING: Random tag wTOp24AI9V generated for 22.
+WARNING: Missing tag on 22 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesGPSDongle/HadesGPSDongle.py:196.
+WARNING: Random tag Y6SUZ22PVQ generated for 22.
+WARNING: Missing tag on 1k instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesGPSDongle/HadesGPSDongle.py:203.
+WARNING: Random tag yBBwCNb3SC generated for 1k.
+WARNING: Missing tag on 2k2 instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesGPSDongle/HadesGPSDongle.py:210.
+WARNING: Random tag YDD7S2vLXj generated for 2k2.
+WARNING: Missing tag on TESEO-LIV3R instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesGPSDongle/HadesGPSDongle.py:217.
+WARNING: Random tag DbprXg7mAg generated for TESEO-LIV3R.
+WARNING: Missing tag on MAX2674EWT+T instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesGPSDongle/HadesGPSDongle.py:224.
+WARNING: Random tag iso9ZeFp9p generated for MAX2674EWT+T.
+WARNING: Missing tag on  instantiated at /sessions/gallant-gracious-fermat/work/hades_build/HadesGPSDongle/<frozen importlib._bootstrap>:241.
+INFO: 59 warnings found while generating netlist.
+INFO: 0 errors found while generating netlist.
+

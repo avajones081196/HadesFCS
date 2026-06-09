@@ -1,0 +1,1137 @@
+(export 
+  (version "D")
+  (design
+    (source "HadesGPSDongle.py")
+    (date "06/09/2026 03:36 AM")
+    (tool "SKiDL (2.2.3)")
+    (sheet
+      (number 1)
+      (name "/")
+      (tstamps "/")
+      (title_block
+        (title)
+        (company)
+        (rev)
+        (date)
+        (source "HadesGPSDongle.py")
+        (comment
+          (number "1")
+          (value ""))
+        (comment
+          (number "2")
+          (value ""))
+        (comment
+          (number "3")
+          (value ""))
+        (comment
+          (number "4")
+          (value ""))
+        (comment
+          (number "5")
+          (value ""))
+        (comment
+          (number "6")
+          (value ""))
+        (comment
+          (number "7")
+          (value ""))
+        (comment
+          (number "8")
+          (value ""))
+        (comment
+          (number "9")
+          (value "")))))
+  (components
+    (comp
+      (ref "C1")
+      (value "2u2")
+      (description "")
+      (footprint "Capacitor_SMD:C_0603_1608Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0603_1608Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "jDtiCnWnD4")
+        (field
+          (name "SKiDL Line") "HadesGPSDongle.py:42"))
+      (libsource
+        (lib "NO_LIB")
+        (part "2u2"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "c2b36c81-f7d5-5f09-869d-4da837bc6f57"))
+    (comp
+      (ref "C2")
+      (value "100n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "zbNuXWtxly")
+        (field
+          (name "SKiDL Line") "HadesGPSDongle.py:49"))
+      (libsource
+        (lib "NO_LIB")
+        (part "100n"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "723a6e6a-dcd5-5ff8-a38c-ec890e20a1a9"))
+    (comp
+      (ref "C3")
+      (value "10n")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "oLZuCWHW2A")
+        (field
+          (name "SKiDL Line") "HadesGPSDongle.py:56"))
+      (libsource
+        (lib "NO_LIB")
+        (part "10n"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "47402224-6044-5794-be15-e101c46dd50f"))
+    (comp
+      (ref "C4")
+      (value "56p")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "wGup_7D7nY")
+        (field
+          (name "SKiDL Line") "HadesGPSDongle.py:63"))
+      (libsource
+        (lib "NO_LIB")
+        (part "56p"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "70e2cc9d-5d87-5f35-a71b-375105b6081c"))
+    (comp
+      (ref "C5")
+      (value "56p")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "iSOubUNQIO")
+        (field
+          (name "SKiDL Line") "HadesGPSDongle.py:70"))
+      (libsource
+        (lib "NO_LIB")
+        (part "56p"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "8f9fefec-7879-5c2e-a9ba-b25a8bb9a5c0"))
+    (comp
+      (ref "C6")
+      (value "10p")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "Mja8crpEtC")
+        (field
+          (name "SKiDL Line") "HadesGPSDongle.py:77"))
+      (libsource
+        (lib "NO_LIB")
+        (part "10p"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "339685e9-2798-574b-9a84-a5d42d4f9987"))
+    (comp
+      (ref "C7")
+      (value "100p")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "u9axtJ4EUd")
+        (field
+          (name "SKiDL Line") "HadesGPSDongle.py:84"))
+      (libsource
+        (lib "NO_LIB")
+        (part "100p"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "93996b92-b8df-5c05-80a0-c081a727c5d3"))
+    (comp
+      (ref "C8")
+      (value "100p")
+      (description "")
+      (footprint "Capacitor_SMD:C_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Capacitor_SMD:C_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "dyPFL1e9cO")
+        (field
+          (name "SKiDL Line") "HadesGPSDongle.py:91"))
+      (libsource
+        (lib "NO_LIB")
+        (part "100p"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "05ff60ee-e728-595d-af5c-9b87baa2e7f3"))
+    (comp
+      (ref "D1")
+      (value "GREEN")
+      (description "")
+      (footprint "LED_SMD:LED_0603_1608Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "LED_SMD:LED_0603_1608Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "O6DNRPSISa")
+        (field
+          (name "SKiDL Line") "HadesGPSDongle.py:98"))
+      (libsource
+        (lib "NO_LIB")
+        (part "GREEN"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "37f1a6df-e72a-5c81-816d-ebfd64996c7d"))
+    (comp
+      (ref "D2")
+      (value "BLUE")
+      (description "")
+      (footprint "LED_SMD:LED_0603_1608Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "LED_SMD:LED_0603_1608Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "Z8OoDJ8N3Q")
+        (field
+          (name "SKiDL Line") "HadesGPSDongle.py:105"))
+      (libsource
+        (lib "NO_LIB")
+        (part "BLUE"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "79d19a58-7786-593a-b7f2-bede7a00a3f6"))
+    (comp
+      (ref "J1")
+      (value "JSTGH")
+      (description "")
+      (footprint "Connector_JST:JST_GH_SM06B-GHS-TB_1x06-1MP_P1.25mm_Horizontal")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Connector_JST:JST_GH_SM06B-GHS-TB_1x06-1MP_P1.25mm_Horizontal")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "imnjdJDN4k")
+        (field
+          (name "SKiDL Line") "HadesGPSDongle.py:112"))
+      (libsource
+        (lib "NO_LIB")
+        (part "JSTGH"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "e7ac5af6-d765-5c66-b063-02f5255a3a1d"))
+    (comp
+      (ref "J2")
+      (value "CONUFL001-SMD-T")
+      (description "")
+      (footprint "CONUFL001-SMD-T:CONUFL001-SMD")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "CONUFL001-SMD-T:CONUFL001-SMD")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "Ob702hPyMu")
+        (field
+          (name "SKiDL Line") "HadesGPSDongle.py:119"))
+      (libsource
+        (lib "NO_LIB")
+        (part "CONUFL001-SMD-T"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "55855e47-b523-5ed2-8f21-b8e45c83349c"))
+    (comp
+      (ref "J3")
+      (value "CONSMA002")
+      (description "")
+      (footprint "CONSMA002:CONSMA002")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "CONSMA002:CONSMA002")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "wddfaV4HJM")
+        (field
+          (name "SKiDL Line") "HadesGPSDongle.py:126"))
+      (libsource
+        (lib "NO_LIB")
+        (part "CONSMA002"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "dabe82bc-4fe4-5567-b87f-5abc64cbfa58"))
+    (comp
+      (ref "L1")
+      (value "27n")
+      (description "")
+      (footprint "Inductor_SMD:L_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Inductor_SMD:L_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "bGJrfDiDSP")
+        (field
+          (name "SKiDL Line") "HadesGPSDongle.py:133"))
+      (libsource
+        (lib "NO_LIB")
+        (part "27n"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "d8acd95b-ce79-56d2-a538-b8eaad05d024"))
+    (comp
+      (ref "L2")
+      (value "88n")
+      (description "")
+      (footprint "Inductor_SMD:L_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Inductor_SMD:L_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "ovRE5KfDTU")
+        (field
+          (name "SKiDL Line") "HadesGPSDongle.py:140"))
+      (libsource
+        (lib "NO_LIB")
+        (part "88n"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "d3796f16-b1db-57c3-8b37-c84157430a5a"))
+    (comp
+      (ref "Q1")
+      (value "AO3401A")
+      (description "")
+      (footprint "Package_TO_SOT_SMD:SOT-23")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Package_TO_SOT_SMD:SOT-23")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "3eb23u5ZPG")
+        (field
+          (name "SKiDL Line") "HadesGPSDongle.py:147"))
+      (libsource
+        (lib "NO_LIB")
+        (part "AO3401A"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "1fd8df4e-30c6-5bf2-a512-e532444cf049"))
+    (comp
+      (ref "Q2")
+      (value "MMBT3904")
+      (description "")
+      (footprint "Package_TO_SOT_SMD:SOT-23")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Package_TO_SOT_SMD:SOT-23")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "ZBvCb4Y1ja")
+        (field
+          (name "SKiDL Line") "HadesGPSDongle.py:154"))
+      (libsource
+        (lib "NO_LIB")
+        (part "MMBT3904"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "88bc4e17-764b-5704-a000-330e78a4c362"))
+    (comp
+      (ref "R1")
+      (value "2k2")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "_RKmh06jJO")
+        (field
+          (name "SKiDL Line") "HadesGPSDongle.py:161"))
+      (libsource
+        (lib "NO_LIB")
+        (part "2k2"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "ffb26ce4-d9ed-541b-98ab-9a7724ec8660"))
+    (comp
+      (ref "R2")
+      (value "10k")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "9bOQuuudpj")
+        (field
+          (name "SKiDL Line") "HadesGPSDongle.py:168"))
+      (libsource
+        (lib "NO_LIB")
+        (part "10k"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "db77507d-eadd-5cf7-96e4-9fd8b78fa420"))
+    (comp
+      (ref "R3")
+      (value "10k")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "oCa5N3EYNY")
+        (field
+          (name "SKiDL Line") "HadesGPSDongle.py:175"))
+      (libsource
+        (lib "NO_LIB")
+        (part "10k"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "af65763d-0d25-5d6b-aa7e-d01760f38e09"))
+    (comp
+      (ref "R4")
+      (value "10k")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "AqP3Cwj4jY")
+        (field
+          (name "SKiDL Line") "HadesGPSDongle.py:182"))
+      (libsource
+        (lib "NO_LIB")
+        (part "10k"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "2d528b27-f529-53e8-8753-e63f5699fc09"))
+    (comp
+      (ref "R5")
+      (value "22")
+      (description "")
+      (footprint "Resistor_SMD:R_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "wTOp24AI9V")
+        (field
+          (name "SKiDL Line") "HadesGPSDongle.py:189"))
+      (libsource
+        (lib "NO_LIB")
+        (part "22"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "bedc9262-61cb-5406-8bdf-1d24ef50a93f"))
+    (comp
+      (ref "R6")
+      (value "22")
+      (description "")
+      (footprint "Resistor_SMD:R_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "Y6SUZ22PVQ")
+        (field
+          (name "SKiDL Line") "HadesGPSDongle.py:196"))
+      (libsource
+        (lib "NO_LIB")
+        (part "22"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "7ba079b8-6592-5bc7-825d-716c85125be3"))
+    (comp
+      (ref "R7")
+      (value "1k")
+      (description "")
+      (footprint "Resistor_SMD:R_0402_1005Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0402_1005Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "yBBwCNb3SC")
+        (field
+          (name "SKiDL Line") "HadesGPSDongle.py:203"))
+      (libsource
+        (lib "NO_LIB")
+        (part "1k"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "b6965f53-ccb9-5e1c-87ea-22c980749876"))
+    (comp
+      (ref "R8")
+      (value "2k2")
+      (description "")
+      (footprint "Resistor_SMD:R_0603_1608Metric")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "Resistor_SMD:R_0603_1608Metric")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "YDD7S2vLXj")
+        (field
+          (name "SKiDL Line") "HadesGPSDongle.py:210"))
+      (libsource
+        (lib "NO_LIB")
+        (part "2k2"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "273fb0b4-8676-5d76-b140-028e4c1a855b"))
+    (comp
+      (ref "U1")
+      (value "TESEO-LIV3R")
+      (description "")
+      (footprint "TESEO-LIV3R:TESEOLIV3R")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "TESEO-LIV3R:TESEOLIV3R")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "DbprXg7mAg")
+        (field
+          (name "SKiDL Line") "HadesGPSDongle.py:217"))
+      (libsource
+        (lib "NO_LIB")
+        (part "TESEO-LIV3R"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "c4e89155-2888-5333-b077-9ff69d74ffe8"))
+    (comp
+      (ref "U2")
+      (value "MAX2674EWT+T")
+      (description "")
+      (footprint "SchmillipKiCADLibrary:MAX2674EWT+T")
+      (fields
+        (field
+          (name "Description"))
+        (field
+          (name "Footprint") "SchmillipKiCADLibrary:MAX2674EWT+T")
+        (field
+          (name "Datasheet"))
+        (field
+          (name "SKiDL Tag") "iso9ZeFp9p")
+        (field
+          (name "SKiDL Line") "HadesGPSDongle.py:224"))
+      (libsource
+        (lib "NO_LIB")
+        (part "MAX2674EWT+T"))
+      (sheetpath
+        (names "/")
+        (tstamps "/"))
+      (component_classes)
+      (tstamps "f7e4166a-fd9a-5ab8-b9e9-0b7489e1ad0f")))
+  (nets
+    (net
+      (code 1)
+      (name "+3.3V")
+      (class "Default")
+      (node
+        (ref "C1")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C2")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C3")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "D1")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "D2")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "L1")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "Q1")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "R2")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "R3")
+        (pin "1")
+        (pintype "POWER-IN")))
+    (net
+      (code 2)
+      (name "ANT_ACTIVE")
+      (class "Default")
+      (node
+        (ref "J3")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U2")
+        (pin "C2")
+        (pintype "POWER-IN")))
+    (net
+      (code 3)
+      (name "ANT_PASSIVE")
+      (class "Default")
+      (node
+        (ref "C7")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "J2")
+        (pin "1")
+        (pintype "POWER-IN")))
+    (net
+      (code 4)
+      (name "GND")
+      (class "Default")
+      (node
+        (ref "C1")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C2")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C3")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C4")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C5")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C6")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "J1")
+        (pin "6")
+        (pintype "POWER-IN"))
+      (node
+        (ref "J2")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "J2")
+        (pin "3")
+        (pintype "POWER-IN"))
+      (node
+        (ref "J3")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "J3")
+        (pin "3")
+        (pintype "POWER-IN"))
+      (node
+        (ref "J3")
+        (pin "4")
+        (pintype "POWER-IN"))
+      (node
+        (ref "J3")
+        (pin "5")
+        (pintype "POWER-IN"))
+      (node
+        (ref "Q1")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "Q2")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "R1")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "R4")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U1")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U1")
+        (pin "10")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U1")
+        (pin "12")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U2")
+        (pin "B2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U2")
+        (pin "C1")
+        (pintype "POWER-IN")))
+    (net
+      (code 5)
+      (name "GPS_!RST")
+      (class "Default")
+      (node
+        (ref "J1")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "R2")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U1")
+        (pin "9")
+        (pintype "POWER-IN")))
+    (net
+      (code 6)
+      (name "GPS_PPS")
+      (class "Default")
+      (node
+        (ref "R7")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U1")
+        (pin "4")
+        (pintype "POWER-IN")))
+    (net
+      (code 7)
+      (name "GPS_WAKEUP")
+      (class "Default")
+      (node
+        (ref "J1")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "R3")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U1")
+        (pin "5")
+        (pintype "POWER-IN")))
+    (net
+      (code 8)
+      (name "LNA_OUT")
+      (class "Default")
+      (node
+        (ref "C8")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U1")
+        (pin "11")
+        (pintype "POWER-IN")))
+    (net
+      (code 9)
+      (name "Net-(C7-Pad1)")
+      (class "Default")
+      (node
+        (ref "C7")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "L2")
+        (pin "1")
+        (pintype "POWER-IN")))
+    (net
+      (code 10)
+      (name "Net-(D1-K)")
+      (class "Default")
+      (node
+        (ref "D1")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "R1")
+        (pin "1")
+        (pintype "POWER-IN")))
+    (net
+      (code 11)
+      (name "Net-(D2-K)")
+      (class "Default")
+      (node
+        (ref "D2")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "R8")
+        (pin "1")
+        (pintype "POWER-IN")))
+    (net
+      (code 12)
+      (name "Net-(J1-Pin_5)")
+      (class "Default")
+      (node
+        (ref "J1")
+        (pin "5")
+        (pintype "POWER-IN"))
+      (node
+        (ref "Q1")
+        (pin "3")
+        (pintype "POWER-IN")))
+    (net
+      (code 13)
+      (name "Net-(Q2-B)")
+      (class "Default")
+      (node
+        (ref "Q2")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "R7")
+        (pin "2")
+        (pintype "POWER-IN")))
+    (net
+      (code 14)
+      (name "Net-(Q2-C)")
+      (class "Default")
+      (node
+        (ref "Q2")
+        (pin "3")
+        (pintype "POWER-IN"))
+      (node
+        (ref "R8")
+        (pin "2")
+        (pintype "POWER-IN")))
+    (net
+      (code 15)
+      (name "Net-(U1-ANT_OFF)")
+      (class "Default")
+      (node
+        (ref "R4")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U1")
+        (pin "13")
+        (pintype "POWER-IN")))
+    (net
+      (code 16)
+      (name "Net-(U1-RX)")
+      (class "Default")
+      (node
+        (ref "R5")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U1")
+        (pin "3")
+        (pintype "POWER-IN")))
+    (net
+      (code 17)
+      (name "Net-(U1-TX)")
+      (class "Default")
+      (node
+        (ref "R6")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U1")
+        (pin "2")
+        (pintype "POWER-IN")))
+    (net
+      (code 18)
+      (name "Net-(U2-RFIN)")
+      (class "Default")
+      (node
+        (ref "L2")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U2")
+        (pin "B1")
+        (pintype "POWER-IN")))
+    (net
+      (code 19)
+      (name "Net-(U2-RFOUT{slash}~{SHDN})")
+      (class "Default")
+      (node
+        (ref "C8")
+        (pin "2")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U2")
+        (pin "A2")
+        (pintype "POWER-IN")))
+    (net
+      (code 20)
+      (name "UART_RX")
+      (class "Default")
+      (node
+        (ref "J1")
+        (pin "3")
+        (pintype "POWER-IN"))
+      (node
+        (ref "R5")
+        (pin "2")
+        (pintype "POWER-IN")))
+    (net
+      (code 21)
+      (name "UART_TX")
+      (class "Default")
+      (node
+        (ref "J1")
+        (pin "4")
+        (pintype "POWER-IN"))
+      (node
+        (ref "R6")
+        (pin "2")
+        (pintype "POWER-IN")))
+    (net
+      (code 22)
+      (name "VCC")
+      (class "Default")
+      (node
+        (ref "C4")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "L1")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U1")
+        (pin "6")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U1")
+        (pin "7")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U1")
+        (pin "8")
+        (pintype "POWER-IN")))
+    (net
+      (code 23)
+      (name "VCC_RF")
+      (class "Default")
+      (node
+        (ref "C5")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "C6")
+        (pin "1")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U1")
+        (pin "14")
+        (pintype "POWER-IN"))
+      (node
+        (ref "U2")
+        (pin "A1")
+        (pintype "POWER-IN")))
+    (net
+      (code 24)
+      (name "unconnected-(U1-RESERVED_1-Pad15)")
+      (class "Default")
+      (node
+        (ref "U1")
+        (pin "15")
+        (pintype "POWER-IN")))
+    (net
+      (code 25)
+      (name "unconnected-(U1-RESERVED_2-Pad18)")
+      (class "Default")
+      (node
+        (ref "U1")
+        (pin "18")
+        (pintype "POWER-IN")))
+    (net
+      (code 26)
+      (name "unconnected-(U1-SCL-Pad17)")
+      (class "Default")
+      (node
+        (ref "U1")
+        (pin "17")
+        (pintype "POWER-IN")))
+    (net
+      (code 27)
+      (name "unconnected-(U1-SDA-Pad16)")
+      (class "Default")
+      (node
+        (ref "U1")
+        (pin "16")
+        (pintype "POWER-IN")))))
